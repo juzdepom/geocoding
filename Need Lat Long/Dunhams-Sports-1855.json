@@ -1,432 +1,432 @@
 [
- {
-   "Name": 1,
-   "Address1": "7320 Orchard Lake Road",
-   "Address2": null,
-   "City": "West Bloomfield",
-   "State": "MI",
-   "Postal": 48322,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 3,
-   "Address1": "3900 W. Bethel",
-   "Address2": null,
-   "City": "Muncie",
-   "State": "IN",
-   "Postal": 47304,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 4,
-   "Address1": "1716 Scatterfield",
-   "Address2": null,
-   "City": "Anderson",
-   "State": "IN",
-   "Postal": 46016,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 5,
-   "Address1": "23150 W. Outer Drive",
-   "Address2": null,
-   "City": "Allen Park",
-   "State": "MI",
-   "Postal": 48101,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 7,
-   "Address1": "32470 Gratiot Avenue",
-   "Address2": null,
-   "City": "Roseville",
-   "State": "MI",
-   "Postal": 48066,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 8,
-   "Address1": "3555 28th Street",
-   "Address2": null,
-   "City": "Grand Rapids",
-   "State": "MI",
-   "Postal": 49512,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 9,
-   "Address1": "5000 Dixie Highway",
-   "Address2": null,
-   "City": "Waterford",
-   "State": "MI",
-   "Postal": 48329,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 10,
-   "Address1": "26285 Hoover Road",
-   "Address2": null,
-   "City": "Warren",
-   "State": "MI",
-   "Postal": 48089,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 11,
-   "Address1": "18200 W. Bluemound Rd.",
-   "Address2": null,
-   "City": "Brookfield",
-   "State": "WI",
-   "Postal": 53045,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 12,
-   "Address1": "1234 N. Main Street",
-   "Address2": null,
-   "City": "Bowling Green",
-   "State": "OH",
-   "Postal": 43402,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 13,
-   "Address1": "2550 S. 108th Street",
-   "Address2": null,
-   "City": "West Allis",
-   "State": "WI",
-   "Postal": 53227,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 14,
-   "Address1": "2101 Brookmeade Dr., Suite B",
-   "Address2": null,
-   "City": "Columbia",
-   "State": "TN",
-   "Postal": 38401,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 15,
-   "Address1": "1060 Highway 15 South, Suite 4",
-   "Address2": null,
-   "City": "Hutchinson",
-   "State": "MN",
-   "Postal": 55350,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 16,
-   "Address1": "26312 Ford Road",
-   "Address2": null,
-   "City": "Dearborn Heights",
-   "State": "MI",
-   "Postal": 48127,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 17,
-   "Address1": "3700 William Penn Hwy",
-   "Address2": null,
-   "City": "Monroeville",
-   "State": "PA",
-   "Postal": 15146,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 18,
-   "Address1": "400 Mill Ave, SE, Ste 513",
-   "Address2": null,
-   "City": "New Philadelphia",
-   "State": "OH",
-   "Postal": 44663,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 19,
-   "Address1": "2650 Ellwood Rd",
-   "Address2": null,
-   "City": "New Castle",
-   "State": "PA",
-   "Postal": 16101,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 20,
-   "Address1": "5000 Greenbag Rd.",
-   "Address2": null,
-   "City": "Morgantown",
-   "State": "WV",
-   "Postal": 26505,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 21,
-   "Address1": "1296 Mt. Vernon, Space #28",
-   "Address2": null,
-   "City": "Marion",
-   "State": "OH",
-   "Postal": 43302,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 22,
-   "Address1": "5775 Beckley Road",
-   "Address2": null,
-   "City": "Battle Creek",
-   "State": "MI",
-   "Postal": 49015,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 23,
-   "Address1": "1819 North Central Avenue",
-   "Address2": null,
-   "City": "Marshfield",
-   "State": "WI",
-   "Postal": 54449,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 24,
-   "Address1": "4311-A Plainfield Ave. NE",
-   "Address2": null,
-   "City": "Grand Rapids",
-   "State": "MI",
-   "Postal": 49525,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 25,
-   "Address1": "4377 Midway Mall",
-   "Address2": null,
-   "City": "Elyria",
-   "State": "OH",
-   "Postal": 44035,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 26,
-   "Address1": "217 N. Maple Rd.",
-   "Address2": null,
-   "City": "Ann Arbor",
-   "State": "MI",
-   "Postal": 48103,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 27,
-   "Address1": "1313 National Hwy.",
-   "Address2": null,
-   "City": "LaVale",
-   "State": "MD",
-   "Postal": 21502,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 28,
-   "Address1": "1909 W. Morton Avenue",
-   "Address2": null,
-   "City": "Jacksonville",
-   "State": "IL",
-   "Postal": 62650,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 29,
-   "Address1": "972 Freeport Rd., Space 127",
-   "Address2": null,
-   "City": "Pittsburgh",
-   "State": "PA",
-   "Postal": 15238,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 30,
-   "Address1": "1401-D W. Main St.",
-   "Address2": null,
-   "City": "Gaylord",
-   "State": "MI",
-   "Postal": 49735,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 31,
-   "Address1": "4651 National Road East",
-   "Address2": null,
-   "City": "Richmond",
-   "State": "IN",
-   "Postal": 47374,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 32,
-   "Address1": "1009 W. 7th Street",
-   "Address2": null,
-   "City": "Auburn",
-   "State": "IN",
-   "Postal": 46706,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 33,
-   "Address1": "3916 E. Market Street",
-   "Address2": null,
-   "City": "Logansport",
-   "State": "IN",
-   "Postal": 46947,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 34,
-   "Address1": "1025 Washington Pike",
-   "Address2": null,
-   "City": "Bridgeville",
-   "State": "PA",
-   "Postal": 15017,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 35,
-   "Address1": "1444 S. 12th Avenue",
-   "Address2": null,
-   "City": "Virginia",
-   "State": "MN",
-   "Postal": 55792,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 36,
-   "Address1": "2500 West State Street",
-   "Address2": null,
-   "City": "Alliance",
-   "State": "OH",
-   "Postal": 44601,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 37,
-   "Address1": "4358 Bay Road Unit 13",
-   "Address2": null,
-   "City": "Saginaw",
-   "State": "MI",
-   "Postal": 48603,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 38,
-   "Address1": "430 Premier Blvd.",
-   "Address2": null,
-   "City": "Roanoke Rapids",
-   "State": "NC",
-   "Postal": 27870,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 39,
-   "Address1": "2149 N. Telegraph Road",
-   "Address2": null,
-   "City": "Monroe",
-   "State": "MI",
-   "Postal": 48162,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 40,
-   "Address1": "835 W. Johnson",
-   "Address2": null,
-   "City": "Fond du Lac",
-   "State": "WI",
-   "Postal": 54935,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 41,
-   "Address1": "594 Galleria Drive",
-   "Address2": null,
-   "City": "Johnstown",
-   "State": "PA",
-   "Postal": 15904,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 42,
-   "Address1": "449 State Highway 64",
-   "Address2": null,
-   "City": "Antigo",
-   "State": "WI",
-   "Postal": 54409,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 43,
-   "Address1": "2155 S. Rochester Rd.",
-   "Address2": null,
-   "City": "Rochester Hills",
-   "State": "MI",
-   "Postal": 48307,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 44,
-   "Address1": "2850 Washtenaw Ave. Unit 1C",
-   "Address2": null,
-   "City": "Ypsilanti",
-   "State": "MI",
-   "Postal": 48197,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": 45,
-   "Address1": "863 S. St. Marys Street",
-   "Address2": null,
-   "City": "St. Marys",
-   "State": "PA",
-   "Postal": 15857,
-   "Latitude": null,
-   "Longitude": null
- }
+  {
+    "Name": 1,
+    "Address1": "7320 Orchard Lake Road",
+    "Address2": null,
+    "City": "West Bloomfield",
+    "State": "MI",
+    "Postal": 48322,
+    "Latitude": 42.5378,
+    "Longitude": -83.3845
+  },
+  {
+    "Name": 3,
+    "Address1": "3900 W. Bethel",
+    "Address2": null,
+    "City": "Muncie",
+    "State": "IN",
+    "Postal": 47304,
+    "Latitude": 40.2363,
+    "Longitude": -85.4598
+  },
+  {
+    "Name": 4,
+    "Address1": "1716 Scatterfield",
+    "Address2": null,
+    "City": "Anderson",
+    "State": "IN",
+    "Postal": 46016,
+    "Latitude": 40.0978,
+    "Longitude": -85.6815
+  },
+  {
+    "Name": 5,
+    "Address1": "23150 W. Outer Drive",
+    "Address2": null,
+    "City": "Allen Park",
+    "State": "MI",
+    "Postal": 48101,
+    "Latitude": 42.2595,
+    "Longitude": -83.2104
+  },
+  {
+    "Name": 7,
+    "Address1": "32470 Gratiot Avenue",
+    "Address2": null,
+    "City": "Roseville",
+    "State": "MI",
+    "Postal": 48066,
+    "Latitude": 42.5075,
+    "Longitude": -82.9366
+  },
+  {
+    "Name": 8,
+    "Address1": "3555 28th Street",
+    "Address2": null,
+    "City": "Grand Rapids",
+    "State": "MI",
+    "Postal": 49512,
+    "Latitude": 42.8831,
+    "Longitude": -85.5276
+  },
+  {
+    "Name": 9,
+    "Address1": "5000 Dixie Highway",
+    "Address2": null,
+    "City": "Waterford",
+    "State": "MI",
+    "Postal": 48329,
+    "Latitude": 42.687,
+    "Longitude": -83.3886
+  },
+  {
+    "Name": 10,
+    "Address1": "26285 Hoover Road",
+    "Address2": null,
+    "City": "Warren",
+    "State": "MI",
+    "Postal": 48089,
+    "Latitude": 42.4681,
+    "Longitude": -82.9939
+  },
+  {
+    "Name": 11,
+    "Address1": "18200 W. Bluemound Rd.",
+    "Address2": null,
+    "City": "Brookfield",
+    "State": "WI",
+    "Postal": 53045,
+    "Latitude": 43.0589,
+    "Longitude": -88.1525
+  },
+  {
+    "Name": 12,
+    "Address1": "1234 N. Main Street",
+    "Address2": null,
+    "City": "Bowling Green",
+    "State": "OH",
+    "Postal": 43402,
+    "Latitude": 41.4184,
+    "Longitude": -83.6567
+  },
+  {
+    "Name": 13,
+    "Address1": "2550 S. 108th Street",
+    "Address2": null,
+    "City": "West Allis",
+    "State": "WI",
+    "Postal": 53227,
+    "Latitude": 42.9958,
+    "Longitude": -88.042
+  },
+  {
+    "Name": 14,
+    "Address1": "2101 Brookmeade Dr., Suite B",
+    "Address2": null,
+    "City": "Columbia",
+    "State": "TN",
+    "Postal": 38401,
+    "Latitude": 35.6292,
+    "Longitude": -87.0215
+  },
+  {
+    "Name": 15,
+    "Address1": "1060 Highway 15 South, Suite 4",
+    "Address2": null,
+    "City": "Hutchinson",
+    "State": "MN",
+    "Postal": 55350,
+    "Latitude": 44.9006,
+    "Longitude": -94.3914
+  },
+  {
+    "Name": 16,
+    "Address1": "26312 Ford Road",
+    "Address2": null,
+    "City": "Dearborn Heights",
+    "State": "MI",
+    "Postal": 48127,
+    "Latitude": 42.3358,
+    "Longitude": -83.2833
+  },
+  {
+    "Name": 17,
+    "Address1": "3700 William Penn Hwy",
+    "Address2": null,
+    "City": "Monroeville",
+    "State": "PA",
+    "Postal": 15146,
+    "Latitude": 40.4263,
+    "Longitude": -79.7614
+  },
+  {
+    "Name": 18,
+    "Address1": "400 Mill Ave, SE, Ste 513",
+    "Address2": null,
+    "City": "New Philadelphia",
+    "State": "OH",
+    "Postal": 44663,
+    "Latitude": 40.46,
+    "Longitude": -81.4524
+  },
+  {
+    "Name": 19,
+    "Address1": "2650 Ellwood Rd",
+    "Address2": null,
+    "City": "New Castle",
+    "State": "PA",
+    "Postal": 16101,
+    "Latitude": 40.984,
+    "Longitude": -80.2902
+  },
+  {
+    "Name": 20,
+    "Address1": "5000 Greenbag Rd.",
+    "Address2": null,
+    "City": "Morgantown",
+    "State": "WV",
+    "Postal": 26505,
+    "Latitude": 39.6495,
+    "Longitude": -79.9453
+  },
+  {
+    "Name": 21,
+    "Address1": "1296 Mt. Vernon, Space #28",
+    "Address2": null,
+    "City": "Marion",
+    "State": "OH",
+    "Postal": 43302,
+    "Latitude": 0,
+    "Longitude": 0
+  },
+  {
+    "Name": 22,
+    "Address1": "5775 Beckley Road",
+    "Address2": null,
+    "City": "Battle Creek",
+    "State": "MI",
+    "Postal": 49015,
+    "Latitude": 42.2755,
+    "Longitude": -85.229
+  },
+  {
+    "Name": 23,
+    "Address1": "1819 North Central Avenue",
+    "Address2": null,
+    "City": "Marshfield",
+    "State": "WI",
+    "Postal": 54449,
+    "Latitude": 44.6384,
+    "Longitude": -90.2084
+  },
+  {
+    "Name": 24,
+    "Address1": "4311-A Plainfield Ave. NE",
+    "Address2": null,
+    "City": "Grand Rapids",
+    "State": "MI",
+    "Postal": 49525,
+    "Latitude": 43.0077355,
+    "Longitude": -85.9068918
+  },
+  {
+    "Name": 25,
+    "Address1": "4377 Midway Mall",
+    "Address2": null,
+    "City": "Elyria",
+    "State": "OH",
+    "Postal": 44035,
+    "Latitude": 41.3636,
+    "Longitude": -82.1379
+  },
+  {
+    "Name": 26,
+    "Address1": "217 N. Maple Rd.",
+    "Address2": null,
+    "City": "Ann Arbor",
+    "State": "MI",
+    "Postal": 48103,
+    "Latitude": 42.2614,
+    "Longitude": -83.8465
+  },
+  {
+    "Name": 27,
+    "Address1": "1313 National Hwy.",
+    "Address2": null,
+    "City": "LaVale",
+    "State": "MD",
+    "Postal": 21502,
+    "Latitude": 39.6437,
+    "Longitude": -78.7551
+  },
+  {
+    "Name": 28,
+    "Address1": "1909 W. Morton Avenue",
+    "Address2": null,
+    "City": "Jacksonville",
+    "State": "IL",
+    "Postal": 62650,
+    "Latitude": 39.7344,
+    "Longitude": -90.223
+  },
+  {
+    "Name": 29,
+    "Address1": "972 Freeport Rd., Space 127",
+    "Address2": null,
+    "City": "Pittsburgh",
+    "State": "PA",
+    "Postal": 15238,
+    "Latitude": 40.5372,
+    "Longitude": -79.8794
+  },
+  {
+    "Name": 30,
+    "Address1": "1401-D W. Main St.",
+    "Address2": null,
+    "City": "Gaylord",
+    "State": "MI",
+    "Postal": 49735,
+    "Latitude": 44.9979,
+    "Longitude": -84.6703
+  },
+  {
+    "Name": 31,
+    "Address1": "4651 National Road East",
+    "Address2": null,
+    "City": "Richmond",
+    "State": "IN",
+    "Postal": 47374,
+    "Latitude": 39.832,
+    "Longitude": -84.8897
+  },
+  {
+    "Name": 32,
+    "Address1": "1009 W. 7th Street",
+    "Address2": null,
+    "City": "Auburn",
+    "State": "IN",
+    "Postal": 46706,
+    "Latitude": 41.3416,
+    "Longitude": -85.0327
+  },
+  {
+    "Name": 33,
+    "Address1": "3916 E. Market Street",
+    "Address2": null,
+    "City": "Logansport",
+    "State": "IN",
+    "Postal": 46947,
+    "Latitude": 40.7599,
+    "Longitude": -86.376
+  },
+  {
+    "Name": 34,
+    "Address1": "1025 Washington Pike",
+    "Address2": null,
+    "City": "Bridgeville",
+    "State": "PA",
+    "Postal": 15017,
+    "Latitude": 40.3423,
+    "Longitude": -80.1224
+  },
+  {
+    "Name": 35,
+    "Address1": "1444 S. 12th Avenue",
+    "Address2": null,
+    "City": "Virginia",
+    "State": "MN",
+    "Postal": 55792,
+    "Latitude": 47.597,
+    "Longitude": -92.4796
+  },
+  {
+    "Name": 36,
+    "Address1": "2500 West State Street",
+    "Address2": null,
+    "City": "Alliance",
+    "State": "OH",
+    "Postal": 44601,
+    "Latitude": 40.9186,
+    "Longitude": -81.1287
+  },
+  {
+    "Name": 37,
+    "Address1": "4358 Bay Road Unit 13",
+    "Address2": null,
+    "City": "Saginaw",
+    "State": "MI",
+    "Postal": 48603,
+    "Latitude": 43.4587,
+    "Longitude": -84.0295
+  },
+  {
+    "Name": 38,
+    "Address1": "430 Premier Blvd.",
+    "Address2": null,
+    "City": "Roanoke Rapids",
+    "State": "NC",
+    "Postal": 27870,
+    "Latitude": 36.4189,
+    "Longitude": -77.7158
+  },
+  {
+    "Name": 39,
+    "Address1": "2149 N. Telegraph Road",
+    "Address2": null,
+    "City": "Monroe",
+    "State": "MI",
+    "Postal": 48162,
+    "Latitude": 41.9604,
+    "Longitude": -83.4293
+  },
+  {
+    "Name": 40,
+    "Address1": "835 W. Johnson",
+    "Address2": null,
+    "City": "Fond du Lac",
+    "State": "WI",
+    "Postal": 54935,
+    "Latitude": 43.7737,
+    "Longitude": -88.4368
+  },
+  {
+    "Name": 41,
+    "Address1": "594 Galleria Drive",
+    "Address2": null,
+    "City": "Johnstown",
+    "State": "PA",
+    "Postal": 15904,
+    "Latitude": 40.3116,
+    "Longitude": -78.8409
+  },
+  {
+    "Name": 42,
+    "Address1": "449 State Highway 64",
+    "Address2": null,
+    "City": "Antigo",
+    "State": "WI",
+    "Postal": 54409,
+    "Latitude": 45.1222,
+    "Longitude": -89.1708
+  },
+  {
+    "Name": 43,
+    "Address1": "2155 S. Rochester Rd.",
+    "Address2": null,
+    "City": "Rochester Hills",
+    "State": "MI",
+    "Postal": 48307,
+    "Latitude": 42.6593,
+    "Longitude": -83.1227
+  },
+  {
+    "Name": 44,
+    "Address1": "2850 Washtenaw Ave. Unit 1C",
+    "Address2": null,
+    "City": "Ypsilanti",
+    "State": "MI",
+    "Postal": 48197,
+    "Latitude": 42.194,
+    "Longitude": -83.64
+  },
+  {
+    "Name": 45,
+    "Address1": "863 S. St. Marys Street",
+    "Address2": null,
+    "City": "St. Marys",
+    "State": "PA",
+    "Postal": 15857,
+    "Latitude": 41.4551,
+    "Longitude": -78.5202
+  }
 ]

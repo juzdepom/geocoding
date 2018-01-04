@@ -1,1496 +1,1496 @@
 [
- {
-   "Name": " Sunvalley Shopping Center",
-   "Address": "373 Sunvalley Mall",
-   "City": "Concord",
-   "State": "CA",
-   "Postal": 94520,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Stoneridge Shopping Center",
-   "Address": "1404 Stoneridge Mall Rd.",
-   "City": "Pleasanton",
-   "State": "CA",
-   "Postal": 94588,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Solano Mall",
-   "Address": "1350 Travis Blvd.",
-   "City": "Fairfield",
-   "State": "CA",
-   "Postal": 94533,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Vintage Faire Mall",
-   "Address": "3401 Dale Rd., #264",
-   "City": "Modesto",
-   "State": "CA",
-   "Postal": 95356,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Valley Plaza Mall",
-   "Address": "2701 Ming Ave.",
-   "City": "Bakersfield",
-   "State": "CA",
-   "Postal": 93304,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Santa Anita Mall",
-   "Address": "400 S. Baldwin, B1",
-   "City": "Arcadia",
-   "State": "CA",
-   "Postal": 91007,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Brea Mall",
-   "Address": "2002 Brea Mall",
-   "City": "Brea",
-   "State": "CA",
-   "Postal": 92821,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Alderwood Mall",
-   "Address": "3000 184th St., SW, #664",
-   "City": "Lynnwood",
-   "State": "WA",
-   "Postal": 98037,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Hillsdale Shopping Center",
-   "Address": "304 Hillsdale Mall",
-   "City": "San Mateo",
-   "State": "CA",
-   "Postal": 94403,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Salem Center",
-   "Address": "480 Center St., NE, #144",
-   "City": "Salem",
-   "State": "OR",
-   "Postal": 97301,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Mission Valley Mall",
-   "Address": "1640 Camino Del Rio North, #311",
-   "City": "San Diego",
-   "State": "CA",
-   "Postal": 92108,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Vancouver Mall",
-   "Address": "8700 N.E. Vancouver Mall Drive, #249",
-   "City": "Vancouver",
-   "State": "WA",
-   "Postal": 98662,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Arden Fair Mall",
-   "Address": "1689 Arden Way",
-   "City": "Sacramento",
-   "State": "CA",
-   "Postal": 95815,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Oakridge Mall",
-   "Address": "925 Blossom Hill Road, #D16",
-   "City": "San Jose",
-   "State": "CA",
-   "Postal": 95123,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Fox River Mall",
-   "Address": "4301 W. Wisconsin Ave.",
-   "City": "Appleton",
-   "State": "WI",
-   "Postal": 54913,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Northpark Mall",
-   "Address": "320 West Kimberly",
-   "City": "Davenport",
-   "State": "IA",
-   "Postal": 52806,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Chicago Ridge Mall",
-   "Address": "631 Chicago Ridge",
-   "City": "Chicago Ridge",
-   "State": "IL",
-   "Postal": 60415,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Plaza Bonita",
-   "Address": "3030 Plaza Bonita Rd., #270",
-   "City": "National City",
-   "State": "CA",
-   "Postal": 91950,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Southcenter Mall",
-   "Address": "111 Southcenter Mall",
-   "City": "Tukwila",
-   "State": "WA",
-   "Postal": 98188,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " North County Mall",
-   "Address": "200 E. Via Rancho Pkwy, #101",
-   "City": "Escondido",
-   "State": "CA",
-   "Postal": 92025,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Mayfair Mall",
-   "Address": "2500 N. Mayfair Rd., #510",
-   "City": "Wauwatosa",
-   "State": "WI",
-   "Postal": 53226,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Southlake Mall",
-   "Address": "1978 Southlake Mall, #144",
-   "City": "Merrillville",
-   "State": "IN",
-   "Postal": 46410,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Bay Park Square",
-   "Address": "211 Bay Park Square",
-   "City": "Green Bay",
-   "State": "WI",
-   "Postal": 54304,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Galleria At Tyler",
-   "Address": "1356 Tyler Mall",
-   "City": "Riverside",
-   "State": "CA",
-   "Postal": 92503,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Orland Square Mall",
-   "Address": "268 Orland Square, #B18",
-   "City": "Orland Park",
-   "State": "IL",
-   "Postal": 60462,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Bridgewater Commons Mall",
-   "Address": "400 Commons Way, #300",
-   "City": "Bridgewater",
-   "State": "NJ",
-   "Postal": 8807,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Danbury Fair Mall",
-   "Address": "7 Backus Ave.",
-   "City": "Danbury",
-   "State": "CT",
-   "Postal": 6810,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Valencia Town Center",
-   "Address": "24201 Valencia Blvd., #1302",
-   "City": "Valencia",
-   "State": "CA",
-   "Postal": 91355,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Silver City Galleria",
-   "Address": "2 Galleria Mall Dr.",
-   "City": "Taunton",
-   "State": "MA",
-   "Postal": 2780,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Burlington Mall",
-   "Address": "75 Middlesex Tpke",
-   "City": "Burlington",
-   "State": "MA",
-   "Postal": 1803,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Fair Oaks Mall",
-   "Address": "1178 Fair Oaks, #B115",
-   "City": "Fairfax",
-   "State": "VA",
-   "Postal": 22033,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " The Mall at Prince Georges",
-   "Address": "3500 East West Hwy., #1232",
-   "City": "Hyattsville",
-   "State": "MD",
-   "Postal": 20782,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Valley Fair",
-   "Address": "2855 Stevens Creek Blvd., #1301",
-   "City": "San Jose",
-   "State": "CA",
-   "Postal": 95050,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Parkway Plaza Mall",
-   "Address": "765 Fletcher Parkway, R15",
-   "City": "El Cajon",
-   "State": "CA",
-   "Postal": 92020,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Manassas Mall",
-   "Address": "8300 Sudley Rd., #L5",
-   "City": "Manassas",
-   "State": "VA",
-   "Postal": 20110,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Crossgates Mall",
-   "Address": "1 Crossgates Mall Rd., #K205",
-   "City": "Albany",
-   "State": "NY",
-   "Postal": 12203,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Oakbrook Center",
-   "Address": "89 Oakbrook Center",
-   "City": "Oakbrook",
-   "State": "IL",
-   "Postal": 60523,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " MainPlace Mall",
-   "Address": "2800 N. Main, #136",
-   "City": "Santa Ana",
-   "State": "CA",
-   "Postal": 92705,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Yorktown Center",
-   "Address": "168 Yorktown Shopping Center",
-   "City": "Lombard",
-   "State": "IL",
-   "Postal": 60148,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Spotsylvania Towne Centre",
-   "Address": "160 Spotsylvania Mall",
-   "City": "Fredericksburg",
-   "State": "VA",
-   "Postal": 22408,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Montgomery Mall",
-   "Address": "711 Montgomery Mall",
-   "City": "North Wales",
-   "State": "PA",
-   "Postal": 19454,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Dover Mall",
-   "Address": "1365 DuPont Hwy",
-   "City": "Dover",
-   "State": "DE",
-   "Postal": 19901,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " The Mall In Columbia",
-   "Address": "10300 Little Patuxent Pkwy., #2645",
-   "City": "Columbia",
-   "State": "MD",
-   "Postal": 21044,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Staten Island Mall",
-   "Address": "2655 Richmond Ave., #1580",
-   "City": "Staten Island",
-   "State": "NY",
-   "Postal": 10314,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Ocean County Mall",
-   "Address": "1201 Hooper Ave., #1035",
-   "City": "Toms River",
-   "State": "NJ",
-   "Postal": 8753,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Annapolis Mall",
-   "Address": "1885 Annapolis Mall, #1458",
-   "City": "Annapolis",
-   "State": "MD",
-   "Postal": 21401,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Fox Valley Mall",
-   "Address": "1428 Fox Valley Center, E17",
-   "City": "Aurora",
-   "State": "IL",
-   "Postal": 60504,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " the Galleria at Sunset",
-   "Address": "1300 W. Sunset Rd., #1121",
-   "City": "Henderson",
-   "State": "NV",
-   "Postal": 89014,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Woodbridge Center",
-   "Address": "250 Woodbridge Center Dr., #458",
-   "City": "Woodbridge",
-   "State": "NJ",
-   "Postal": 7095,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Old Orchard Mall",
-   "Address": "4999 Old Orchard Center, L27",
-   "City": "Skokie",
-   "State": "IL",
-   "Postal": 60077,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Solomon Pond Mall",
-   "Address": "580 Donald Lynch Blvd., #S252",
-   "City": "Marlborough",
-   "State": "MA",
-   "Postal": 1752,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " The Mall of New Hampshire",
-   "Address": "1500 S. Willow St., #E139",
-   "City": "Manchester",
-   "State": "NH",
-   "Postal": 3103,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Pheasant Lane Mall",
-   "Address": "310 Danial Webster Hwy,   W113",
-   "City": "Nashua",
-   "State": "NH",
-   "Postal": 3060,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Dulles Town Center",
-   "Address": "21100 Dulles Town Circle, #227",
-   "City": "Dulles",
-   "State": "VA",
-   "Postal": 20166,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Clackamas Town Center",
-   "Address": "12000 SE 82nd Ave., #1013",
-   "City": "Portland",
-   "State": "OR",
-   "Postal": 97086,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " White Marsh Mall",
-   "Address": "8200 Perry Hall Blvd., #2140",
-   "City": "Baltimore",
-   "State": "MD",
-   "Postal": 21236,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " South Bay Galleria",
-   "Address": "1815 Hawthorne Blvd.",
-   "City": "Redondo Beach",
-   "State": "CA",
-   "Postal": 90278,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Exton Square Mall",
-   "Address": "208 Exton Square Pkwy.",
-   "City": "Exton",
-   "State": "PA",
-   "Postal": 19341,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Deptford Mall",
-   "Address": "1750 Deptford Center Rd., #1E-1",
-   "City": "Deptford",
-   "State": "NJ",
-   "Postal": 8096,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Hamilton Mall",
-   "Address": "4403 Black Horse Pike",
-   "City": "Mays Landing",
-   "State": "NJ",
-   "Postal": 8330,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Patrick Henry Mall",
-   "Address": "12300 Jefferson Ave., #811",
-   "City": "Newport News",
-   "State": "VA",
-   "Postal": 23602,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Springfield Mall",
-   "Address": "1250 Baltimore Pike",
-   "City": "Springfield",
-   "State": "PA",
-   "Postal": 19064,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " The Centre at Salisbury",
-   "Address": "2300 N. Salisbury Blvd.",
-   "City": "Salisbury",
-   "State": "MD",
-   "Postal": 21801,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Greenbrier Mall",
-   "Address": "1401 Greenbrier Parkway South",
-   "City": "Chesapeake",
-   "State": "VA",
-   "Postal": 23320,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Park City Center",
-   "Address": "769 Park City Center",
-   "City": "Lancaster",
-   "State": "PA",
-   "Postal": 17601,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Stonebriar Centre",
-   "Address": "2601 Preston Rd.",
-   "City": "Frisco",
-   "State": "TX",
-   "Postal": 75034,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " The Galleria at Roseville",
-   "Address": "1151 Galleria Blvd.",
-   "City": "Roseville",
-   "State": "CA",
-   "Postal": 95678,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Meadows Mall",
-   "Address": "4300 Meadows Lane",
-   "City": "Las Vegas",
-   "State": "NV",
-   "Postal": 89107,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Rockaway Townsquare",
-   "Address": "301 Mt. Hope Rd., #1033",
-   "City": "Rockaway",
-   "State": "NJ",
-   "Postal": 7866,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Mall Of Georgia",
-   "Address": "3333 Buford Dr.",
-   "City": "Buford",
-   "State": "GA",
-   "Postal": 30519,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Arbor Place Mall",
-   "Address": "1400 Arbor Place",
-   "City": "Douglasville",
-   "State": "GA",
-   "Postal": 30135,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Coventry Mall",
-   "Address": "351 W. Schuylkill Rd., #H-7",
-   "City": "Pottstown",
-   "State": "PA",
-   "Postal": 19465,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Willowbrook Mall",
-   "Address": "1305 Willowbrook Mall",
-   "City": "Wayne",
-   "State": "NJ",
-   "Postal": 7470,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Oak View Mall",
-   "Address": "3001 S. 144th St.",
-   "City": "Omaha",
-   "State": "NE",
-   "Postal": 68144,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " The Maine Mall",
-   "Address": "364 Maine Mall Rd.",
-   "City": "S. Portland",
-   "State": "ME",
-   "Postal": 4106,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Asheville Mall",
-   "Address": "3 South Tunnel Rd.",
-   "City": "Asheville",
-   "State": "NC",
-   "Postal": 28805,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " The Woodlands Mall",
-   "Address": "1201 Lake Woodlands Dr.",
-   "City": "The Woodlands",
-   "State": "TX",
-   "Postal": 77380,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Paramus Park Mall",
-   "Address": "700 Paramus Park",
-   "City": "Paramus",
-   "State": "NJ",
-   "Postal": 7652,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Bowie Town Center",
-   "Address": "15607 Emerald Way",
-   "City": "Bowie",
-   "State": "MD",
-   "Postal": 20716,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Sunrise Mall",
-   "Address": "6166 Sunrise Blvd.",
-   "City": "Citrus Heights",
-   "State": "CA",
-   "Postal": 95610,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Lakeline Mall",
-   "Address": "11200 Lakeline Mall Dr.",
-   "City": "Cedar Park",
-   "State": "TX",
-   "Postal": 78613,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " The Mall At Robinson",
-   "Address": "100 Robinson Centre Dr.",
-   "City": "Pittsburgh",
-   "State": "PA",
-   "Postal": 15205,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Park Place",
-   "Address": "5870 E. Broadway Blvd.",
-   "City": "Tucson",
-   "State": "AZ",
-   "Postal": 85711,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " South Hills Village",
-   "Address": "301 South Hills Village",
-   "City": "Pittsburgh",
-   "State": "PA",
-   "Postal": 15241,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Barton Creek Square Mall",
-   "Address": "2901 S. Capital of Texas Hwy.",
-   "City": "Austin",
-   "State": "TX",
-   "Postal": 78746,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Memorial City Mall",
-   "Address": "340 Memorial City Mall",
-   "City": "Houston",
-   "State": "TX",
-   "Postal": 77024,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Citrus Park Mall",
-   "Address": "8021 Citrus Park Town Center, #7981",
-   "City": "Tampa",
-   "State": "FL",
-   "Postal": 33625,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Victoria Gardens",
-   "Address": "12509 N. Main St.",
-   "City": "Rancho Cucamonga",
-   "State": "CA",
-   "Postal": 91739,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Roosevelt Field Mall",
-   "Address": "630 Old Country Rd.",
-   "City": "Garden City",
-   "State": "NY",
-   "Postal": 11530,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Perimeter Mall",
-   "Address": "4400 Ashford Dunwoody Rd.",
-   "City": "Atlanta",
-   "State": "GA",
-   "Postal": 30346,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " West County Center",
-   "Address": "65 West County Center",
-   "City": "St. Louis",
-   "State": "MO",
-   "Postal": 63131,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Northshore Mall",
-   "Address": "210 Andover St., #W135",
-   "City": "Peabody",
-   "State": "MA",
-   "Postal": 1960,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Topanga Mall",
-   "Address": "6600 Topanga Canyon Blvd., #1100",
-   "City": "Canoga Park",
-   "State": "CA",
-   "Postal": 91303,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " The Mall at Wellington Green",
-   "Address": "10300 W. Forest Blvd., #114A",
-   "City": "Wellington",
-   "State": "FL",
-   "Postal": 33414,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " North East Mall",
-   "Address": "1101 Melbourne Rd., #3084",
-   "City": "Hurst",
-   "State": "TX",
-   "Postal": 76053,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Ross Park Mall",
-   "Address": "1000 Ross Park Mall Dr.",
-   "City": "Pittsburgh",
-   "State": "PA",
-   "Postal": 15237,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Deerbrook Mall",
-   "Address": "20131 Highway 59 N, #1330",
-   "City": "Humble",
-   "State": "TX",
-   "Postal": 77338,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Northlake Mall",
-   "Address": "6801 Northlake Mall Dr., #152",
-   "City": "Charlotte",
-   "State": "NC",
-   "Postal": 28216,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " The Shops at La Cantera",
-   "Address": "15900 LaCantera Pky, Bldg 8, #8870",
-   "City": "San Antonio",
-   "State": "TX",
-   "Postal": 78256,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Simi Valley Town Center",
-   "Address": "1555 Simi Town Center Way, #635",
-   "City": "Simi Valley",
-   "State": "CA",
-   "Postal": 93063,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " First Colony Mall",
-   "Address": "16535 Southwest Freeway",
-   "City": "Sugar Land",
-   "State": "TX",
-   "Postal": 77479,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Towne Place at Garden State Park",
-   "Address": "957 Haddonfield Road",
-   "City": "Cherry Hill",
-   "State": "NJ",
-   "Postal": 8002,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Centennial Promenade",
-   "Address": "9619 E. County Line Rd., Unit 43, Ste D",
-   "City": "Centennial",
-   "State": "CO",
-   "Postal": 80112,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Packwood Creek Shopping Ctr",
-   "Address": "4031 South Mooney Blvd., Suite F4",
-   "City": "Visalia",
-   "State": "CA",
-   "Postal": 93277,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " Arrowhead Crossing",
-   "Address": "7575 W. Bell Road, Space #101",
-   "City": "Peoria",
-   "State": "AZ",
-   "Postal": 85382,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Garden State Plaza",
-   "Address": "1 Garden State Plaza, Space 1077",
-   "City": "Paramus",
-   "State": "NJ",
-   "Postal": 7652,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Shoppes @ Millenia",
-   "Address": "4192 Conroy Road",
-   "City": "Orlando",
-   "State": "FL",
-   "Postal": 32839,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Eastwood Mall",
-   "Address": "5555 Youngstown Warren Rd., Unit # 906",
-   "City": "Niles",
-   "State": "OH",
-   "Postal": 44446,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Governor’s Square Mall",
-   "Address": "2801 Wilma Rudolph Blvd., Unit # 460",
-   "City": "Clarksville",
-   "State": "TN",
-   "Postal": 37040,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Kentucky Oaks Mall",
-   "Address": "5101 Hinkleville Rd., Unit # 690",
-   "City": "Paducah",
-   "State": "KY",
-   "Postal": 42001,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Huntington Mall",
-   "Address": "500 Mall Rd., Unit # 420",
-   "City": "Barbourville",
-   "State": "WV",
-   "Postal": 25504,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Sandusky Mall",
-   "Address": "4314 Milan Rd., Unit #510",
-   "City": "Sandusky",
-   "State": "OH",
-   "Postal": 44870,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Hanes Mall",
-   "Address": "3320 Silas Creek Pkwy, Unit # BU-668A",
-   "City": "Winston-Salem",
-   "State": "NC",
-   "Postal": 27103,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Northwoods Mall",
-   "Address": "2150 Northwoods Blvd, Unit # K-852",
-   "City": "North Charleston",
-   "State": "SC",
-   "Postal": 29406,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Hanes Mall",
-   "Address": "3320 Silas Creek Pkwy, Unit # BU-668A",
-   "City": "Winston-Salem",
-   "State": "NC",
-   "Postal": 27103,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": "Northwoods Mall",
-   "Address": "2150 Northwoods Blvd, Unit # K-852",
-   "City": "North Charleston",
-   "State": "SC",
-   "Postal": 29406,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Frisco",
-   "Address": "2930 Preston Road, Suite 600",
-   "City": "Frisco",
-   "State": "TX",
-   "Postal": 75034,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Plano",
-   "Address": "2712 N. Central Expressway",
-   "City": "Plano",
-   "State": "TX",
-   "Postal": 75074,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Hurst",
-   "Address": "1451 West Pipeline Rd",
-   "City": "Hurst",
-   "State": "TX",
-   "Postal": 76053,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Ft. Worth",
-   "Address": "4648 SW Loop 820 ",
-   "City": "Fort Worth",
-   "State": "TX",
-   "Postal": 76109,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Overland Park",
-   "Address": "12055 Metcalf Ave. ",
-   "City": "Overland Park",
-   "State": "KS",
-   "Postal": 66213,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Temecula",
-   "Address": "40438 Winchester Rd. ",
-   "City": "Temecula",
-   "State": "CA",
-   "Postal": 92591,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Elk Grove",
-   "Address": "7621 Laguna Blvd.",
-   "City": "Elk Grove",
-   "State": "CA",
-   "Postal": 95758,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Mission Viejo",
-   "Address": "25322 El Paseo",
-   "City": "Mission Viejo",
-   "State": "CA",
-   "Postal": 92691,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Braintree",
-   "Address": "160 Granite Street",
-   "City": "Braintree",
-   "State": "MA",
-   "Postal": 2184,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Rivers Edge",
-   "Address": "4030 East 82nd Street",
-   "City": "Indianapolis",
-   "State": "IN",
-   "Postal": 46250,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Webster",
-   "Address": "19801 Gulf Freeway, Suite 800",
-   "City": "Webster",
-   "State": "TX",
-   "Postal": 77598,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Durham",
-   "Address": "5430 New Hope Commons Drive 5430 New Hope Commons Drive 5430 New Hope Commons Drive ",
-   "City": "Durham",
-   "State": "NC",
-   "Postal": 27707,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Brookfield",
-   "Address": "665 Main Street 665 Main Street 665 Main Street ",
-   "City": "Brookfield",
-   "State": "WI",
-   "Postal": 53005,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Kentwood",
-   "Address": "4100 28th Street SE 4100 28th Street SE 4100 28th Street SE ",
-   "City": "Kentwood",
-   "State": "MI",
-   "Postal": 49512,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Amherst",
-   "Address": "1261 Niagara Falls Boulevard #1 ",
-   "City": "Amherst",
-   "State": "NY",
-   "Postal": 14226,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Paramus",
-   "Address": "Route 17 North 34 East Ridgewood Ave",
-   "City": "Paramus",
-   "State": "NJ",
-   "Postal": 7652,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Fredericksburg",
-   "Address": "1320 Carl D Silver Parkway Suite 100 ",
-   "City": "Fredericksburg",
-   "State": "VA",
-   "Postal": 22401,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Tucson",
-   "Address": "7475 North La Cholla Blvd ",
-   "City": "Tucson",
-   "State": "AZ",
-   "Postal": 85741,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Torrance",
-   "Address": "3700 West Torrance Blvd.  ",
-   "City": "Torrance",
-   "State": "CA",
-   "Postal": 90503,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Columbia",
-   "Address": "238 Harbison Boulevard",
-   "City": "Columbia",
-   "State": "SC",
-   "Postal": 29212,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Garden City",
-   "Address": "895 East Gate Boulevard",
-   "City": "Garden City",
-   "State": "NY",
-   "Postal": 11530,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Coral Springs",
-   "Address": "2035 N. University Drive",
-   "City": "Coral Springs",
-   "State": "FL",
-   "Postal": 33071,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Batavia",
-   "Address": "301 N. Randall Road",
-   "City": "Batavia",
-   "State": "IL",
-   "Postal": 60510,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Addison",
-   "Address": "13900 Dallas Parkway",
-   "City": "Dallas",
-   "State": "TX",
-   "Postal": 75240,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Hoover",
-   "Address": "4351 Creekside Avenue",
-   "City": "Hoover",
-   "State": "AL",
-   "Postal": 35244,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Scottsdale",
-   "Address": "10080 North 90th Street",
-   "City": "Scottsdale",
-   "State": "AZ",
-   "Postal": 85258,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Chandler",
-   "Address": "2640 West Chandler Boulevard",
-   "City": "Chandler",
-   "State": "AZ",
-   "Postal": 85224,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Pleasant Hill",
-   "Address": "3250 Buskirk Avenue, Suite 300-A",
-   "City": "Pleasant Hill",
-   "State": "CA",
-   "Postal": 94523,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Almaden Plaza",
-   "Address": "5353 Almaden Expressway, Suite A100",
-   "City": "San Jose",
-   "State": "CA",
-   "Postal": 95118,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Brandon",
-   "Address": "11345 Causeway Boulevard",
-   "City": "Brandon",
-   "State": "FL",
-   "Postal": 33511,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Alpharetta",
-   "Address": "7121 North Point Parkway",
-   "City": "Alpharetta",
-   "State": "GA",
-   "Postal": 30022,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Crystal Lake",
-   "Address": "5540 Northwest Highway",
-   "City": "Crystal Lake",
-   "State": "IL",
-   "Postal": 60014,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Bridgewater",
-   "Address": "711 Easton Turnpike",
-   "City": "Bridgewater",
-   "State": "NJ",
-   "Postal": 8807,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Totowa",
-   "Address": "545 Route 46 West",
-   "City": "Totowa",
-   "State": "NJ",
-   "Postal": 7512,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Colonie",
-   "Address": "1440 Central Avenue",
-   "City": "Colonie",
-   "State": "NY",
-   "Postal": 12205,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Sandy",
-   "Address": "10230 South State Street",
-   "City": "Sandy",
-   "State": "UT",
-   "Postal": 84070,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Tulsa",
-   "Address": "10017 East 71st Street",
-   "City": "Tulsa",
-   "State": "OK",
-   "Postal": 74133,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Newark",
-   "Address": "501 West Main Street",
-   "City": "Newark",
-   "State": "DE",
-   "Postal": 19702,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Roseville",
-   "Address": "1120 Galleria Blvd.",
-   "City": "Roseville",
-   "State": "CA",
-   "Postal": 95678,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Albuquerque",
-   "Address": "2451 San Mateo Blvd",
-   "City": "Albuquerque",
-   "State": "NM",
-   "Postal": 87110,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Deptford",
-   "Address": "1745 Deptford Center Rd",
-   "City": "Deptford",
-   "State": "NJ",
-   "Postal": 8096,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Independence",
-   "Address": "20000 East Jackson Drive",
-   "City": "Independence",
-   "State": "MO",
-   "Postal": 64057,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Livingston",
-   "Address": "530 W. Mount Pleasant Ave.",
-   "City": "Livingston",
-   "State": "NJ",
-   "Postal": 7039,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Potomac Mills",
-   "Address": "2700 Potomac Mills Circle",
-   "City": "Woodbridge",
-   "State": "VA",
-   "Postal": 22192,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Downers Grove",
-   "Address": "1556 Butterfield Road",
-   "City": "Downers Grove",
-   "State": "IL",
-   "Postal": 60515,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Yorba Linda",
-   "Address": "22999 Savi Ranch Parkway",
-   "City": "Yorba Linda ",
-   "State": "CA",
-   "Postal": 92887,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Rockville",
-   "Address": "1683 Rockville Pike ",
-   "City": "Rockville",
-   "State": "MD",
-   "Postal": 20852,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Huntington",
-   "Address": "350 Route 110",
-   "City": "Huntington Station",
-   "State": "NY",
-   "Postal": 11746,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Kennesaw",
-   "Address": "2555 Cobb Place Lane NW, Suite 50 ",
-   "City": "Kennesaw",
-   "State": "GA",
-   "Postal": 30144,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": " buybuyBABY Tukwila",
-   "Address": "17686 Southcenter Parkway ",
-   "City": "Tukwila",
-   "State": "WA",
-   "Postal": 98188,
-   "Latitude": null,
-   "Longitude": null
- }
+  {
+    "Name": " Sunvalley Shopping Center",
+    "Address": "373 Sunvalley Mall",
+    "City": "Concord",
+    "State": "CA",
+    "Postal": 94520,
+    "Latitude": 37.9953,
+    "Longitude": -122.0406
+  },
+  {
+    "Name": " Stoneridge Shopping Center",
+    "Address": "1404 Stoneridge Mall Rd",
+    "City": "Pleasanton",
+    "State": "CA",
+    "Postal": 94588,
+    "Latitude": 37.7927,
+    "Longitude": -121.8606
+  },
+  {
+    "Name": " Solano Mall",
+    "Address": "1350 Travis Blvd",
+    "City": "Fairfield",
+    "State": "CA",
+    "Postal": 94533,
+    "Latitude": 38.2807,
+    "Longitude": -122.0064
+  },
+  {
+    "Name": " Vintage Faire Mall",
+    "Address": "3401 Dale Rd, 264",
+    "City": "Modesto",
+    "State": "CA",
+    "Postal": 95356,
+    "Latitude": 37.718,
+    "Longitude": -121.0327
+  },
+  {
+    "Name": " Valley Plaza Mall",
+    "Address": "2701 Ming Ave",
+    "City": "Bakersfield",
+    "State": "CA",
+    "Postal": 93304,
+    "Latitude": 35.3397,
+    "Longitude": -119.0235
+  },
+  {
+    "Name": " Santa Anita Mall",
+    "Address": "400 S Baldwin, B1",
+    "City": "Arcadia",
+    "State": "CA",
+    "Postal": 91007,
+    "Latitude": 34.1283,
+    "Longitude": -118.0477
+  },
+  {
+    "Name": " Brea Mall",
+    "Address": "2002 Brea Mall",
+    "City": "Brea",
+    "State": "CA",
+    "Postal": 92821,
+    "Latitude": 33.9276,
+    "Longitude": -117.8871
+  },
+  {
+    "Name": " Alderwood Mall",
+    "Address": "3000 184th St, SW, 664",
+    "City": "Lynnwood",
+    "State": "WA",
+    "Postal": 98037,
+    "Latitude": 47.8392,
+    "Longitude": -122.2855
+  },
+  {
+    "Name": " Hillsdale Shopping Center",
+    "Address": "304 Hillsdale Mall",
+    "City": "San Mateo",
+    "State": "CA",
+    "Postal": 94403,
+    "Latitude": 37.5384,
+    "Longitude": -122.3054
+  },
+  {
+    "Name": " Salem Center",
+    "Address": "480 Center St, NE, 144",
+    "City": "Salem",
+    "State": "OR",
+    "Postal": 97301,
+    "Latitude": 44.9488,
+    "Longitude": -123.0037
+  },
+  {
+    "Name": " Mission Valley Mall",
+    "Address": "1640 Camino Del Rio North, 311",
+    "City": "San Diego",
+    "State": "CA",
+    "Postal": 92108,
+    "Latitude": 32.774,
+    "Longitude": -117.1425
+  },
+  {
+    "Name": " Vancouver Mall",
+    "Address": "8700 NE Vancouver Mall Drive, 249",
+    "City": "Vancouver",
+    "State": "WA",
+    "Postal": 98662,
+    "Latitude": 45.6885,
+    "Longitude": -122.5779
+  },
+  {
+    "Name": " Arden Fair Mall",
+    "Address": "1689 Arden Way",
+    "City": "Sacramento",
+    "State": "CA",
+    "Postal": 95815,
+    "Latitude": 38.6054,
+    "Longitude": -121.4476
+  },
+  {
+    "Name": " Oakridge Mall",
+    "Address": "925 Blossom Hill Road, D16",
+    "City": "San Jose",
+    "State": "CA",
+    "Postal": 95123,
+    "Latitude": 37.2442,
+    "Longitude": -121.8316
+  },
+  {
+    "Name": " Fox River Mall",
+    "Address": "4301 W Wisconsin Ave",
+    "City": "Appleton",
+    "State": "WI",
+    "Postal": 54913,
+    "Latitude": 44.336,
+    "Longitude": -88.4
+  },
+  {
+    "Name": " Northpark Mall",
+    "Address": "320 West Kimberly",
+    "City": "Davenport",
+    "State": "IA",
+    "Postal": 52806,
+    "Latitude": 41.5897,
+    "Longitude": -90.6259
+  },
+  {
+    "Name": " Chicago Ridge Mall",
+    "Address": "631 Chicago Ridge",
+    "City": "Chicago Ridge",
+    "State": "IL",
+    "Postal": 60415,
+    "Latitude": 41.703,
+    "Longitude": -87.7788
+  },
+  {
+    "Name": " Plaza Bonita",
+    "Address": "3030 Plaza Bonita Rd, 270",
+    "City": "National City",
+    "State": "CA",
+    "Postal": 91950,
+    "Latitude": 32.6706,
+    "Longitude": -117.0947
+  },
+  {
+    "Name": " Southcenter Mall",
+    "Address": "111 Southcenter Mall",
+    "City": "Tukwila",
+    "State": "WA",
+    "Postal": 98188,
+    "Latitude": 47.4463,
+    "Longitude": -122.2721
+  },
+  {
+    "Name": " North County Mall",
+    "Address": "200 E Via Rancho Pkwy, 101",
+    "City": "Escondido",
+    "State": "CA",
+    "Postal": 92025,
+    "Latitude": 33.1019,
+    "Longitude": -117.0804
+  },
+  {
+    "Name": " Mayfair Mall",
+    "Address": "2500 N Mayfair Rd, 510",
+    "City": "Wauwatosa",
+    "State": "WI",
+    "Postal": 53226,
+    "Latitude": 43.049,
+    "Longitude": -88.0421
+  },
+  {
+    "Name": " Southlake Mall",
+    "Address": "1978 Southlake Mall, 144",
+    "City": "Merrillville",
+    "State": "IN",
+    "Postal": 46410,
+    "Latitude": 41.4802,
+    "Longitude": -87.3331
+  },
+  {
+    "Name": " Bay Park Square",
+    "Address": "211 Bay Park Square",
+    "City": "Green Bay",
+    "State": "WI",
+    "Postal": 54304,
+    "Latitude": 44.4928,
+    "Longitude": -88.0673
+  },
+  {
+    "Name": " Galleria At Tyler",
+    "Address": "1356 Tyler Mall",
+    "City": "Riverside",
+    "State": "CA",
+    "Postal": 92503,
+    "Latitude": 33.8825,
+    "Longitude": -117.4423
+  },
+  {
+    "Name": " Orland Square Mall",
+    "Address": "268 Orland Square, B18",
+    "City": "Orland Park",
+    "State": "IL",
+    "Postal": 60462,
+    "Latitude": 41.6253,
+    "Longitude": -87.8329
+  },
+  {
+    "Name": " Bridgewater Commons Mall",
+    "Address": "400 Commons Way, 300",
+    "City": "Bridgewater",
+    "State": "NJ",
+    "Postal": 8807,
+    "Latitude": 40.5924,
+    "Longitude": -74.6187
+  },
+  {
+    "Name": " Danbury Fair Mall",
+    "Address": "7 Backus Ave",
+    "City": "Danbury",
+    "State": "CT",
+    "Postal": 6810,
+    "Latitude": 41.3743,
+    "Longitude": -73.4576
+  },
+  {
+    "Name": " Valencia Town Center",
+    "Address": "24201 Valencia Blvd, 1302",
+    "City": "Valencia",
+    "State": "CA",
+    "Postal": 91355,
+    "Latitude": 34.4399,
+    "Longitude": -118.6444
+  },
+  {
+    "Name": " Silver City Galleria",
+    "Address": "2 Galleria Mall Dr",
+    "City": "Taunton",
+    "State": "MA",
+    "Postal": 2780,
+    "Latitude": 41.9091,
+    "Longitude": -71.1183
+  },
+  {
+    "Name": " Burlington Mall",
+    "Address": "75 Middlesex Tpke",
+    "City": "Burlington",
+    "State": "MA",
+    "Postal": 1803,
+    "Latitude": 42.5032,
+    "Longitude": -71.2017
+  },
+  {
+    "Name": " Fair Oaks Mall",
+    "Address": "1178 Fair Oaks, B115",
+    "City": "Fairfax",
+    "State": "VA",
+    "Postal": 22033,
+    "Latitude": 38.8752,
+    "Longitude": -77.3847
+  },
+  {
+    "Name": " The Mall at Prince Georges",
+    "Address": "3500 East West Hwy, 1232",
+    "City": "Hyattsville",
+    "State": "MD",
+    "Postal": 20782,
+    "Latitude": 38.9658,
+    "Longitude": -76.9665
+  },
+  {
+    "Name": " Valley Fair",
+    "Address": "2855 Stevens Creek Blvd, 1301",
+    "City": "San Jose",
+    "State": "CA",
+    "Postal": 95050,
+    "Latitude": 37.3512,
+    "Longitude": -121.9523
+  },
+  {
+    "Name": " Parkway Plaza Mall",
+    "Address": "765 Fletcher Parkway, R15",
+    "City": "El Cajon",
+    "State": "CA",
+    "Postal": 92020,
+    "Latitude": 32.7954,
+    "Longitude": -116.9697
+  },
+  {
+    "Name": " Manassas Mall",
+    "Address": "8300 Sudley Rd, L5",
+    "City": "Manassas",
+    "State": "VA",
+    "Postal": 20110,
+    "Latitude": 38.7472,
+    "Longitude": -77.4845
+  },
+  {
+    "Name": " Crossgates Mall",
+    "Address": "1 Crossgates Mall Rd, K205",
+    "City": "Albany",
+    "State": "NY",
+    "Postal": 12203,
+    "Latitude": 42.681,
+    "Longitude": -73.847
+  },
+  {
+    "Name": " Oakbrook Center",
+    "Address": "89 Oakbrook Center",
+    "City": "Oakbrook",
+    "State": "IL",
+    "Postal": 60523,
+    "Latitude": 41.8366,
+    "Longitude": -87.9533
+  },
+  {
+    "Name": " MainPlace Mall",
+    "Address": "2800 N Main, 136",
+    "City": "Santa Ana",
+    "State": "CA",
+    "Postal": 92705,
+    "Latitude": 33.7656,
+    "Longitude": -117.7901
+  },
+  {
+    "Name": " Yorktown Center",
+    "Address": "168 Yorktown Shopping Center",
+    "City": "Lombard",
+    "State": "IL",
+    "Postal": 60148,
+    "Latitude": 41.8736,
+    "Longitude": -88.0207
+  },
+  {
+    "Name": " Spotsylvania Towne Centre",
+    "Address": "160 Spotsylvania Mall",
+    "City": "Fredericksburg",
+    "State": "VA",
+    "Postal": 22408,
+    "Latitude": 38.2203,
+    "Longitude": -77.4437
+  },
+  {
+    "Name": " Montgomery Mall",
+    "Address": "711 Montgomery Mall",
+    "City": "North Wales",
+    "State": "PA",
+    "Postal": 19454,
+    "Latitude": 40.2233,
+    "Longitude": -75.243
+  },
+  {
+    "Name": " Dover Mall",
+    "Address": "1365 DuPont Hwy",
+    "City": "Dover",
+    "State": "DE",
+    "Postal": 19901,
+    "Latitude": 39.1815,
+    "Longitude": -75.4735
+  },
+  {
+    "Name": " The Mall In Columbia",
+    "Address": "10300 Little Patuxent Pkwy, 2645",
+    "City": "Columbia",
+    "State": "MD",
+    "Postal": 21044,
+    "Latitude": 39.2059,
+    "Longitude": -76.879
+  },
+  {
+    "Name": " Staten Island Mall",
+    "Address": "2655 Richmond Ave, 1580",
+    "City": "Staten Island",
+    "State": "NY",
+    "Postal": 10314,
+    "Latitude": 40.5993,
+    "Longitude": -74.1657
+  },
+  {
+    "Name": " Ocean County Mall",
+    "Address": "1201 Hooper Ave, 1035",
+    "City": "Toms River",
+    "State": "NJ",
+    "Postal": 8753,
+    "Latitude": 39.979,
+    "Longitude": -74.1604
+  },
+  {
+    "Name": " Annapolis Mall",
+    "Address": "1885 Annapolis Mall, 1458",
+    "City": "Annapolis",
+    "State": "MD",
+    "Postal": 21401,
+    "Latitude": 38.9876,
+    "Longitude": -76.5528
+  },
+  {
+    "Name": " Fox Valley Mall",
+    "Address": "1428 Fox Valley Center, E17",
+    "City": "Aurora",
+    "State": "IL",
+    "Postal": 60504,
+    "Latitude": 41.7475,
+    "Longitude": -88.2386
+  },
+  {
+    "Name": " the Galleria at Sunset",
+    "Address": "1300 W Sunset Rd, 1121",
+    "City": "Henderson",
+    "State": "NV",
+    "Postal": 89014,
+    "Latitude": 36.0617,
+    "Longitude": -115.0581
+  },
+  {
+    "Name": " Woodbridge Center",
+    "Address": "250 Woodbridge Center Dr, 458",
+    "City": "Woodbridge",
+    "State": "NJ",
+    "Postal": 7095,
+    "Latitude": 40.5528,
+    "Longitude": -74.2869
+  },
+  {
+    "Name": " Old Orchard Mall",
+    "Address": "4999 Old Orchard Center, L27",
+    "City": "Skokie",
+    "State": "IL",
+    "Postal": 60077,
+    "Latitude": 42.0347,
+    "Longitude": -87.7572
+  },
+  {
+    "Name": " Solomon Pond Mall",
+    "Address": "580 Donald Lynch Blvd, S252",
+    "City": "Marlborough",
+    "State": "MA",
+    "Postal": 1752,
+    "Latitude": 42.3496,
+    "Longitude": -71.5472
+  },
+  {
+    "Name": " The Mall of New Hampshire",
+    "Address": "1500 S Willow St, E139",
+    "City": "Manchester",
+    "State": "NH",
+    "Postal": 3103,
+    "Latitude": 42.9505,
+    "Longitude": -71.4465
+  },
+  {
+    "Name": " Pheasant Lane Mall",
+    "Address": "310 Danial Webster Hwy,   W113",
+    "City": "Nashua",
+    "State": "NH",
+    "Postal": 3060,
+    "Latitude": 42.7411,
+    "Longitude": -71.4582
+  },
+  {
+    "Name": " Dulles Town Center",
+    "Address": "21100 Dulles Town Circle, 227",
+    "City": "Dulles",
+    "State": "VA",
+    "Postal": 20166,
+    "Latitude": 38.9863,
+    "Longitude": -77.4558
+  },
+  {
+    "Name": " Clackamas Town Center",
+    "Address": "12000 SE 82nd Ave, 1013",
+    "City": "Portland",
+    "State": "OR",
+    "Postal": 97086,
+    "Latitude": 45.445,
+    "Longitude": -122.5282
+  },
+  {
+    "Name": " White Marsh Mall",
+    "Address": "8200 Perry Hall Blvd, 2140",
+    "City": "Baltimore",
+    "State": "MD",
+    "Postal": 21236,
+    "Latitude": 39.3884,
+    "Longitude": -76.4836
+  },
+  {
+    "Name": " South Bay Galleria",
+    "Address": "1815 Hawthorne Blvd",
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Postal": 90278,
+    "Latitude": 33.8732,
+    "Longitude": -118.3704
+  },
+  {
+    "Name": " Exton Square Mall",
+    "Address": "208 Exton Square Pkwy",
+    "City": "Exton",
+    "State": "PA",
+    "Postal": 19341,
+    "Latitude": 40.0399,
+    "Longitude": -75.6406
+  },
+  {
+    "Name": " Deptford Mall",
+    "Address": "1750 Deptford Center Rd, 1E-1",
+    "City": "Deptford",
+    "State": "NJ",
+    "Postal": 8096,
+    "Latitude": 39.8269,
+    "Longitude": -75.1267
+  },
+  {
+    "Name": " Hamilton Mall",
+    "Address": "4403 Black Horse Pike",
+    "City": "Mays Landing",
+    "State": "NJ",
+    "Postal": 8330,
+    "Latitude": 39.4816,
+    "Longitude": -74.7373
+  },
+  {
+    "Name": " Patrick Henry Mall",
+    "Address": "12300 Jefferson Ave, 811",
+    "City": "Newport News",
+    "State": "VA",
+    "Postal": 23602,
+    "Latitude": 37.1134,
+    "Longitude": -76.5179
+  },
+  {
+    "Name": " Springfield Mall",
+    "Address": "1250 Baltimore Pike",
+    "City": "Springfield",
+    "State": "PA",
+    "Postal": 19064,
+    "Latitude": 39.9332,
+    "Longitude": -75.3408
+  },
+  {
+    "Name": " The Centre at Salisbury",
+    "Address": "2300 N Salisbury Blvd",
+    "City": "Salisbury",
+    "State": "MD",
+    "Postal": 21801,
+    "Latitude": 38.3823,
+    "Longitude": -75.6396
+  },
+  {
+    "Name": " Greenbrier Mall",
+    "Address": "1401 Greenbrier Parkway South",
+    "City": "Chesapeake",
+    "State": "VA",
+    "Postal": 23320,
+    "Latitude": 36.7517,
+    "Longitude": -76.2176
+  },
+  {
+    "Name": " Park City Center",
+    "Address": "769 Park City Center",
+    "City": "Lancaster",
+    "State": "PA",
+    "Postal": 17601,
+    "Latitude": 40.0742,
+    "Longitude": -76.3149
+  },
+  {
+    "Name": " Stonebriar Centre",
+    "Address": "2601 Preston Rd",
+    "City": "Frisco",
+    "State": "TX",
+    "Postal": 75034,
+    "Latitude": 33.1466,
+    "Longitude": -96.8558
+  },
+  {
+    "Name": " The Galleria at Roseville",
+    "Address": "1151 Galleria Blvd",
+    "City": "Roseville",
+    "State": "CA",
+    "Postal": 95678,
+    "Latitude": 38.7641,
+    "Longitude": -121.2875
+  },
+  {
+    "Name": " Meadows Mall",
+    "Address": "4300 Meadows Lane",
+    "City": "Las Vegas",
+    "State": "NV",
+    "Postal": 89107,
+    "Latitude": 36.1712,
+    "Longitude": -115.2093
+  },
+  {
+    "Name": " Rockaway Townsquare",
+    "Address": "301 Mt Hope Rd, 1033",
+    "City": "Rockaway",
+    "State": "NJ",
+    "Postal": 7866,
+    "Latitude": 40.9549,
+    "Longitude": -74.489
+  },
+  {
+    "Name": " Mall Of Georgia",
+    "Address": "3333 Buford Dr",
+    "City": "Buford",
+    "State": "GA",
+    "Postal": 30519,
+    "Latitude": 34.0874,
+    "Longitude": -83.9449
+  },
+  {
+    "Name": " Arbor Place Mall",
+    "Address": "1400 Arbor Place",
+    "City": "Douglasville",
+    "State": "GA",
+    "Postal": 30135,
+    "Latitude": 33.6704,
+    "Longitude": -84.7343
+  },
+  {
+    "Name": " Coventry Mall",
+    "Address": "351 W Schuylkill Rd, H-7",
+    "City": "Pottstown",
+    "State": "PA",
+    "Postal": 19465,
+    "Latitude": 40.1903,
+    "Longitude": -75.6846
+  },
+  {
+    "Name": " Willowbrook Mall",
+    "Address": "1305 Willowbrook Mall",
+    "City": "Wayne",
+    "State": "NJ",
+    "Postal": 7470,
+    "Latitude": 40.9459,
+    "Longitude": -74.245
+  },
+  {
+    "Name": " Oak View Mall",
+    "Address": "3001 S 144th St",
+    "City": "Omaha",
+    "State": "NE",
+    "Postal": 68144,
+    "Latitude": 41.235,
+    "Longitude": -96.1185
+  },
+  {
+    "Name": " The Maine Mall",
+    "Address": "364 Maine Mall Rd",
+    "City": "S Portland",
+    "State": "ME",
+    "Postal": 4106,
+    "Latitude": 43.6314,
+    "Longitude": -70.286
+  },
+  {
+    "Name": " Asheville Mall",
+    "Address": "3 South Tunnel Rd",
+    "City": "Asheville",
+    "State": "NC",
+    "Postal": 28805,
+    "Latitude": 35.6338,
+    "Longitude": -82.4832
+  },
+  {
+    "Name": " The Woodlands Mall",
+    "Address": "1201 Lake Woodlands Dr",
+    "City": "The Woodlands",
+    "State": "TX",
+    "Postal": 77380,
+    "Latitude": 30.137,
+    "Longitude": -95.4684
+  },
+  {
+    "Name": " Paramus Park Mall",
+    "Address": "700 Paramus Park",
+    "City": "Paramus",
+    "State": "NJ",
+    "Postal": 7652,
+    "Latitude": 40.9473,
+    "Longitude": -74.0702
+  },
+  {
+    "Name": " Bowie Town Center",
+    "Address": "15607 Emerald Way",
+    "City": "Bowie",
+    "State": "MD",
+    "Postal": 20716,
+    "Latitude": 38.9264,
+    "Longitude": -76.715
+  },
+  {
+    "Name": " Sunrise Mall",
+    "Address": "6166 Sunrise Blvd",
+    "City": "Citrus Heights",
+    "State": "CA",
+    "Postal": 95610,
+    "Latitude": 38.6948,
+    "Longitude": -121.2718
+  },
+  {
+    "Name": " Lakeline Mall",
+    "Address": "11200 Lakeline Mall Dr",
+    "City": "Cedar Park",
+    "State": "TX",
+    "Postal": 78613,
+    "Latitude": 30.5039,
+    "Longitude": -97.8242
+  },
+  {
+    "Name": " The Mall At Robinson",
+    "Address": "100 Robinson Centre Dr",
+    "City": "Pittsburgh",
+    "State": "PA",
+    "Postal": 15205,
+    "Latitude": 40.4381,
+    "Longitude": -80.0991
+  },
+  {
+    "Name": " Park Place",
+    "Address": "5870 E Broadway Blvd",
+    "City": "Tucson",
+    "State": "AZ",
+    "Postal": 85711,
+    "Latitude": 32.2152,
+    "Longitude": -110.8834
+  },
+  {
+    "Name": " South Hills Village",
+    "Address": "301 South Hills Village",
+    "City": "Pittsburgh",
+    "State": "PA",
+    "Postal": 15241,
+    "Latitude": 40.3335,
+    "Longitude": -80.0814
+  },
+  {
+    "Name": " Barton Creek Square Mall",
+    "Address": "2901 S Capital of Texas Hwy",
+    "City": "Austin",
+    "State": "TX",
+    "Postal": 78746,
+    "Latitude": 30.2969,
+    "Longitude": -97.8096
+  },
+  {
+    "Name": " Memorial City Mall",
+    "Address": "340 Memorial City Mall",
+    "City": "Houston",
+    "State": "TX",
+    "Postal": 77024,
+    "Latitude": 29.7722,
+    "Longitude": -95.5142
+  },
+  {
+    "Name": " Citrus Park Mall",
+    "Address": "8021 Citrus Park Town Center, 7981",
+    "City": "Tampa",
+    "State": "FL",
+    "Postal": 33625,
+    "Latitude": 28.0669,
+    "Longitude": -82.5612
+  },
+  {
+    "Name": " Victoria Gardens",
+    "Address": "12509 N Main St",
+    "City": "Rancho Cucamonga",
+    "State": "CA",
+    "Postal": 91739,
+    "Latitude": 34.1728,
+    "Longitude": -117.5212
+  },
+  {
+    "Name": " Roosevelt Field Mall",
+    "Address": "630 Old Country Rd",
+    "City": "Garden City",
+    "State": "NY",
+    "Postal": 11530,
+    "Latitude": 40.7269,
+    "Longitude": -73.637
+  },
+  {
+    "Name": " Perimeter Mall",
+    "Address": "4400 Ashford Dunwoody Rd",
+    "City": "Atlanta",
+    "State": "GA",
+    "Postal": 30346,
+    "Latitude": 33.9242,
+    "Longitude": -84.3389
+  },
+  {
+    "Name": " West County Center",
+    "Address": "65 West County Center",
+    "City": "St Louis",
+    "State": "MO",
+    "Postal": 63131,
+    "Latitude": 38.6174,
+    "Longitude": -90.4442
+  },
+  {
+    "Name": " Northshore Mall",
+    "Address": "210 Andover St, W135",
+    "City": "Peabody",
+    "State": "MA",
+    "Postal": 1960,
+    "Latitude": 42.5343,
+    "Longitude": -70.9698
+  },
+  {
+    "Name": " Topanga Mall",
+    "Address": "6600 Topanga Canyon Blvd, 1100",
+    "City": "Canoga Park",
+    "State": "CA",
+    "Postal": 91303,
+    "Latitude": 34.1983,
+    "Longitude": -118.6009
+  },
+  {
+    "Name": " The Mall at Wellington Green",
+    "Address": "10300 W Forest Blvd, 114A",
+    "City": "Wellington",
+    "State": "FL",
+    "Postal": 33414,
+    "Latitude": 26.6489,
+    "Longitude": -80.2465
+  },
+  {
+    "Name": " North East Mall",
+    "Address": "1101 Melbourne Rd, 3084",
+    "City": "Hurst",
+    "State": "TX",
+    "Postal": 76053,
+    "Latitude": 32.8172,
+    "Longitude": -97.1806
+  },
+  {
+    "Name": " Ross Park Mall",
+    "Address": "1000 Ross Park Mall Dr",
+    "City": "Pittsburgh",
+    "State": "PA",
+    "Postal": 15237,
+    "Latitude": 40.5496,
+    "Longitude": -80.0435
+  },
+  {
+    "Name": " Deerbrook Mall",
+    "Address": "20131 Highway 59 N, 1330",
+    "City": "Humble",
+    "State": "TX",
+    "Postal": 77338,
+    "Latitude": 30.0173,
+    "Longitude": -95.2861
+  },
+  {
+    "Name": " Northlake Mall",
+    "Address": "6801 Northlake Mall Dr, 152",
+    "City": "Charlotte",
+    "State": "NC",
+    "Postal": 28216,
+    "Latitude": 35.3121,
+    "Longitude": -80.8887
+  },
+  {
+    "Name": " The Shops at La Cantera",
+    "Address": "15900 LaCantera Pky, Bldg 8, 8870",
+    "City": "San Antonio",
+    "State": "TX",
+    "Postal": 78256,
+    "Latitude": 29.6223,
+    "Longitude": -98.6262
+  },
+  {
+    "Name": " Simi Valley Town Center",
+    "Address": "1555 Simi Town Center Way, 635",
+    "City": "Simi Valley",
+    "State": "CA",
+    "Postal": 93063,
+    "Latitude": 34.3087,
+    "Longitude": -118.6872
+  },
+  {
+    "Name": " First Colony Mall",
+    "Address": "16535 Southwest Freeway",
+    "City": "Sugar Land",
+    "State": "TX",
+    "Postal": 77479,
+    "Latitude": 29.567,
+    "Longitude": -95.636
+  },
+  {
+    "Name": " Towne Place at Garden State Park",
+    "Address": "957 Haddonfield Road",
+    "City": "Cherry Hill",
+    "State": "NJ",
+    "Postal": 8002,
+    "Latitude": 39.932,
+    "Longitude": -75.0276
+  },
+  {
+    "Name": " Centennial Promenade",
+    "Address": "9619 E County Line Rd, Unit 43, Ste D",
+    "City": "Centennial",
+    "State": "CO",
+    "Postal": 80112,
+    "Latitude": 39.8716,
+    "Longitude": -104.7982
+  },
+  {
+    "Name": " Packwood Creek Shopping Ctr",
+    "Address": "4031 South Mooney Blvd, Suite F4",
+    "City": "Visalia",
+    "State": "CA",
+    "Postal": 93277,
+    "Latitude": 36.3013,
+    "Longitude": -119.3726
+  },
+  {
+    "Name": " Arrowhead Crossing",
+    "Address": "7575 W Bell Road, Space 101",
+    "City": "Peoria",
+    "State": "AZ",
+    "Postal": 85382,
+    "Latitude": 33.6543,
+    "Longitude": -112.2495
+  },
+  {
+    "Name": "Garden State Plaza",
+    "Address": "1 Garden State Plaza, Space 1077",
+    "City": "Paramus",
+    "State": "NJ",
+    "Postal": 7652,
+    "Latitude": 40.9473,
+    "Longitude": -74.0702
+  },
+  {
+    "Name": "Shoppes @ Millenia",
+    "Address": "4192 Conroy Road",
+    "City": "Orlando",
+    "State": "FL",
+    "Postal": 32839,
+    "Latitude": 28.4881,
+    "Longitude": -81.4072
+  },
+  {
+    "Name": "Eastwood Mall",
+    "Address": "5555 Youngstown Warren Rd, Unit  906",
+    "City": "Niles",
+    "State": "OH",
+    "Postal": 44446,
+    "Latitude": 41.1896,
+    "Longitude": -80.7493
+  },
+  {
+    "Name": "Governorâ€™s Square Mall",
+    "Address": "2801 Wilma Rudolph Blvd, Unit  460",
+    "City": "Clarksville",
+    "State": "TN",
+    "Postal": 37040,
+    "Latitude": 36.5225,
+    "Longitude": -87.3349
+  },
+  {
+    "Name": "Kentucky Oaks Mall",
+    "Address": "5101 Hinkleville Rd, Unit  690",
+    "City": "Paducah",
+    "State": "KY",
+    "Postal": 42001,
+    "Latitude": 37.0306,
+    "Longitude": -88.7094
+  },
+  {
+    "Name": "Huntington Mall",
+    "Address": "500 Mall Rd, Unit  420",
+    "City": "Barbourville",
+    "State": "WV",
+    "Postal": 25504,
+    "Latitude": 38.3763,
+    "Longitude": -82.27
+  },
+  {
+    "Name": "Sandusky Mall",
+    "Address": "4314 Milan Rd, Unit 510",
+    "City": "Sandusky",
+    "State": "OH",
+    "Postal": 44870,
+    "Latitude": 41.4283,
+    "Longitude": -82.7448
+  },
+  {
+    "Name": "Hanes Mall",
+    "Address": "3320 Silas Creek Pkwy, Unit  BU-668A",
+    "City": "Winston-Salem",
+    "State": "NC",
+    "Postal": 27103,
+    "Latitude": 36.0582,
+    "Longitude": -80.3215
+  },
+  {
+    "Name": "Northwoods Mall",
+    "Address": "2150 Northwoods Blvd, Unit  K-852",
+    "City": "North Charleston",
+    "State": "SC",
+    "Postal": 29406,
+    "Latitude": 32.9373,
+    "Longitude": -80.0352
+  },
+  {
+    "Name": "Hanes Mall",
+    "Address": "3320 Silas Creek Pkwy, Unit  BU-668A",
+    "City": "Winston-Salem",
+    "State": "NC",
+    "Postal": 27103,
+    "Latitude": 36.0582,
+    "Longitude": -80.3215
+  },
+  {
+    "Name": "Northwoods Mall",
+    "Address": "2150 Northwoods Blvd, Unit  K-852",
+    "City": "North Charleston",
+    "State": "SC",
+    "Postal": 29406,
+    "Latitude": 32.9373,
+    "Longitude": -80.0352
+  },
+  {
+    "Name": " buybuyBABY Frisco",
+    "Address": "2930 Preston Road, Suite 600",
+    "City": "Frisco",
+    "State": "TX",
+    "Postal": 75034,
+    "Latitude": 33.1466,
+    "Longitude": -96.8558
+  },
+  {
+    "Name": " buybuyBABY Plano",
+    "Address": "2712 N Central Expressway",
+    "City": "Plano",
+    "State": "TX",
+    "Postal": 75074,
+    "Latitude": 33.0316,
+    "Longitude": -96.6732
+  },
+  {
+    "Name": " buybuyBABY Hurst",
+    "Address": "1451 West Pipeline Rd",
+    "City": "Hurst",
+    "State": "TX",
+    "Postal": 76053,
+    "Latitude": 32.8172,
+    "Longitude": -97.1806
+  },
+  {
+    "Name": " buybuyBABY Ft Worth",
+    "Address": "4648 SW Loop 820 ",
+    "City": "Fort Worth",
+    "State": "TX",
+    "Postal": 76109,
+    "Latitude": 32.7007,
+    "Longitude": -97.387
+  },
+  {
+    "Name": " buybuyBABY Overland Park",
+    "Address": "12055 Metcalf Ave ",
+    "City": "Overland Park",
+    "State": "KS",
+    "Postal": 66213,
+    "Latitude": 38.8989,
+    "Longitude": -94.7082
+  },
+  {
+    "Name": " buybuyBABY Temecula",
+    "Address": "40438 Winchester Rd ",
+    "City": "Temecula",
+    "State": "CA",
+    "Postal": 92591,
+    "Latitude": 33.5353,
+    "Longitude": -117.1048
+  },
+  {
+    "Name": " buybuyBABY Elk Grove",
+    "Address": "7621 Laguna Blvd",
+    "City": "Elk Grove",
+    "State": "CA",
+    "Postal": 95758,
+    "Latitude": 38.4278,
+    "Longitude": -121.4447
+  },
+  {
+    "Name": " buybuyBABY Mission Viejo",
+    "Address": "25322 El Paseo",
+    "City": "Mission Viejo",
+    "State": "CA",
+    "Postal": 92691,
+    "Latitude": 33.6119,
+    "Longitude": -117.6659
+  },
+  {
+    "Name": " buybuyBABY Braintree",
+    "Address": "160 Granite Street",
+    "City": "Braintree",
+    "State": "MA",
+    "Postal": 2184,
+    "Latitude": 42.2062,
+    "Longitude": -71.0023
+  },
+  {
+    "Name": " buybuyBABY Rivers Edge",
+    "Address": "4030 East 82nd Street",
+    "City": "Indianapolis",
+    "State": "IN",
+    "Postal": 46250,
+    "Latitude": 39.8988,
+    "Longitude": -86.0587
+  },
+  {
+    "Name": " buybuyBABY Webster",
+    "Address": "19801 Gulf Freeway, Suite 800",
+    "City": "Webster",
+    "State": "TX",
+    "Postal": 77598,
+    "Latitude": 29.5394,
+    "Longitude": -95.135
+  },
+  {
+    "Name": " buybuyBABY Durham",
+    "Address": "5430 New Hope Commons Drive 5430 New Hope Commons Drive 5430 New Hope Commons Drive ",
+    "City": "Durham",
+    "State": "NC",
+    "Postal": 27707,
+    "Latitude": 35.9545,
+    "Longitude": -78.9533
+  },
+  {
+    "Name": " buybuyBABY Brookfield",
+    "Address": "665 Main Street 665 Main Street 665 Main Street ",
+    "City": "Brookfield",
+    "State": "WI",
+    "Postal": 53005,
+    "Latitude": 43.0623,
+    "Longitude": -88.0988
+  },
+  {
+    "Name": " buybuyBABY Kentwood",
+    "Address": "4100 28th Street SE 4100 28th Street SE 4100 28th Street SE ",
+    "City": "Kentwood",
+    "State": "MI",
+    "Postal": 49512,
+    "Latitude": 42.8831,
+    "Longitude": -85.5276
+  },
+  {
+    "Name": " buybuyBABY Amherst",
+    "Address": "1261 Niagara Falls Boulevard 1 ",
+    "City": "Amherst",
+    "State": "NY",
+    "Postal": 14226,
+    "Latitude": 42.9709,
+    "Longitude": -78.7965
+  },
+  {
+    "Name": " buybuyBABY Paramus",
+    "Address": "Route 17 North 34 East Ridgewood Ave",
+    "City": "Paramus",
+    "State": "NJ",
+    "Postal": 7652,
+    "Latitude": 40.9473,
+    "Longitude": -74.0702
+  },
+  {
+    "Name": " buybuyBABY Fredericksburg",
+    "Address": "1320 Carl D Silver Parkway Suite 100 ",
+    "City": "Fredericksburg",
+    "State": "VA",
+    "Postal": 22401,
+    "Latitude": 38.2993,
+    "Longitude": -77.4867
+  },
+  {
+    "Name": " buybuyBABY Tucson",
+    "Address": "7475 North La Cholla Blvd ",
+    "City": "Tucson",
+    "State": "AZ",
+    "Postal": 85741,
+    "Latitude": 32.3352,
+    "Longitude": -111.0418
+  },
+  {
+    "Name": " buybuyBABY Torrance",
+    "Address": "3700 West Torrance Blvd  ",
+    "City": "Torrance",
+    "State": "CA",
+    "Postal": 90503,
+    "Latitude": 33.8404,
+    "Longitude": -118.3537
+  },
+  {
+    "Name": " buybuyBABY Columbia",
+    "Address": "238 Harbison Boulevard",
+    "City": "Columbia",
+    "State": "SC",
+    "Postal": 29212,
+    "Latitude": 34.0762,
+    "Longitude": -81.1988
+  },
+  {
+    "Name": " buybuyBABY Garden City",
+    "Address": "895 East Gate Boulevard",
+    "City": "Garden City",
+    "State": "NY",
+    "Postal": 11530,
+    "Latitude": 40.7269,
+    "Longitude": -73.637
+  },
+  {
+    "Name": " buybuyBABY Coral Springs",
+    "Address": "2035 N University Drive",
+    "City": "Coral Springs",
+    "State": "FL",
+    "Postal": 33071,
+    "Latitude": 26.2446,
+    "Longitude": -80.2653
+  },
+  {
+    "Name": " buybuyBABY Batavia",
+    "Address": "301 N Randall Road",
+    "City": "Batavia",
+    "State": "IL",
+    "Postal": 60510,
+    "Latitude": 41.8411,
+    "Longitude": -88.3066
+  },
+  {
+    "Name": " buybuyBABY Addison",
+    "Address": "13900 Dallas Parkway",
+    "City": "Dallas",
+    "State": "TX",
+    "Postal": 75240,
+    "Latitude": 32.9303,
+    "Longitude": -96.7875
+  },
+  {
+    "Name": " buybuyBABY Hoover",
+    "Address": "4351 Creekside Avenue",
+    "City": "Hoover",
+    "State": "AL",
+    "Postal": 35244,
+    "Latitude": 33.3529,
+    "Longitude": -86.8253
+  },
+  {
+    "Name": " buybuyBABY Scottsdale",
+    "Address": "10080 North 90th Street",
+    "City": "Scottsdale",
+    "State": "AZ",
+    "Postal": 85258,
+    "Latitude": 33.5643,
+    "Longitude": -111.8959
+  },
+  {
+    "Name": " buybuyBABY Chandler",
+    "Address": "2640 West Chandler Boulevard",
+    "City": "Chandler",
+    "State": "AZ",
+    "Postal": 85224,
+    "Latitude": 33.3237,
+    "Longitude": -111.8785
+  },
+  {
+    "Name": " buybuyBABY Pleasant Hill",
+    "Address": "3250 Buskirk Avenue, Suite 300-A",
+    "City": "Pleasant Hill",
+    "State": "CA",
+    "Postal": 94523,
+    "Latitude": 37.954,
+    "Longitude": -122.0761
+  },
+  {
+    "Name": " buybuyBABY Almaden Plaza",
+    "Address": "5353 Almaden Expressway, Suite A100",
+    "City": "San Jose",
+    "State": "CA",
+    "Postal": 95118,
+    "Latitude": 37.2555,
+    "Longitude": -121.89
+  },
+  {
+    "Name": " buybuyBABY Brandon",
+    "Address": "11345 Causeway Boulevard",
+    "City": "Brandon",
+    "State": "FL",
+    "Postal": 33511,
+    "Latitude": 27.9098,
+    "Longitude": -82.2957
+  },
+  {
+    "Name": " buybuyBABY Alpharetta",
+    "Address": "7121 North Point Parkway",
+    "City": "Alpharetta",
+    "State": "GA",
+    "Postal": 30022,
+    "Latitude": 34.0299,
+    "Longitude": -84.2397
+  },
+  {
+    "Name": " buybuyBABY Crystal Lake",
+    "Address": "5540 Northwest Highway",
+    "City": "Crystal Lake",
+    "State": "IL",
+    "Postal": 60014,
+    "Latitude": 42.2324,
+    "Longitude": -88.3274
+  },
+  {
+    "Name": " buybuyBABY Bridgewater",
+    "Address": "711 Easton Turnpike",
+    "City": "Bridgewater",
+    "State": "NJ",
+    "Postal": 8807,
+    "Latitude": 40.5924,
+    "Longitude": -74.6187
+  },
+  {
+    "Name": " buybuyBABY Totowa",
+    "Address": "545 Route 46 West",
+    "City": "Totowa",
+    "State": "NJ",
+    "Postal": 7512,
+    "Latitude": 40.9034,
+    "Longitude": -74.2198
+  },
+  {
+    "Name": " buybuyBABY Colonie",
+    "Address": "1440 Central Avenue",
+    "City": "Colonie",
+    "State": "NY",
+    "Postal": 12205,
+    "Latitude": 42.7188,
+    "Longitude": -73.8292
+  },
+  {
+    "Name": " buybuyBABY Sandy",
+    "Address": "10230 South State Street",
+    "City": "Sandy",
+    "State": "UT",
+    "Postal": 84070,
+    "Latitude": 40.5771,
+    "Longitude": -111.889
+  },
+  {
+    "Name": " buybuyBABY Tulsa",
+    "Address": "10017 East 71st Street",
+    "City": "Tulsa",
+    "State": "OK",
+    "Postal": 74133,
+    "Latitude": 36.0393,
+    "Longitude": -95.8774
+  },
+  {
+    "Name": " buybuyBABY Newark",
+    "Address": "501 West Main Street",
+    "City": "Newark",
+    "State": "DE",
+    "Postal": 19702,
+    "Latitude": 39.6182,
+    "Longitude": -75.7296
+  },
+  {
+    "Name": " buybuyBABY Roseville",
+    "Address": "1120 Galleria Blvd",
+    "City": "Roseville",
+    "State": "CA",
+    "Postal": 95678,
+    "Latitude": 38.7641,
+    "Longitude": -121.2875
+  },
+  {
+    "Name": " buybuyBABY Albuquerque",
+    "Address": "2451 San Mateo Blvd",
+    "City": "Albuquerque",
+    "State": "NM",
+    "Postal": 87110,
+    "Latitude": 35.1081,
+    "Longitude": -106.5781
+  },
+  {
+    "Name": " buybuyBABY Deptford",
+    "Address": "1745 Deptford Center Rd",
+    "City": "Deptford",
+    "State": "NJ",
+    "Postal": 8096,
+    "Latitude": 39.8269,
+    "Longitude": -75.1267
+  },
+  {
+    "Name": " buybuyBABY Independence",
+    "Address": "20000 East Jackson Drive",
+    "City": "Independence",
+    "State": "MO",
+    "Postal": 64057,
+    "Latitude": 39.072,
+    "Longitude": -94.3193
+  },
+  {
+    "Name": " buybuyBABY Livingston",
+    "Address": "530 W Mount Pleasant Ave",
+    "City": "Livingston",
+    "State": "NJ",
+    "Postal": 7039,
+    "Latitude": 40.7858,
+    "Longitude": -74.3291
+  },
+  {
+    "Name": " buybuyBABY Potomac Mills",
+    "Address": "2700 Potomac Mills Circle",
+    "City": "Woodbridge",
+    "State": "VA",
+    "Postal": 22192,
+    "Latitude": 38.6837,
+    "Longitude": -77.3147
+  },
+  {
+    "Name": " buybuyBABY Downers Grove",
+    "Address": "1556 Butterfield Road",
+    "City": "Downers Grove",
+    "State": "IL",
+    "Postal": 60515,
+    "Latitude": 41.8106,
+    "Longitude": -88.0228
+  },
+  {
+    "Name": " buybuyBABY Yorba Linda",
+    "Address": "22999 Savi Ranch Parkway",
+    "City": "Yorba Linda ",
+    "State": "CA",
+    "Postal": 92887,
+    "Latitude": 33.8855,
+    "Longitude": -117.7302
+  },
+  {
+    "Name": " buybuyBABY Rockville",
+    "Address": "1683 Rockville Pike ",
+    "City": "Rockville",
+    "State": "MD",
+    "Postal": 20852,
+    "Latitude": 39.052,
+    "Longitude": -77.1219
+  },
+  {
+    "Name": " buybuyBABY Huntington",
+    "Address": "350 Route 110",
+    "City": "Huntington Station",
+    "State": "NY",
+    "Postal": 11746,
+    "Latitude": 40.8143,
+    "Longitude": -73.3623
+  },
+  {
+    "Name": " buybuyBABY Kennesaw",
+    "Address": "2555 Cobb Place Lane NW, Suite 50 ",
+    "City": "Kennesaw",
+    "State": "GA",
+    "Postal": 30144,
+    "Latitude": 34.0369,
+    "Longitude": -84.5909
+  },
+  {
+    "Name": " buybuyBABY Tukwila",
+    "Address": "17686 Southcenter Parkway ",
+    "City": "Tukwila",
+    "State": "WA",
+    "Postal": 98188,
+    "Latitude": 47.4463,
+    "Longitude": -122.2721
+  }
 ]

@@ -1,2092 +1,2062 @@
 [
- {
-   "Name": null,
-   "Address1": "232 Loudon Rd.",
-   "Address2": null,
-   "City": "Concord",
-   "State": "NH",
-   "Postal": "03301",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1147 Union Ave.",
-   "Address2": null,
-   "City": "Laconia",
-   "State": "NH",
-   "Postal": "03246",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "50 Crystal Ave.",
-   "Address2": null,
-   "City": "Derry",
-   "State": "NH",
-   "Postal": "03038",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2470 Lafayette Rd. (Route 1)",
-   "Address2": null,
-   "City": "Portsmouth",
-   "State": "NH",
-   "Postal": "03802",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1800 South Willow St.",
-   "Address2": null,
-   "City": "Manchester",
-   "State": "NH",
-   "Postal": "03103",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4 Manville Rd.",
-   "Address2": null,
-   "City": "Tilton",
-   "State": "NH",
-   "Postal": "03276",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "504 Amherst St.",
-   "Address2": null,
-   "City": "Nashua",
-   "State": "NH",
-   "Postal": "03063",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "420 West St.",
-   "Address2": null,
-   "City": "Keene",
-   "State": "NH",
-   "Postal": "03431",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1246 Hooksett Rd.",
-   "Address2": null,
-   "City": "Hooksett",
-   "State": "NH",
-   "Postal": "03106",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "540 Nashua St.",
-   "Address2": null,
-   "City": "Milford",
-   "State": "NH",
-   "Postal": "03055",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "665 Mast Rd.",
-   "Address2": null,
-   "City": "Manchester ",
-   "State": "NH",
-   "Postal": "03102",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "182 Washington St.",
-   "Address2": null,
-   "City": "Somerville",
-   "State": "MA",
-   "Postal": "02143",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "557 Main St.",
-   "Address2": null,
-   "City": "Waltham",
-   "State": "MA",
-   "Postal": "02452",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "740 American Legion Hwy.",
-   "Address2": null,
-   "City": "Roslindale",
-   "State": "MA",
-   "Postal": "02131",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "275 Boylston St.",
-   "Address2": null,
-   "City": "Brookline",
-   "State": "MA",
-   "Postal": "02445",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "80 Galen St.",
-   "Address2": null,
-   "City": "Watertown",
-   "State": "MA",
-   "Postal": "02472",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "90 Winchester St.",
-   "Address2": null,
-   "City": "Newton Highlands",
-   "State": "MA",
-   "Postal": "02461",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "222 Brighton Ave.",
-   "Address2": null,
-   "City": "Allston",
-   "State": "MA",
-   "Postal": "02134",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2485 Mass. Ave.",
-   "Address2": null,
-   "City": "Cambridge",
-   "State": "MA",
-   "Postal": "02140",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "891 Worcester Rd.",
-   "Address2": null,
-   "City": "Natick",
-   "State": "MA",
-   "Postal": "01760",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "749 Worcester Rd.",
-   "Address2": null,
-   "City": "Framingham",
-   "State": "MA",
-   "Postal": "01702",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "11 Medway St.",
-   "Address2": null,
-   "City": "Milford",
-   "State": "MA",
-   "Postal": "01757",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "82 Mystic St.",
-   "Address2": null,
-   "City": "Arlington",
-   "State": "MA",
-   "Postal": "02474",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "212 Salem St.",
-   "Address2": null,
-   "City": "Medford",
-   "State": "MA",
-   "Postal": "02155",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "216 Main St.",
-   "Address2": null,
-   "City": "North Reading",
-   "State": "MA",
-   "Postal": "01864",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "775 River St.",
-   "Address2": null,
-   "City": "Haverhill",
-   "State": "MA",
-   "Postal": "01830",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "87 North St.",
-   "Address2": null,
-   "City": "Salem",
-   "State": "MA",
-   "Postal": "01970",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "800 Western Ave.",
-   "Address2": null,
-   "City": "Lynn",
-   "State": "MA",
-   "Postal": "01905",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1754 Revere Beach Pkwy",
-   "Address2": null,
-   "City": "Everett",
-   "State": "MA",
-   "Postal": "02149",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "193 Elm St. (Rte 110), Unit #1",
-   "Address2": null,
-   "City": "Salisbury",
-   "State": "MA",
-   "Postal": "01952",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1294 Gorham St.",
-   "Address2": null,
-   "City": "Lowell",
-   "State": "MA",
-   "Postal": "01852",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "320 Montvale Ave.",
-   "Address2": null,
-   "City": "Woburn",
-   "State": "MA",
-   "Postal": "01801",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "488 Broadway",
-   "Address2": null,
-   "City": "Methuen",
-   "State": "MA",
-   "Postal": "01844",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "100 Broadway",
-   "Address2": null,
-   "City": "Malden",
-   "State": "MA",
-   "Postal": "02148",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "15 Spring St.",
-   "Address2": null,
-   "City": "West Roxbury",
-   "State": "MA",
-   "Postal": "02132",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1130 Warwick Ave.",
-   "Address2": null,
-   "City": "Warwick",
-   "State": "RI",
-   "Postal": "02888",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "159 Putnam Ave.",
-   "Address2": null,
-   "City": "Johnston",
-   "State": "RI",
-   "Postal": "02919",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1988 Washington St.",
-   "Address2": null,
-   "City": "Hanover",
-   "State": "MA",
-   "Postal": "02339",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "520 Reservoir Ave.",
-   "Address2": null,
-   "City": "Cranston",
-   "State": "RI",
-   "Postal": "02910",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "366 Centre St.",
-   "Address2": null,
-   "City": "Quincy",
-   "State": "MA",
-   "Postal": "02169",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "640 Oak St.",
-   "Address2": null,
-   "City": "Brockton",
-   "State": "MA",
-   "Postal": "02301",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1195 Fall River Ave.",
-   "Address2": null,
-   "City": "Seekonk",
-   "State": "MA",
-   "Postal": "02771",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "425 High Plain St.",
-   "Address2": null,
-   "City": "Walpole",
-   "State": "MA",
-   "Postal": "02081",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "148 Samoset St",
-   "Address2": null,
-   "City": "Plymouth",
-   "State": "MA",
-   "Postal": "02360",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "175 Everett Street",
-   "Address2": null,
-   "City": "Norwood",
-   "State": "MA",
-   "Postal": "02062",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1600 Post Rd.",
-   "Address2": null,
-   "City": "Warwick",
-   "State": "RI",
-   "Postal": "02888",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "15 Sonja Drive",
-   "Address2": null,
-   "City": "Rindge",
-   "State": "NH",
-   "Postal": "03461",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "7391 Baltimore-Annapolis Blvd.",
-   "Address2": null,
-   "City": "Glen Burnie",
-   "State": "MD",
-   "Postal": "21061",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "5515 Ritchie Hwy.",
-   "Address2": null,
-   "City": "Brooklyn Park",
-   "State": "MD",
-   "Postal": "21225",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "8407 Centreville Rd.",
-   "Address2": null,
-   "City": "Manassas Park",
-   "State": "VA",
-   "Postal": "20111",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4215 Montgomery Rd.",
-   "Address2": null,
-   "City": "Ellicott City",
-   "State": "MD",
-   "Postal": "21043",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "143 Saint Patricks Dr.",
-   "Address2": null,
-   "City": "Waldorf",
-   "State": "MD",
-   "Postal": "20603",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "820 Solomons Island dr.",
-   "Address2": null,
-   "City": "Prince Frederick",
-   "State": "MD",
-   "Postal": "20678",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1324 Martin Blvd",
-   "Address2": null,
-   "City": "Middle River",
-   "State": "MD",
-   "Postal": "21220",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "16505 Ballpark Road ",
-   "Address2": null,
-   "City": "Bowie",
-   "State": "MD ",
-   "Postal": "20716",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "10416 Southern Maryland Blvd.",
-   "Address2": null,
-   "City": "Dunkirk",
-   "State": "MD",
-   "Postal": "20754",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "6660 Crain Highway",
-   "Address2": null,
-   "City": "La Plata",
-   "State": "MD",
-   "Postal": "20646",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "8538 Sudley Rd.",
-   "Address2": null,
-   "City": "Manassas",
-   "State": "VA",
-   "Postal": "20110",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1922 West St.",
-   "Address2": null,
-   "City": "Annapolis",
-   "State": "MD",
-   "Postal": "21401",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "57 Mayo Rd.",
-   "Address2": null,
-   "City": "Edgewater",
-   "State": "MD",
-   "Postal": "21037",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "915 Norman Eskridge Hwy.",
-   "Address2": null,
-   "City": "Seaford",
-   "State": "DE",
-   "Postal": "19973",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1001 North Salisbury Blvd.",
-   "Address2": null,
-   "City": "Salisbury",
-   "State": "MD",
-   "Postal": "21801",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "710 North Dupont Hwy.",
-   "Address2": null,
-   "City": "Dover",
-   "State": "DE",
-   "Postal": "19901",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "110 Carriage Lane",
-   "Address2": null,
-   "City": "Delran",
-   "State": "NJ",
-   "Postal": "08075",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "122 N. DuPont Highway",
-   "Address2": null,
-   "City": "New Castle",
-   "State": "DE",
-   "Postal": "19720",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4101 Veterans Highway",
-   "Address2": null,
-   "City": "Levittown",
-   "State": "PA",
-   "Postal": "19056",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "237 S. Black Horse Pike",
-   "Address2": null,
-   "City": "Mount Ephraim",
-   "State": "NJ",
-   "Postal": "08059",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "11755 Rousby Hall Rd,",
-   "Address2": null,
-   "City": "Lusby",
-   "State": "MD",
-   "Postal": "20657",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2667 Colonial Blvd.",
-   "Address2": null,
-   "City": "Fort Myers",
-   "State": "FL",
-   "Postal": "33907",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "13730 South Tamiami Trail",
-   "Address2": null,
-   "City": "Fort Myers",
-   "State": "FL",
-   "Postal": "33912",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2332 East Tamiami Trail",
-   "Address2": null,
-   "City": "Naples",
-   "State": "FL",
-   "Postal": "34112",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2257 Pine Ridge Rd.",
-   "Address2": null,
-   "City": "Naples",
-   "State": "FL",
-   "Postal": "34109",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2645 South McCall Rd.",
-   "Address2": null,
-   "City": "Englewood",
-   "State": "FL",
-   "Postal": "34224",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "15621 San Carlos Blvd. ",
-   "Address2": null,
-   "City": "Fort Myers",
-   "State": "FL ",
-   "Postal": "33908",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4703 Del Prado Blvd. ",
-   "Address2": null,
-   "City": "Cape Coral ",
-   "State": "FL ",
-   "Postal": "33904",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "7326 Secor Rd",
-   "Address2": null,
-   "City": "Lambertville",
-   "State": "MI",
-   "Postal": "48144",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "31005 Greenfield",
-   "Address2": null,
-   "City": "Beverly Hills",
-   "State": "MI",
-   "Postal": "48025",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2905 S. Telegraph Road",
-   "Address2": null,
-   "City": "Dearborn",
-   "State": "MI",
-   "Postal": "48124",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "44075 Ford Road",
-   "Address2": null,
-   "City": "Canton",
-   "State": "MI",
-   "Postal": "48187",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4117 13 Mile Road",
-   "Address2": null,
-   "City": "Warren",
-   "State": "MI",
-   "Postal": "48092",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "13300 West 9 Mile Road",
-   "Address2": null,
-   "City": "Oak Park",
-   "State": "MI",
-   "Postal": "48237",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3901 West Road (Longmeadow)",
-   "Address2": null,
-   "City": "Trenton",
-   "State": "MI",
-   "Postal": "48183",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "31151 5 Mile Road",
-   "Address2": null,
-   "City": "Livonia",
-   "State": "MI",
-   "Postal": "48154",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "42955 Hayes ",
-   "Address2": null,
-   "City": "Sterling Heights",
-   "State": "MI",
-   "Postal": "48313",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "8827 Telegraph Road",
-   "Address2": null,
-   "City": "Redford Township",
-   "State": "MI",
-   "Postal": "48239",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "16335 Mack Avenue",
-   "Address2": null,
-   "City": "Detroit",
-   "State": "MI",
-   "Postal": "48224",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "32686 Grand River",
-   "Address2": null,
-   "City": "Farmington",
-   "State": "MI",
-   "Postal": "48336",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "24400 Novi Road, Suite 101",
-   "Address2": null,
-   "City": "Novi",
-   "State": "MI",
-   "Postal": "48375",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3040 Lohr Circle",
-   "Address2": null,
-   "City": "Ann Arbor",
-   "State": "MI",
-   "Postal": "48108",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "27601 Harper Road",
-   "Address2": null,
-   "City": "St. Clair Shores",
-   "State": "MI",
-   "Postal": "48081",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1054 E. Grand River",
-   "Address2": null,
-   "City": "East Lansing",
-   "State": "MI",
-   "Postal": "48823",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "930 East Saginaw Highway",
-   "Address2": null,
-   "City": "Grand Ledge",
-   "State": "MI",
-   "Postal": "48837",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2661 E Grand River",
-   "Address2": null,
-   "City": "East Lansing ",
-   "State": "MA",
-   "Postal": "48823",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2517 North East Street ",
-   "Address2": null,
-   "City": "Lansing ",
-   "State": "MI",
-   "Postal": "48906",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1755 W. Grand River Ave.",
-   "Address2": null,
-   "City": "Okemos",
-   "State": "MI",
-   "Postal": "48864",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "622 S.Waverly",
-   "Address2": null,
-   "City": "Lansing",
-   "State": "MI",
-   "Postal": "48917",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "601 E. Kalamazoo Street ",
-   "Address2": null,
-   "City": "Lansing",
-   "State": "MI",
-   "Postal": "48912",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "5725 S. Cedar Street ",
-   "Address2": null,
-   "City": "Lansing",
-   "State": "MI",
-   "Postal": "48910",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "5030 West Saginaw ",
-   "Address2": null,
-   "City": "Lansing",
-   "State": "MI",
-   "Postal": "48917",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1919 Tiffin Avenue",
-   "Address2": null,
-   "City": "Findlay",
-   "State": "OH",
-   "Postal": "45840",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "6303 Monroe",
-   "Address2": null,
-   "City": "Sylvania",
-   "State": "OH",
-   "Postal": "43560",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "936 S. Main Street",
-   "Address2": null,
-   "City": "Bowling Green",
-   "State": "OH",
-   "Postal": "43402",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1315 N. Wisner",
-   "Address2": null,
-   "City": "Jackson ",
-   "State": "MI",
-   "Postal": "49202",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "5757 Telegraph",
-   "Address2": null,
-   "City": "Toledo ",
-   "State": "OH",
-   "Postal": "43612",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3314 Navarre Ave",
-   "Address2": null,
-   "City": "Oregon",
-   "State": "OH",
-   "Postal": "43616",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "6529 W. Central Avenue",
-   "Address2": null,
-   "City": "Toledo",
-   "State": "OH",
-   "Postal": "43617",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3231 E. Michigan Avenue",
-   "Address2": null,
-   "City": "Jackson",
-   "State": "MI",
-   "Postal": "49202",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3620 Secor Road ",
-   "Address2": null,
-   "City": "Toledo ",
-   "State": "OH",
-   "Postal": "43606",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1019 Conant",
-   "Address2": null,
-   "City": "Maumee",
-   "State": "OH",
-   "Postal": "43537",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "5165 Airport Highway",
-   "Address2": null,
-   "City": "Toledo ",
-   "State": "OH",
-   "Postal": "43615",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2725 Center Avenue",
-   "Address2": null,
-   "City": "Essexville",
-   "State": "MI",
-   "Postal": "48732",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3026 Hill Road",
-   "Address2": null,
-   "City": "Grand Blanc",
-   "State": "MI",
-   "Postal": "48439",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1920 W. Wackerly Road",
-   "Address2": null,
-   "City": "Midland",
-   "State": "MI",
-   "Postal": "48640",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "G2368 South Center Road",
-   "Address2": null,
-   "City": "Burton",
-   "State": "MI",
-   "Postal": "48519",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4006 Bay Road",
-   "Address2": null,
-   "City": "Saginaw",
-   "State": "MI",
-   "Postal": "48603",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "G4435 W. Pierson Road",
-   "Address2": null,
-   "City": "Flint",
-   "State": "MI",
-   "Postal": "48507",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "907 North Euclid Avenue",
-   "Address2": null,
-   "City": "Bay City",
-   "State": "MI",
-   "Postal": "48706",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1115 S. Saginaw Road",
-   "Address2": null,
-   "City": "Midland",
-   "State": "MI",
-   "Postal": "48640",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4403 Eastern SE",
-   "Address2": null,
-   "City": "Kentwood",
-   "State": "MI",
-   "Postal": "49508",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2620 E. Beltline SE",
-   "Address2": null,
-   "City": "Grand Rapids",
-   "State": "MI",
-   "Postal": "49546",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1200 Plainfield, NE",
-   "Address2": null,
-   "City": "Grand Rapids",
-   "State": "MI",
-   "Postal": "49505",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "7501 E. Main Street",
-   "Address2": null,
-   "City": "Jenison",
-   "State": "MI",
-   "Postal": "49428",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1951 Burton SE",
-   "Address2": null,
-   "City": "Grand Rapids",
-   "State": "MI",
-   "Postal": "49506",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1027 S. Washington",
-   "Address2": null,
-   "City": "Holland",
-   "State": "MI",
-   "Postal": "49423",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1001 Butternut Drive",
-   "Address2": null,
-   "City": "Holland",
-   "State": "MI",
-   "Postal": "49424",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2121 28th Street SW",
-   "Address2": null,
-   "City": "Wyoming",
-   "State": "MI",
-   "Postal": "49548",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "484 68th Street SW",
-   "Address2": null,
-   "City": "Cutlerville",
-   "State": "MI",
-   "Postal": "49548",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3234 Plainfield NE",
-   "Address2": null,
-   "City": "Grand Rapids",
-   "State": "MI",
-   "Postal": "49525",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2660 Alpine Avenue",
-   "Address2": null,
-   "City": "Walker",
-   "State": "MI",
-   "Postal": "49544",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "8509 Heritage Drive ",
-   "Address2": null,
-   "City": "Zeeland",
-   "State": "MI",
-   "Postal": "49464",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "9014 National Blvd. ",
-   "Address2": null,
-   "City": "Los Angeles",
-   "State": "CA",
-   "Postal": "90034",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1757 Lincoln Blvd.",
-   "Address2": null,
-   "City": "Santa Monica",
-   "State": "CA",
-   "Postal": "90404",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1140 E. Colorado Street",
-   "Address2": null,
-   "City": "Glendale",
-   "State": "CA",
-   "Postal": "91205",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "525 N. Glendale Avenue",
-   "Address2": null,
-   "City": "Glendale",
-   "State": "CA",
-   "Postal": "91206",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "11827 Santa Monica Blvd.",
-   "Address2": null,
-   "City": "West Los Angeles",
-   "State": "CA",
-   "Postal": "90025",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "201 S. La Brea Avenue",
-   "Address2": null,
-   "City": "Los Angeles",
-   "State": "CA ",
-   "Postal": "90036",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4359 Sunset Blvd.",
-   "Address2": null,
-   "City": "Hollywood",
-   "State": "CA",
-   "Postal": "90029",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "6536 W. Melrose Avenue",
-   "Address2": null,
-   "City": "Los Angeles",
-   "State": "CA",
-   "Postal": "90038",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "5317 W. Sunset Blvd.",
-   "Address2": null,
-   "City": "Hollywood ",
-   "State": "CA",
-   "Postal": "90027",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2029 S. Sepulveda Blvd.",
-   "Address2": null,
-   "City": "West Los Angeles",
-   "State": "CA",
-   "Postal": "90025",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "20860 Sherman Way",
-   "Address2": null,
-   "City": "Canoga Park",
-   "State": "CA",
-   "Postal": "91306",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "21000 Ventura Blvd.",
-   "Address2": null,
-   "City": "Woodland Hills",
-   "State": "CA",
-   "Postal": "91364",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "6761 Reseda Blvd.",
-   "Address2": null,
-   "City": "Reseda ",
-   "State": "CA",
-   "Postal": "91335",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "9457 Reseda Blvd.",
-   "Address2": null,
-   "City": "Northridge",
-   "State": "CA",
-   "Postal": "91324",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "10115 Rosedale Hwy.",
-   "Address2": null,
-   "City": "Bakersfield",
-   "State": "CA",
-   "Postal": "93312",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3901 Wible Rd., Ste. 8",
-   "Address2": null,
-   "City": "Bakersfield",
-   "State": "CA",
-   "Postal": "93309",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "6501 White Lane",
-   "Address2": null,
-   "City": "Bakersfield ",
-   "State": "CA",
-   "Postal": "93309",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "10800 Riverside Dr.",
-   "Address2": null,
-   "City": "North Hollywood",
-   "State": "CA",
-   "Postal": "91602",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4002 N. Harbor Blvd.",
-   "Address2": null,
-   "City": "Fullerton",
-   "State": "CA",
-   "Postal": "92835",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "5658 Rosemead Blvd.",
-   "Address2": null,
-   "City": "Temple City ",
-   "State": "CA ",
-   "Postal": "91780",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2420 W. Olive Avenue ",
-   "Address2": null,
-   "City": "Burbank",
-   "State": "CA",
-   "Postal": "91506",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "305 North Citrus Street ",
-   "Address2": null,
-   "City": "West Covina",
-   "State": "CA",
-   "Postal": "91791",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3800 E. Foothill Blvd.",
-   "Address2": null,
-   "City": "Pasadena",
-   "State": "CA",
-   "Postal": "91107",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "24043 Hawthorne Blvd.",
-   "Address2": null,
-   "City": "Torrance",
-   "State": "CA",
-   "Postal": "90505",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1645 Crenshaw Blvd.",
-   "Address2": null,
-   "City": "Torrance",
-   "State": "CA",
-   "Postal": "90501",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1700 Artesia Blvd.",
-   "Address2": null,
-   "City": "Redondo Beach",
-   "State": "CA",
-   "Postal": "90278",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "13421 Washington Blvd.",
-   "Address2": null,
-   "City": "Marina Del Rey",
-   "State": "CA",
-   "Postal": "90292",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "6819 La Tijera Blvd.",
-   "Address2": null,
-   "City": "Los Angeles",
-   "State": "CA",
-   "Postal": "90045",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "13401 Whittier Blvd.",
-   "Address2": null,
-   "City": "Whittier",
-   "State": "CA",
-   "Postal": "90605",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "5380 Sepulveda Blvd.",
-   "Address2": null,
-   "City": "Culver City",
-   "State": "CA",
-   "Postal": "90230",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "7685 Carson Blvd., Ste. B",
-   "Address2": null,
-   "City": "Long Beach",
-   "State": "CA",
-   "Postal": "90808",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1701 Pacific Coast Hwy.",
-   "Address2": null,
-   "City": "Lomita",
-   "State": "CA",
-   "Postal": "90717",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3402 Atlantic Avenue",
-   "Address2": null,
-   "City": "Long Beach",
-   "State": "CA",
-   "Postal": "90807",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3504 Central Avenue",
-   "Address2": null,
-   "City": "Riverside ",
-   "State": "CA",
-   "Postal": "92506",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "7450 Mission Grove Pkwy. South",
-   "Address2": null,
-   "City": "Riverside",
-   "State": "CA",
-   "Postal": "92508",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1270 E Grand Blvd.",
-   "Address2": null,
-   "City": "Corona",
-   "State": "CA",
-   "Postal": "92879",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "23165 Hemlock Avenue",
-   "Address2": null,
-   "City": "Moreno Valley",
-   "State": "CA",
-   "Postal": "92557",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "7437 Arlington Avenue",
-   "Address2": null,
-   "City": "Riverside ",
-   "State": "CA",
-   "Postal": "92503",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3417 Arlington Avenue",
-   "Address2": null,
-   "City": "Riverside",
-   "State": "CA",
-   "Postal": "92506",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "18681 Van Buren Blvd.",
-   "Address2": null,
-   "City": "Riverside ",
-   "State": "CA",
-   "Postal": "92508",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3335 Iowa Ave",
-   "Address2": null,
-   "City": "Riverside ",
-   "State": "CA",
-   "Postal": "92507",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1460 E. Foothill Blvd.",
-   "Address2": null,
-   "City": "Upland",
-   "State": "CA",
-   "Postal": "91786",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "8122 Masi Drive",
-   "Address2": null,
-   "City": "Rancho Cucamonga",
-   "State": "CA",
-   "Postal": "91730",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4059 N. University Pkwy.",
-   "Address2": null,
-   "City": "San Bernadino",
-   "State": "CA",
-   "Postal": "92407",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "30625 Temecula Pkwy. Hwy 79 S.",
-   "Address2": null,
-   "City": "Temecula",
-   "State": "CA",
-   "Postal": "92592",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "29295 Central Avenue ",
-   "Address2": null,
-   "City": "Lake Elsinore",
-   "State": "CA",
-   "Postal": "92532",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "532 W. Florida Aveue",
-   "Address2": null,
-   "City": "Hemet",
-   "State": "CA",
-   "Postal": "92543",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "14949 Bear Valley Rd. # A",
-   "Address2": null,
-   "City": "Hesperia",
-   "State": "CA",
-   "Postal": "92345",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "12055 Scripps Summit Drive",
-   "Address2": null,
-   "City": "San Diego",
-   "State": "CA",
-   "Postal": "92131",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "786 E. Vista Way",
-   "Address2": null,
-   "City": "Vista ",
-   "State": "CA",
-   "Postal": "92084",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "12120 Carmel Mountain Rd.",
-   "Address2": null,
-   "City": "San Diego",
-   "State": "CA",
-   "Postal": "92128",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "4365 Genesee Avenue",
-   "Address2": null,
-   "City": "San Diego",
-   "State": "CA",
-   "Postal": "92117",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3464 Midway Drive ",
-   "Address2": null,
-   "City": "San Diego",
-   "State": "CA",
-   "Postal": "92110",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1998 E. Valley Pkwy.",
-   "Address2": null,
-   "City": "Escondido",
-   "State": "CA",
-   "Postal": "92027",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2260 Callagan Highway, Bldg. #3456 NBSD",
-   "Address2": null,
-   "City": "San Diego",
-   "State": "CA",
-   "Postal": "92136",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "24281 Moulton Parkway",
-   "Address2": null,
-   "City": "Laguna Woods",
-   "State": "CA",
-   "Postal": "92637",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "34242 Doheny Park Rd.",
-   "Address2": null,
-   "City": "Dana Point",
-   "State": "CA",
-   "Postal": "92624",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "525 Avenida Pico",
-   "Address2": null,
-   "City": "San Clemente",
-   "State": "CA",
-   "Postal": "92672",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "26921 Moulton Pkwy",
-   "Address2": null,
-   "City": "Laguna Hills",
-   "State": "CA",
-   "Postal": "92656",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "26731 Rancho Pkwy",
-   "Address2": null,
-   "City": "Lake Forest ",
-   "State": "CA",
-   "Postal": "92630",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "25800 Jeronimo Rd. Ste. 300",
-   "Address2": null,
-   "City": "Mission Viejo",
-   "State": "CA",
-   "Postal": "92691",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "40430 Califronia Oaks Rd.",
-   "Address2": null,
-   "City": "Murrietta",
-   "State": "CA",
-   "Postal": "92562",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3599 Harbor Blvd.",
-   "Address2": null,
-   "City": "Costa Mesa",
-   "State": "CA",
-   "Postal": "92626",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "7361 Edinger Avenue",
-   "Address2": null,
-   "City": "Huntington Beach",
-   "State": "CA",
-   "Postal": "92647",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "17511 Yorba Linda Blvd.",
-   "Address2": null,
-   "City": "Yorba Linda",
-   "State": "CA",
-   "Postal": "92886",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "12972 Newport Avenue",
-   "Address2": null,
-   "City": "Tustin",
-   "State": "CA",
-   "Postal": "92780",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "985 N. Weir Canyon Blvd.",
-   "Address2": null,
-   "City": "Anaheim",
-   "State": "CA",
-   "Postal": "92807",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "2248 Harbor Blvd.",
-   "Address2": null,
-   "City": "Costa Mesa",
-   "State": "CA",
-   "Postal": "92627",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "400 E. 17th St.",
-   "Address2": null,
-   "City": "Costa Mesa",
-   "State": "CA",
-   "Postal": "92627",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3232 E. Chapman Avenue",
-   "Address2": null,
-   "City": "Orange",
-   "State": "CA",
-   "Postal": "92869",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "1875 E Thompson Blvd",
-   "Address2": null,
-   "City": "Ventura",
-   "State": "CA",
-   "Postal": "93001",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "7981 El Cajon Boulevard",
-   "Address2": null,
-   "City": "La Mesa",
-   "State": "CA",
-   "Postal": null,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "3543 E. Anaheim St",
-   "Address2": null,
-   "City": "Long Beach",
-   "State": "CA",
-   "Postal": "90802",
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": null,
-   "Address2": null,
-   "City": null,
-   "State": null,
-   "Postal": null,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "White Duck Car Wash",
-   "Address2": null,
-   "City": "540 Nashua St.",
-   "State": "Milford",
-   "Postal": "NH",
-   "Latitude": 3055,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "White Duck Car Wash",
-   "Address2": null,
-   "City": "665 Mast Rd.",
-   "State": "Manchester",
-   "Postal": "NH",
-   "Latitude": 3102,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": "Zeeland Car Wash ",
-   "Address2": null,
-   "City": "8509 Heritage Drive ",
-   "State": "Zeeland",
-   "Postal": "MI",
-   "Latitude": 49564,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": null,
-   "Address2": null,
-   "City": "915 Norman Eskridge Hwy.",
-   "State": null,
-   "Postal": null,
-   "Latitude": null,
-   "Longitude": null
- },
- {
-   "Name": null,
-   "Address1": null,
-   "Address2": null,
-   "City": "1001 North Salisbury Blvd",
-   "State": null,
-   "Postal": null,
-   "Latitude": null,
-   "Longitude": null
- }
+  {
+    "Name": null,
+    "Address1": "232 Loudon Rd",
+    "Address2": null,
+    "City": "Concord",
+    "State": "NH",
+    "Postal": "03301",
+    "Latitude": 43.2385,
+    "Longitude": -71.556
+  },
+  {
+    "Name": null,
+    "Address1": "1147 Union Ave",
+    "Address2": null,
+    "City": "Laconia",
+    "State": "NH",
+    "Postal": "03246",
+    "Latitude": 43.5765,
+    "Longitude": -71.4823
+  },
+  {
+    "Name": null,
+    "Address1": "50 Crystal Ave",
+    "Address2": null,
+    "City": "Derry",
+    "State": "NH",
+    "Postal": "03038",
+    "Latitude": 42.8928,
+    "Longitude": -71.2768
+  },
+  {
+    "Name": null,
+    "Address1": "2470 Lafayette Rd (Route 1)",
+    "Address2": null,
+    "City": "Portsmouth",
+    "State": "NH",
+    "Postal": "03802",
+    "Latitude": 43.05,
+    "Longitude": -70.78
+  },
+  {
+    "Name": null,
+    "Address1": "1800 South Willow St",
+    "Address2": null,
+    "City": "Manchester",
+    "State": "NH",
+    "Postal": "03103",
+    "Latitude": 42.9505,
+    "Longitude": -71.4465
+  },
+  {
+    "Name": null,
+    "Address1": "4 Manville Rd",
+    "Address2": null,
+    "City": "Tilton",
+    "State": "NH",
+    "Postal": "03276",
+    "Latitude": 43.431,
+    "Longitude": -71.5759
+  },
+  {
+    "Name": null,
+    "Address1": "504 Amherst St",
+    "Address2": null,
+    "City": "Nashua",
+    "State": "NH",
+    "Postal": "03063",
+    "Latitude": 42.7821,
+    "Longitude": -71.518
+  },
+  {
+    "Name": null,
+    "Address1": "420 West St",
+    "Address2": null,
+    "City": "Keene",
+    "State": "NH",
+    "Postal": "03431",
+    "Latitude": 42.965,
+    "Longitude": -72.2948
+  },
+  {
+    "Name": null,
+    "Address1": "1246 Hooksett Rd",
+    "Address2": null,
+    "City": "Hooksett",
+    "State": "NH",
+    "Postal": "03106",
+    "Latitude": 43.0826,
+    "Longitude": -71.4469
+  },
+  {
+    "Name": null,
+    "Address1": "540 Nashua St",
+    "Address2": null,
+    "City": "Milford",
+    "State": "NH",
+    "Postal": "03055",
+    "Latitude": 42.8186,
+    "Longitude": -71.6734
+  },
+  {
+    "Name": null,
+    "Address1": "665 Mast Rd",
+    "Address2": null,
+    "City": "Manchester ",
+    "State": "NH",
+    "Postal": "03102",
+    "Latitude": 43.0119,
+    "Longitude": -71.4911
+  },
+  {
+    "Name": null,
+    "Address1": "182 Washington St",
+    "Address2": null,
+    "City": "Somerville",
+    "State": "MA",
+    "Postal": "02143",
+    "Latitude": 42.3814,
+    "Longitude": -71.0967
+  },
+  {
+    "Name": null,
+    "Address1": "557 Main St",
+    "Address2": null,
+    "City": "Waltham",
+    "State": "MA",
+    "Postal": "02452",
+    "Latitude": 42.3927,
+    "Longitude": -71.2135
+  },
+  {
+    "Name": null,
+    "Address1": "740 American Legion Hwy",
+    "Address2": null,
+    "City": "Roslindale",
+    "State": "MA",
+    "Postal": "02131",
+    "Latitude": 42.2843,
+    "Longitude": -71.1262
+  },
+  {
+    "Name": null,
+    "Address1": "275 Boylston St",
+    "Address2": null,
+    "City": "Brookline",
+    "State": "MA",
+    "Postal": "02445",
+    "Latitude": 42.3255,
+    "Longitude": -71.135
+  },
+  {
+    "Name": null,
+    "Address1": "80 Galen St",
+    "Address2": null,
+    "City": "Watertown",
+    "State": "MA",
+    "Postal": "02472",
+    "Latitude": 42.3695,
+    "Longitude": -71.1778
+  },
+  {
+    "Name": null,
+    "Address1": "90 Winchester St",
+    "Address2": null,
+    "City": "Newton Highlands",
+    "State": "MA",
+    "Postal": "02461",
+    "Latitude": 42.3174,
+    "Longitude": -71.2065
+  },
+  {
+    "Name": null,
+    "Address1": "222 Brighton Ave",
+    "Address2": null,
+    "City": "Allston",
+    "State": "MA",
+    "Postal": "02134",
+    "Latitude": 42.3579,
+    "Longitude": -71.1286
+  },
+  {
+    "Name": null,
+    "Address1": "2485 Mass Ave",
+    "Address2": null,
+    "City": "Cambridge",
+    "State": "MA",
+    "Postal": "02140",
+    "Latitude": 42.3922,
+    "Longitude": -71.134
+  },
+  {
+    "Name": null,
+    "Address1": "891 Worcester Rd",
+    "Address2": null,
+    "City": "Natick",
+    "State": "MA",
+    "Postal": "01760",
+    "Latitude": 42.2847,
+    "Longitude": -71.3488
+  },
+  {
+    "Name": null,
+    "Address1": "749 Worcester Rd",
+    "Address2": null,
+    "City": "Framingham",
+    "State": "MA",
+    "Postal": "01702",
+    "Latitude": 42.2824,
+    "Longitude": -71.4366
+  },
+  {
+    "Name": null,
+    "Address1": "11 Medway St",
+    "Address2": null,
+    "City": "Milford",
+    "State": "MA",
+    "Postal": "01757",
+    "Latitude": 42.1587,
+    "Longitude": -71.5214
+  },
+  {
+    "Name": null,
+    "Address1": "82 Mystic St",
+    "Address2": null,
+    "City": "Arlington",
+    "State": "MA",
+    "Postal": "02474",
+    "Latitude": 42.4209,
+    "Longitude": -71.1564
+  },
+  {
+    "Name": null,
+    "Address1": "212 Salem St",
+    "Address2": null,
+    "City": "Medford",
+    "State": "MA",
+    "Postal": "02155",
+    "Latitude": 42.4238,
+    "Longitude": -71.1076
+  },
+  {
+    "Name": null,
+    "Address1": "216 Main St",
+    "Address2": null,
+    "City": "North Reading",
+    "State": "MA",
+    "Postal": "01864",
+    "Latitude": 42.5782,
+    "Longitude": -71.0844
+  },
+  {
+    "Name": null,
+    "Address1": "775 River St",
+    "Address2": null,
+    "City": "Haverhill",
+    "State": "MA",
+    "Postal": "01830",
+    "Latitude": 42.7963,
+    "Longitude": -71.0534
+  },
+  {
+    "Name": null,
+    "Address1": "87 North St",
+    "Address2": null,
+    "City": "Salem",
+    "State": "MA",
+    "Postal": "01970",
+    "Latitude": 42.5244,
+    "Longitude": -70.8709
+  },
+  {
+    "Name": null,
+    "Address1": "800 Western Ave",
+    "Address2": null,
+    "City": "Lynn",
+    "State": "MA",
+    "Postal": "01905",
+    "Latitude": 42.466,
+    "Longitude": -70.9758
+  },
+  {
+    "Name": null,
+    "Address1": "1754 Revere Beach Pkwy",
+    "Address2": null,
+    "City": "Everett",
+    "State": "MA",
+    "Postal": "02149",
+    "Latitude": 42.4059,
+    "Longitude": -71.0545
+  },
+  {
+    "Name": null,
+    "Address1": "193 Elm St (Rte 110), Unit 1",
+    "Address2": null,
+    "City": "Salisbury",
+    "State": "MA",
+    "Postal": "01952",
+    "Latitude": 42.8448,
+    "Longitude": -70.8415
+  },
+  {
+    "Name": null,
+    "Address1": "1294 Gorham St",
+    "Address2": null,
+    "City": "Lowell",
+    "State": "MA",
+    "Postal": "01852",
+    "Latitude": 42.6319,
+    "Longitude": -71.296
+  },
+  {
+    "Name": null,
+    "Address1": "320 Montvale Ave",
+    "Address2": null,
+    "City": "Woburn",
+    "State": "MA",
+    "Postal": "01801",
+    "Latitude": 42.4888,
+    "Longitude": -71.1544
+  },
+  {
+    "Name": null,
+    "Address1": "488 Broadway",
+    "Address2": null,
+    "City": "Methuen",
+    "State": "MA",
+    "Postal": "01844",
+    "Latitude": 42.7425,
+    "Longitude": -71.1792
+  },
+  {
+    "Name": null,
+    "Address1": "100 Broadway",
+    "Address2": null,
+    "City": "Malden",
+    "State": "MA",
+    "Postal": "02148",
+    "Latitude": 42.4294,
+    "Longitude": -71.0587
+  },
+  {
+    "Name": null,
+    "Address1": "15 Spring St",
+    "Address2": null,
+    "City": "West Roxbury",
+    "State": "MA",
+    "Postal": "02132",
+    "Latitude": 42.2805,
+    "Longitude": -71.162
+  },
+  {
+    "Name": null,
+    "Address1": "1130 Warwick Ave",
+    "Address2": null,
+    "City": "Warwick",
+    "State": "RI",
+    "Postal": "02888",
+    "Latitude": 41.7477,
+    "Longitude": -71.4061
+  },
+  {
+    "Name": null,
+    "Address1": "159 Putnam Ave",
+    "Address2": null,
+    "City": "Johnston",
+    "State": "RI",
+    "Postal": "02919",
+    "Latitude": 41.8274,
+    "Longitude": -71.5199
+  },
+  {
+    "Name": null,
+    "Address1": "1988 Washington St",
+    "Address2": null,
+    "City": "Hanover",
+    "State": "MA",
+    "Postal": "02339",
+    "Latitude": 42.123,
+    "Longitude": -70.8563
+  },
+  {
+    "Name": null,
+    "Address1": "520 Reservoir Ave",
+    "Address2": null,
+    "City": "Cranston",
+    "State": "RI",
+    "Postal": "02910",
+    "Latitude": 41.775,
+    "Longitude": -71.4355
+  },
+  {
+    "Name": null,
+    "Address1": "366 Centre St",
+    "Address2": null,
+    "City": "Quincy",
+    "State": "MA",
+    "Postal": "02169",
+    "Latitude": 42.2483,
+    "Longitude": -71.0023
+  },
+  {
+    "Name": null,
+    "Address1": "640 Oak St",
+    "Address2": null,
+    "City": "Brockton",
+    "State": "MA",
+    "Postal": "02301",
+    "Latitude": 42.0784,
+    "Longitude": -71.0423
+  },
+  {
+    "Name": null,
+    "Address1": "1195 Fall River Ave",
+    "Address2": null,
+    "City": "Seekonk",
+    "State": "MA",
+    "Postal": "02771",
+    "Latitude": 41.8421,
+    "Longitude": -71.3223
+  },
+  {
+    "Name": null,
+    "Address1": "425 High Plain St",
+    "Address2": null,
+    "City": "Walpole",
+    "State": "MA",
+    "Postal": "02081",
+    "Latitude": 42.1467,
+    "Longitude": -71.2705
+  },
+  {
+    "Name": null,
+    "Address1": "148 Samoset St",
+    "Address2": null,
+    "City": "Plymouth",
+    "State": "MA",
+    "Postal": "02360",
+    "Latitude": 41.8821,
+    "Longitude": -70.6313
+  },
+  {
+    "Name": null,
+    "Address1": "175 Everett Street",
+    "Address2": null,
+    "City": "Norwood",
+    "State": "MA",
+    "Postal": "02062",
+    "Latitude": 42.1873,
+    "Longitude": -71.196
+  },
+  {
+    "Name": null,
+    "Address1": "1600 Post Rd",
+    "Address2": null,
+    "City": "Warwick",
+    "State": "RI",
+    "Postal": "02888",
+    "Latitude": 41.7477,
+    "Longitude": -71.4061
+  },
+  {
+    "Name": null,
+    "Address1": "15 Sonja Drive",
+    "Address2": null,
+    "City": "Rindge",
+    "State": "NH",
+    "Postal": "03461",
+    "Latitude": 42.7567,
+    "Longitude": -72.0132
+  },
+  {
+    "Name": null,
+    "Address1": "7391 Baltimore-Annapolis Blvd",
+    "Address2": null,
+    "City": "Glen Burnie",
+    "State": "MD",
+    "Postal": "21061",
+    "Latitude": 39.1619,
+    "Longitude": -76.6294
+  },
+  {
+    "Name": null,
+    "Address1": "5515 Ritchie Hwy",
+    "Address2": null,
+    "City": "Brooklyn Park",
+    "State": "MD",
+    "Postal": "21225",
+    "Latitude": 39.2261,
+    "Longitude": -76.6157
+  },
+  {
+    "Name": null,
+    "Address1": "8407 Centreville Rd",
+    "Address2": null,
+    "City": "Manassas Park",
+    "State": "VA",
+    "Postal": "20111",
+    "Latitude": 38.749,
+    "Longitude": -77.4278
+  },
+  {
+    "Name": null,
+    "Address1": "4215 Montgomery Rd",
+    "Address2": null,
+    "City": "Ellicott City",
+    "State": "MD",
+    "Postal": "21043",
+    "Latitude": 39.2558,
+    "Longitude": -76.8015
+  },
+  {
+    "Name": null,
+    "Address1": "143 Saint Patricks Dr",
+    "Address2": null,
+    "City": "Waldorf",
+    "State": "MD",
+    "Postal": "20603",
+    "Latitude": 38.6304,
+    "Longitude": -76.9766
+  },
+  {
+    "Name": null,
+    "Address1": "820 Solomons Island dr",
+    "Address2": null,
+    "City": "Prince Frederick",
+    "State": "MD",
+    "Postal": "20678",
+    "Latitude": 38.5227,
+    "Longitude": -76.6014
+  },
+  {
+    "Name": null,
+    "Address1": "1324 Martin Blvd",
+    "Address2": null,
+    "City": "Middle River",
+    "State": "MD",
+    "Postal": "21220",
+    "Latitude": 39.3472,
+    "Longitude": -76.3901
+  },
+  {
+    "Name": null,
+    "Address1": "16505 Ballpark Road ",
+    "Address2": null,
+    "City": "Bowie",
+    "State": "MD ",
+    "Postal": "20716",
+    "Latitude": 38.9264,
+    "Longitude": -76.715
+  },
+  {
+    "Name": null,
+    "Address1": "10416 Southern Maryland Blvd",
+    "Address2": null,
+    "City": "Dunkirk",
+    "State": "MD",
+    "Postal": "20754",
+    "Latitude": 38.7306,
+    "Longitude": -76.6472
+  },
+  {
+    "Name": null,
+    "Address1": "6660 Crain Highway",
+    "Address2": null,
+    "City": "La Plata",
+    "State": "MD",
+    "Postal": "20646",
+    "Latitude": 38.5242,
+    "Longitude": -77.0007
+  },
+  {
+    "Name": null,
+    "Address1": "8538 Sudley Rd",
+    "Address2": null,
+    "City": "Manassas",
+    "State": "VA",
+    "Postal": "20110",
+    "Latitude": 38.7472,
+    "Longitude": -77.4845
+  },
+  {
+    "Name": null,
+    "Address1": "1922 West St",
+    "Address2": null,
+    "City": "Annapolis",
+    "State": "MD",
+    "Postal": "21401",
+    "Latitude": 38.9876,
+    "Longitude": -76.5528
+  },
+  {
+    "Name": null,
+    "Address1": "57 Mayo Rd",
+    "Address2": null,
+    "City": "Edgewater",
+    "State": "MD",
+    "Postal": "21037",
+    "Latitude": 38.9193,
+    "Longitude": -76.5435
+  },
+  {
+    "Name": null,
+    "Address1": "915 Norman Eskridge Hwy",
+    "Address2": null,
+    "City": "Seaford",
+    "State": "DE",
+    "Postal": "19973",
+    "Latitude": 38.6389,
+    "Longitude": -75.6159
+  },
+  {
+    "Name": null,
+    "Address1": "1001 North Salisbury Blvd",
+    "Address2": null,
+    "City": "Salisbury",
+    "State": "MD",
+    "Postal": "21801",
+    "Latitude": 38.3823,
+    "Longitude": -75.6396
+  },
+  {
+    "Name": null,
+    "Address1": "710 North Dupont Hwy",
+    "Address2": null,
+    "City": "Dover",
+    "State": "DE",
+    "Postal": "19901",
+    "Latitude": 39.1815,
+    "Longitude": -75.4735
+  },
+  {
+    "Name": null,
+    "Address1": "110 Carriage Lane",
+    "Address2": null,
+    "City": "Delran",
+    "State": "NJ",
+    "Postal": "08075",
+    "Latitude": 40.0296,
+    "Longitude": -74.9489
+  },
+  {
+    "Name": null,
+    "Address1": "122 N DuPont Highway",
+    "Address2": null,
+    "City": "New Castle",
+    "State": "DE",
+    "Postal": "19720",
+    "Latitude": 39.6469,
+    "Longitude": -75.6049
+  },
+  {
+    "Name": null,
+    "Address1": "4101 Veterans Highway",
+    "Address2": null,
+    "City": "Levittown",
+    "State": "PA",
+    "Postal": "19056",
+    "Latitude": 40.1492,
+    "Longitude": -74.8858
+  },
+  {
+    "Name": null,
+    "Address1": "237 S Black Horse Pike",
+    "Address2": null,
+    "City": "Mount Ephraim",
+    "State": "NJ",
+    "Postal": "08059",
+    "Latitude": 39.8848,
+    "Longitude": -75.0926
+  },
+  {
+    "Name": null,
+    "Address1": "11755 Rousby Hall Rd,",
+    "Address2": null,
+    "City": "Lusby",
+    "State": "MD",
+    "Postal": "20657",
+    "Latitude": 38.3798,
+    "Longitude": -76.4429
+  },
+  {
+    "Name": null,
+    "Address1": "2667 Colonial Blvd",
+    "Address2": null,
+    "City": "Fort Myers",
+    "State": "FL",
+    "Postal": "33907",
+    "Latitude": 26.5639,
+    "Longitude": -81.8703
+  },
+  {
+    "Name": null,
+    "Address1": "13730 South Tamiami Trail",
+    "Address2": null,
+    "City": "Fort Myers",
+    "State": "FL",
+    "Postal": "33912",
+    "Latitude": 26.534,
+    "Longitude": -81.8262
+  },
+  {
+    "Name": null,
+    "Address1": "2332 East Tamiami Trail",
+    "Address2": null,
+    "City": "Naples",
+    "State": "FL",
+    "Postal": "34112",
+    "Latitude": 26.1205,
+    "Longitude": -81.7416
+  },
+  {
+    "Name": null,
+    "Address1": "2257 Pine Ridge Rd",
+    "Address2": null,
+    "City": "Naples",
+    "State": "FL",
+    "Postal": "34109",
+    "Latitude": 26.2408,
+    "Longitude": -81.7638
+  },
+  {
+    "Name": null,
+    "Address1": "2645 South McCall Rd",
+    "Address2": null,
+    "City": "Englewood",
+    "State": "FL",
+    "Postal": "34224",
+    "Latitude": 26.9176,
+    "Longitude": -82.3039
+  },
+  {
+    "Name": null,
+    "Address1": "15621 San Carlos Blvd ",
+    "Address2": null,
+    "City": "Fort Myers",
+    "State": "FL ",
+    "Postal": "33908",
+    "Latitude": 26.5158,
+    "Longitude": -81.9795
+  },
+  {
+    "Name": null,
+    "Address1": "4703 Del Prado Blvd ",
+    "Address2": null,
+    "City": "Cape Coral ",
+    "State": "FL ",
+    "Postal": "33904",
+    "Latitude": 26.576,
+    "Longitude": -81.9444
+  },
+  {
+    "Name": null,
+    "Address1": "7326 Secor Rd",
+    "Address2": null,
+    "City": "Lambertville",
+    "State": "MI",
+    "Postal": "48144",
+    "Latitude": 41.7525,
+    "Longitude": -83.6287
+  },
+  {
+    "Name": null,
+    "Address1": "31005 Greenfield",
+    "Address2": null,
+    "City": "Beverly Hills",
+    "State": "MI",
+    "Postal": "48025",
+    "Latitude": 42.5204,
+    "Longitude": -83.2647
+  },
+  {
+    "Name": null,
+    "Address1": "2905 S Telegraph Road",
+    "Address2": null,
+    "City": "Dearborn",
+    "State": "MI",
+    "Postal": "48124",
+    "Latitude": 42.298,
+    "Longitude": -83.2476
+  },
+  {
+    "Name": null,
+    "Address1": "44075 Ford Road",
+    "Address2": null,
+    "City": "Canton",
+    "State": "MI",
+    "Postal": "48187",
+    "Latitude": 42.3256,
+    "Longitude": -83.4836
+  },
+  {
+    "Name": null,
+    "Address1": "4117 13 Mile Road",
+    "Address2": null,
+    "City": "Warren",
+    "State": "MI",
+    "Postal": "48092",
+    "Latitude": 42.5135,
+    "Longitude": -83.0589
+  },
+  {
+    "Name": null,
+    "Address1": "13300 West 9 Mile Road",
+    "Address2": null,
+    "City": "Oak Park",
+    "State": "MI",
+    "Postal": "48237",
+    "Latitude": 42.465,
+    "Longitude": -83.1824
+  },
+  {
+    "Name": null,
+    "Address1": "3901 West Road (Longmeadow)",
+    "Address2": null,
+    "City": "Trenton",
+    "State": "MI",
+    "Postal": "48183",
+    "Latitude": 42.1315,
+    "Longitude": -83.2178
+  },
+  {
+    "Name": null,
+    "Address1": "31151 5 Mile Road",
+    "Address2": null,
+    "City": "Livonia",
+    "State": "MI",
+    "Postal": "48154",
+    "Latitude": 42.3972,
+    "Longitude": -83.3723
+  },
+  {
+    "Name": null,
+    "Address1": "42955 Hayes ",
+    "Address2": null,
+    "City": "Sterling Heights",
+    "State": "MI",
+    "Postal": "48313",
+    "Latitude": 42.6007,
+    "Longitude": -83.0029
+  },
+  {
+    "Name": null,
+    "Address1": "8827 Telegraph Road",
+    "Address2": null,
+    "City": "Redford Township",
+    "State": "MI",
+    "Postal": "48239",
+    "Latitude": 42.376,
+    "Longitude": -83.2831
+  },
+  {
+    "Name": null,
+    "Address1": "16335 Mack Avenue",
+    "Address2": null,
+    "City": "Detroit",
+    "State": "MI",
+    "Postal": "48224",
+    "Latitude": 42.4107,
+    "Longitude": -82.9413
+  },
+  {
+    "Name": null,
+    "Address1": "32686 Grand River",
+    "Address2": null,
+    "City": "Farmington",
+    "State": "MI",
+    "Postal": "48336",
+    "Latitude": 42.4631,
+    "Longitude": -83.3473
+  },
+  {
+    "Name": null,
+    "Address1": "24400 Novi Road, Suite 101",
+    "Address2": null,
+    "City": "Novi",
+    "State": "MI",
+    "Postal": "48375",
+    "Latitude": 42.4641,
+    "Longitude": -83.464
+  },
+  {
+    "Name": null,
+    "Address1": "3040 Lohr Circle",
+    "Address2": null,
+    "City": "Ann Arbor",
+    "State": "MI",
+    "Postal": "48108",
+    "Latitude": 42.2217,
+    "Longitude": -83.7323
+  },
+  {
+    "Name": null,
+    "Address1": "27601 Harper Road",
+    "Address2": null,
+    "City": "St Clair Shores",
+    "State": "MI",
+    "Postal": "48081",
+    "Latitude": 42.4947,
+    "Longitude": -82.895
+  },
+  {
+    "Name": null,
+    "Address1": "1054 E Grand River",
+    "Address2": null,
+    "City": "East Lansing",
+    "State": "MI",
+    "Postal": "48823",
+    "Latitude": 42.7641,
+    "Longitude": -84.4599
+  },
+  {
+    "Name": null,
+    "Address1": "930 East Saginaw Highway",
+    "Address2": null,
+    "City": "Grand Ledge",
+    "State": "MI",
+    "Postal": "48837",
+    "Latitude": 42.7468,
+    "Longitude": -84.7707
+  },
+  {
+    "Name": null,
+    "Address1": "2661 E Grand River",
+    "Address2": null,
+    "City": "East Lansing ",
+    "State": "MA",
+    "Postal": "48823",
+    "Latitude": 42.7641,
+    "Longitude": -84.4599
+  },
+  {
+    "Name": null,
+    "Address1": "2517 North East Street ",
+    "Address2": null,
+    "City": "Lansing ",
+    "State": "MI",
+    "Postal": "48906",
+    "Latitude": 42.7879,
+    "Longitude": -84.5894
+  },
+  {
+    "Name": null,
+    "Address1": "1755 W Grand River Ave",
+    "Address2": null,
+    "City": "Okemos",
+    "State": "MI",
+    "Postal": "48864",
+    "Latitude": 42.7042,
+    "Longitude": -84.3921
+  },
+  {
+    "Name": null,
+    "Address1": "622 SWaverly",
+    "Address2": null,
+    "City": "Lansing",
+    "State": "MI",
+    "Postal": "48917",
+    "Latitude": 42.7252,
+    "Longitude": -84.6395
+  },
+  {
+    "Name": null,
+    "Address1": "601 E Kalamazoo Street ",
+    "Address2": null,
+    "City": "Lansing",
+    "State": "MI",
+    "Postal": "48912",
+    "Latitude": 42.7384,
+    "Longitude": -84.524
+  },
+  {
+    "Name": null,
+    "Address1": "5725 S Cedar Street ",
+    "Address2": null,
+    "City": "Lansing",
+    "State": "MI",
+    "Postal": "48910",
+    "Latitude": 42.6992,
+    "Longitude": -84.52
+  },
+  {
+    "Name": null,
+    "Address1": "5030 West Saginaw ",
+    "Address2": null,
+    "City": "Lansing",
+    "State": "MI",
+    "Postal": "48917",
+    "Latitude": 42.7252,
+    "Longitude": -84.6395
+  },
+  {
+    "Name": null,
+    "Address1": "1919 Tiffin Avenue",
+    "Address2": null,
+    "City": "Findlay",
+    "State": "OH",
+    "Postal": "45840",
+    "Latitude": 41.0254,
+    "Longitude": -83.652
+  },
+  {
+    "Name": null,
+    "Address1": "6303 Monroe",
+    "Address2": null,
+    "City": "Sylvania",
+    "State": "OH",
+    "Postal": "43560",
+    "Latitude": 41.7006,
+    "Longitude": -83.7389
+  },
+  {
+    "Name": null,
+    "Address1": "936 S Main Street",
+    "Address2": null,
+    "City": "Bowling Green",
+    "State": "OH",
+    "Postal": "43402",
+    "Latitude": 41.4184,
+    "Longitude": -83.6567
+  },
+  {
+    "Name": null,
+    "Address1": "1315 N Wisner",
+    "Address2": null,
+    "City": "Jackson ",
+    "State": "MI",
+    "Postal": "49202",
+    "Latitude": 42.2672,
+    "Longitude": -84.4108
+  },
+  {
+    "Name": null,
+    "Address1": "5757 Telegraph",
+    "Address2": null,
+    "City": "Toledo ",
+    "State": "OH",
+    "Postal": "43612",
+    "Latitude": 41.7158,
+    "Longitude": -83.5511
+  },
+  {
+    "Name": null,
+    "Address1": "3314 Navarre Ave",
+    "Address2": null,
+    "City": "Oregon",
+    "State": "OH",
+    "Postal": "43616",
+    "Latitude": 41.6584,
+    "Longitude": -83.4089
+  },
+  {
+    "Name": null,
+    "Address1": "6529 W Central Avenue",
+    "Address2": null,
+    "City": "Toledo",
+    "State": "OH",
+    "Postal": "43617",
+    "Latitude": 41.6646,
+    "Longitude": -83.7283
+  },
+  {
+    "Name": null,
+    "Address1": "3231 E Michigan Avenue",
+    "Address2": null,
+    "City": "Jackson",
+    "State": "MI",
+    "Postal": "49202",
+    "Latitude": 42.2672,
+    "Longitude": -84.4108
+  },
+  {
+    "Name": null,
+    "Address1": "3620 Secor Road ",
+    "Address2": null,
+    "City": "Toledo ",
+    "State": "OH",
+    "Postal": "43606",
+    "Latitude": 41.6731,
+    "Longitude": -83.6114
+  },
+  {
+    "Name": null,
+    "Address1": "1019 Conant",
+    "Address2": null,
+    "City": "Maumee",
+    "State": "OH",
+    "Postal": "43537",
+    "Latitude": 41.5748,
+    "Longitude": -83.6867
+  },
+  {
+    "Name": null,
+    "Address1": "5165 Airport Highway",
+    "Address2": null,
+    "City": "Toledo ",
+    "State": "OH",
+    "Postal": "43615",
+    "Latitude": 41.6503,
+    "Longitude": -83.6738
+  },
+  {
+    "Name": null,
+    "Address1": "2725 Center Avenue",
+    "Address2": null,
+    "City": "Essexville",
+    "State": "MI",
+    "Postal": "48732",
+    "Latitude": 43.6123,
+    "Longitude": -83.7898
+  },
+  {
+    "Name": null,
+    "Address1": "3026 Hill Road",
+    "Address2": null,
+    "City": "Grand Blanc",
+    "State": "MI",
+    "Postal": "48439",
+    "Latitude": 42.9164,
+    "Longitude": -83.6294
+  },
+  {
+    "Name": null,
+    "Address1": "1920 W Wackerly Road",
+    "Address2": null,
+    "City": "Midland",
+    "State": "MI",
+    "Postal": "48640",
+    "Latitude": 43.5822,
+    "Longitude": -84.3372
+  },
+  {
+    "Name": null,
+    "Address1": "G2368 South Center Road",
+    "Address2": null,
+    "City": "Burton",
+    "State": "MI",
+    "Postal": "48519",
+    "Latitude": 42.9819,
+    "Longitude": -83.605
+  },
+  {
+    "Name": null,
+    "Address1": "4006 Bay Road",
+    "Address2": null,
+    "City": "Saginaw",
+    "State": "MI",
+    "Postal": "48603",
+    "Latitude": 43.4587,
+    "Longitude": -84.0295
+  },
+  {
+    "Name": null,
+    "Address1": "G4435 W Pierson Road",
+    "Address2": null,
+    "City": "Flint",
+    "State": "MI",
+    "Postal": "48507",
+    "Latitude": 42.967,
+    "Longitude": -83.7174
+  },
+  {
+    "Name": null,
+    "Address1": "907 North Euclid Avenue",
+    "Address2": null,
+    "City": "Bay City",
+    "State": "MI",
+    "Postal": "48706",
+    "Latitude": 43.5996,
+    "Longitude": -83.9505
+  },
+  {
+    "Name": null,
+    "Address1": "1115 S Saginaw Road",
+    "Address2": null,
+    "City": "Midland",
+    "State": "MI",
+    "Postal": "48640",
+    "Latitude": 43.5822,
+    "Longitude": -84.3372
+  },
+  {
+    "Name": null,
+    "Address1": "4403 Eastern SE",
+    "Address2": null,
+    "City": "Kentwood",
+    "State": "MI",
+    "Postal": "49508",
+    "Latitude": 42.8751,
+    "Longitude": -85.6193
+  },
+  {
+    "Name": null,
+    "Address1": "2620 E Beltline SE",
+    "Address2": null,
+    "City": "Grand Rapids",
+    "State": "MI",
+    "Postal": "49546",
+    "Latitude": 42.9278,
+    "Longitude": -85.5301
+  },
+  {
+    "Name": null,
+    "Address1": "1200 Plainfield, NE",
+    "Address2": null,
+    "City": "Grand Rapids",
+    "State": "MI",
+    "Postal": "49505",
+    "Latitude": 42.9965,
+    "Longitude": -85.6377
+  },
+  {
+    "Name": null,
+    "Address1": "7501 E Main Street",
+    "Address2": null,
+    "City": "Jenison",
+    "State": "MI",
+    "Postal": "49428",
+    "Latitude": 42.9202,
+    "Longitude": -85.8388
+  },
+  {
+    "Name": null,
+    "Address1": "1951 Burton SE",
+    "Address2": null,
+    "City": "Grand Rapids",
+    "State": "MI",
+    "Postal": "49506",
+    "Latitude": 42.9457,
+    "Longitude": -85.6138
+  },
+  {
+    "Name": null,
+    "Address1": "1027 S Washington",
+    "Address2": null,
+    "City": "Holland",
+    "State": "MI",
+    "Postal": "49423",
+    "Latitude": 42.7438,
+    "Longitude": -86.0836
+  },
+  {
+    "Name": null,
+    "Address1": "1001 Butternut Drive",
+    "Address2": null,
+    "City": "Holland",
+    "State": "MI",
+    "Postal": "49424",
+    "Latitude": 42.8438,
+    "Longitude": -86.1344
+  },
+  {
+    "Name": null,
+    "Address1": "2121 28th Street SW",
+    "Address2": null,
+    "City": "Wyoming",
+    "State": "MI",
+    "Postal": "49548",
+    "Latitude": 42.8705,
+    "Longitude": -85.6626
+  },
+  {
+    "Name": null,
+    "Address1": "484 68th Street SW",
+    "Address2": null,
+    "City": "Cutlerville",
+    "State": "MI",
+    "Postal": "49548",
+    "Latitude": 42.8705,
+    "Longitude": -85.6626
+  },
+  {
+    "Name": null,
+    "Address1": "3234 Plainfield NE",
+    "Address2": null,
+    "City": "Grand Rapids",
+    "State": "MI",
+    "Postal": "49525",
+    "Latitude": 43.0219,
+    "Longitude": -85.5922
+  },
+  {
+    "Name": null,
+    "Address1": "2660 Alpine Avenue",
+    "Address2": null,
+    "City": "Walker",
+    "State": "MI",
+    "Postal": "49544",
+    "Latitude": 43.0389,
+    "Longitude": -85.7466
+  },
+  {
+    "Name": null,
+    "Address1": "8509 Heritage Drive ",
+    "Address2": null,
+    "City": "Zeeland",
+    "State": "MI",
+    "Postal": "49464",
+    "Latitude": 42.8448,
+    "Longitude": -85.9848
+  },
+  {
+    "Name": null,
+    "Address1": "9014 National Blvd ",
+    "Address2": null,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Postal": "90034",
+    "Latitude": 34.0306,
+    "Longitude": -118.3996
+  },
+  {
+    "Name": null,
+    "Address1": "1757 Lincoln Blvd",
+    "Address2": null,
+    "City": "Santa Monica",
+    "State": "CA",
+    "Postal": "90404",
+    "Latitude": 34.0266,
+    "Longitude": -118.4736
+  },
+  {
+    "Name": null,
+    "Address1": "1140 E Colorado Street",
+    "Address2": null,
+    "City": "Glendale",
+    "State": "CA",
+    "Postal": "91205",
+    "Latitude": 34.1366,
+    "Longitude": -118.2458
+  },
+  {
+    "Name": null,
+    "Address1": "525 N Glendale Avenue",
+    "Address2": null,
+    "City": "Glendale",
+    "State": "CA",
+    "Postal": "91206",
+    "Latitude": 34.1604,
+    "Longitude": -118.2138
+  },
+  {
+    "Name": null,
+    "Address1": "11827 Santa Monica Blvd",
+    "Address2": null,
+    "City": "West Los Angeles",
+    "State": "CA",
+    "Postal": "90025",
+    "Latitude": 34.0454,
+    "Longitude": -118.4459
+  },
+  {
+    "Name": null,
+    "Address1": "201 S La Brea Avenue",
+    "Address2": null,
+    "City": "Los Angeles",
+    "State": "CA ",
+    "Postal": "90036",
+    "Latitude": 34.0704,
+    "Longitude": -118.3504
+  },
+  {
+    "Name": null,
+    "Address1": "4359 Sunset Blvd",
+    "Address2": null,
+    "City": "Hollywood",
+    "State": "CA",
+    "Postal": "90029",
+    "Latitude": 34.0897,
+    "Longitude": -118.2947
+  },
+  {
+    "Name": null,
+    "Address1": "6536 W Melrose Avenue",
+    "Address2": null,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Postal": "90038",
+    "Latitude": 34.0885,
+    "Longitude": -118.3255
+  },
+  {
+    "Name": null,
+    "Address1": "5317 W Sunset Blvd",
+    "Address2": null,
+    "City": "Hollywood ",
+    "State": "CA",
+    "Postal": "90027",
+    "Latitude": 34.1272,
+    "Longitude": -118.2956
+  },
+  {
+    "Name": null,
+    "Address1": "2029 S Sepulveda Blvd",
+    "Address2": null,
+    "City": "West Los Angeles",
+    "State": "CA",
+    "Postal": "90025",
+    "Latitude": 34.0454,
+    "Longitude": -118.4459
+  },
+  {
+    "Name": null,
+    "Address1": "20860 Sherman Way",
+    "Address2": null,
+    "City": "Canoga Park",
+    "State": "CA",
+    "Postal": "91306",
+    "Latitude": 34.2095,
+    "Longitude": -118.5776
+  },
+  {
+    "Name": null,
+    "Address1": "21000 Ventura Blvd",
+    "Address2": null,
+    "City": "Woodland Hills",
+    "State": "CA",
+    "Postal": "91364",
+    "Latitude": 34.154,
+    "Longitude": -118.5932
+  },
+  {
+    "Name": null,
+    "Address1": "6761 Reseda Blvd",
+    "Address2": null,
+    "City": "Reseda ",
+    "State": "CA",
+    "Postal": "91335",
+    "Latitude": 34.2002,
+    "Longitude": -118.541
+  },
+  {
+    "Name": null,
+    "Address1": "9457 Reseda Blvd",
+    "Address2": null,
+    "City": "Northridge",
+    "State": "CA",
+    "Postal": "91324",
+    "Latitude": 34.2382,
+    "Longitude": -118.5503
+  },
+  {
+    "Name": null,
+    "Address1": "10115 Rosedale Hwy",
+    "Address2": null,
+    "City": "Bakersfield",
+    "State": "CA",
+    "Postal": "93312",
+    "Latitude": 35.3935,
+    "Longitude": -119.1205
+  },
+  {
+    "Name": null,
+    "Address1": "3901 Wible Rd, Ste 8",
+    "Address2": null,
+    "City": "Bakersfield",
+    "State": "CA",
+    "Postal": "93309",
+    "Latitude": 35.3429,
+    "Longitude": -119.0648
+  },
+  {
+    "Name": null,
+    "Address1": "6501 White Lane",
+    "Address2": null,
+    "City": "Bakersfield ",
+    "State": "CA",
+    "Postal": "93309",
+    "Latitude": 35.3429,
+    "Longitude": -119.0648
+  },
+  {
+    "Name": null,
+    "Address1": "10800 Riverside Dr",
+    "Address2": null,
+    "City": "North Hollywood",
+    "State": "CA",
+    "Postal": "91602",
+    "Latitude": 34.1507,
+    "Longitude": -118.3682
+  },
+  {
+    "Name": null,
+    "Address1": "4002 N Harbor Blvd",
+    "Address2": null,
+    "City": "Fullerton",
+    "State": "CA",
+    "Postal": "92835",
+    "Latitude": 33.9019,
+    "Longitude": -117.9166
+  },
+  {
+    "Name": null,
+    "Address1": "5658 Rosemead Blvd",
+    "Address2": null,
+    "City": "Temple City ",
+    "State": "CA ",
+    "Postal": "91780",
+    "Latitude": 34.1021,
+    "Longitude": -118.0578
+  },
+  {
+    "Name": null,
+    "Address1": "2420 W Olive Avenue ",
+    "Address2": null,
+    "City": "Burbank",
+    "State": "CA",
+    "Postal": "91506",
+    "Latitude": 34.1697,
+    "Longitude": -118.3235
+  },
+  {
+    "Name": null,
+    "Address1": "305 North Citrus Street ",
+    "Address2": null,
+    "City": "West Covina",
+    "State": "CA",
+    "Postal": "91791",
+    "Latitude": 34.0616,
+    "Longitude": -117.8922
+  },
+  {
+    "Name": null,
+    "Address1": "3800 E Foothill Blvd",
+    "Address2": null,
+    "City": "Pasadena",
+    "State": "CA",
+    "Postal": "91107",
+    "Latitude": 34.1555,
+    "Longitude": -118.0862
+  },
+  {
+    "Name": null,
+    "Address1": "24043 Hawthorne Blvd",
+    "Address2": null,
+    "City": "Torrance",
+    "State": "CA",
+    "Postal": "90505",
+    "Latitude": 33.8078,
+    "Longitude": -118.348
+  },
+  {
+    "Name": null,
+    "Address1": "1645 Crenshaw Blvd",
+    "Address2": null,
+    "City": "Torrance",
+    "State": "CA",
+    "Postal": "90501",
+    "Latitude": 33.8337,
+    "Longitude": -118.314
+  },
+  {
+    "Name": null,
+    "Address1": "1700 Artesia Blvd",
+    "Address2": null,
+    "City": "Redondo Beach",
+    "State": "CA",
+    "Postal": "90278",
+    "Latitude": 33.8732,
+    "Longitude": -118.3704
+  },
+  {
+    "Name": null,
+    "Address1": "13421 Washington Blvd",
+    "Address2": null,
+    "City": "Marina Del Rey",
+    "State": "CA",
+    "Postal": "90292",
+    "Latitude": 33.9766,
+    "Longitude": -118.4552
+  },
+  {
+    "Name": null,
+    "Address1": "6819 La Tijera Blvd",
+    "Address2": null,
+    "City": "Los Angeles",
+    "State": "CA",
+    "Postal": "90045",
+    "Latitude": 33.9421,
+    "Longitude": -118.4175
+  },
+  {
+    "Name": null,
+    "Address1": "13401 Whittier Blvd",
+    "Address2": null,
+    "City": "Whittier",
+    "State": "CA",
+    "Postal": "90605",
+    "Latitude": 33.9503,
+    "Longitude": -118.0244
+  },
+  {
+    "Name": null,
+    "Address1": "5380 Sepulveda Blvd",
+    "Address2": null,
+    "City": "Culver City",
+    "State": "CA",
+    "Postal": "90230",
+    "Latitude": 33.9979,
+    "Longitude": -118.3936
+  },
+  {
+    "Name": null,
+    "Address1": "7685 Carson Blvd, Ste B",
+    "Address2": null,
+    "City": "Long Beach",
+    "State": "CA",
+    "Postal": "90808",
+    "Latitude": 33.8239,
+    "Longitude": -118.1113
+  },
+  {
+    "Name": null,
+    "Address1": "1701 Pacific Coast Hwy",
+    "Address2": null,
+    "City": "Lomita",
+    "State": "CA",
+    "Postal": "90717",
+    "Latitude": 33.7938,
+    "Longitude": -118.3172
+  },
+  {
+    "Name": null,
+    "Address1": "3402 Atlantic Avenue",
+    "Address2": null,
+    "City": "Long Beach",
+    "State": "CA",
+    "Postal": "90807",
+    "Latitude": 33.8277,
+    "Longitude": -118.1748
+  },
+  {
+    "Name": null,
+    "Address1": "3504 Central Avenue",
+    "Address2": null,
+    "City": "Riverside ",
+    "State": "CA",
+    "Postal": "92506",
+    "Latitude": 33.9343,
+    "Longitude": -117.3673
+  },
+  {
+    "Name": null,
+    "Address1": "7450 Mission Grove Pkwy South",
+    "Address2": null,
+    "City": "Riverside",
+    "State": "CA",
+    "Postal": "92508",
+    "Latitude": 33.8911,
+    "Longitude": -117.3267
+  },
+  {
+    "Name": null,
+    "Address1": "1270 E Grand Blvd",
+    "Address2": null,
+    "City": "Corona",
+    "State": "CA",
+    "Postal": "92879",
+    "Latitude": 33.8825,
+    "Longitude": -117.5282
+  },
+  {
+    "Name": null,
+    "Address1": "23165 Hemlock Avenue",
+    "Address2": null,
+    "City": "Moreno Valley",
+    "State": "CA",
+    "Postal": "92557",
+    "Latitude": 33.9722,
+    "Longitude": -117.2584
+  },
+  {
+    "Name": null,
+    "Address1": "7437 Arlington Avenue",
+    "Address2": null,
+    "City": "Riverside ",
+    "State": "CA",
+    "Postal": "92503",
+    "Latitude": 33.8825,
+    "Longitude": -117.4423
+  },
+  {
+    "Name": null,
+    "Address1": "3417 Arlington Avenue",
+    "Address2": null,
+    "City": "Riverside",
+    "State": "CA",
+    "Postal": "92506",
+    "Latitude": 33.9343,
+    "Longitude": -117.3673
+  },
+  {
+    "Name": null,
+    "Address1": "18681 Van Buren Blvd",
+    "Address2": null,
+    "City": "Riverside ",
+    "State": "CA",
+    "Postal": "92508",
+    "Latitude": 33.8911,
+    "Longitude": -117.3267
+  },
+  {
+    "Name": null,
+    "Address1": "3335 Iowa Ave",
+    "Address2": null,
+    "City": "Riverside ",
+    "State": "CA",
+    "Postal": "92507",
+    "Latitude": 33.9707,
+    "Longitude": -117.3251
+  },
+  {
+    "Name": null,
+    "Address1": "1460 E Foothill Blvd",
+    "Address2": null,
+    "City": "Upland",
+    "State": "CA",
+    "Postal": "91786",
+    "Latitude": 34.1053,
+    "Longitude": -117.662
+  },
+  {
+    "Name": null,
+    "Address1": "8122 Masi Drive",
+    "Address2": null,
+    "City": "Rancho Cucamonga",
+    "State": "CA",
+    "Postal": "91730",
+    "Latitude": 34.101,
+    "Longitude": -117.5788
+  },
+  {
+    "Name": null,
+    "Address1": "4059 N University Pkwy",
+    "Address2": null,
+    "City": "San Bernadino",
+    "State": "CA",
+    "Postal": "92407",
+    "Latitude": 34.2124,
+    "Longitude": -117.3812
+  },
+  {
+    "Name": null,
+    "Address1": "30625 Temecula Pkwy Hwy 79 S",
+    "Address2": null,
+    "City": "Temecula",
+    "State": "CA",
+    "Postal": "92592",
+    "Latitude": 33.5112,
+    "Longitude": -117.0424
+  },
+  {
+    "Name": null,
+    "Address1": "29295 Central Avenue ",
+    "Address2": null,
+    "City": "Lake Elsinore",
+    "State": "CA",
+    "Postal": "92532",
+    "Latitude": 33.6927,
+    "Longitude": -117.303
+  },
+  {
+    "Name": null,
+    "Address1": "532 W Florida Aveue",
+    "Address2": null,
+    "City": "Hemet",
+    "State": "CA",
+    "Postal": "92543",
+    "Latitude": 33.6673,
+    "Longitude": -116.9635
+  },
+  {
+    "Name": null,
+    "Address1": "14949 Bear Valley Rd  A",
+    "Address2": null,
+    "City": "Hesperia",
+    "State": "CA",
+    "Postal": "92345",
+    "Latitude": 34.3762,
+    "Longitude": -117.2944
+  },
+  {
+    "Name": null,
+    "Address1": "12055 Scripps Summit Drive",
+    "Address2": null,
+    "City": "San Diego",
+    "State": "CA",
+    "Postal": "92131",
+    "Latitude": 32.8861,
+    "Longitude": -117.086
+  },
+  {
+    "Name": null,
+    "Address1": "786 E Vista Way",
+    "Address2": null,
+    "City": "Vista ",
+    "State": "CA",
+    "Postal": "92084",
+    "Latitude": 33.2199,
+    "Longitude": -117.2026
+  },
+  {
+    "Name": null,
+    "Address1": "12120 Carmel Mountain Rd",
+    "Address2": null,
+    "City": "San Diego",
+    "State": "CA",
+    "Postal": "92128",
+    "Latitude": 32.9998,
+    "Longitude": -117.0718
+  },
+  {
+    "Name": null,
+    "Address1": "4365 Genesee Avenue",
+    "Address2": null,
+    "City": "San Diego",
+    "State": "CA",
+    "Postal": "92117",
+    "Latitude": 32.8245,
+    "Longitude": -117.1995
+  },
+  {
+    "Name": null,
+    "Address1": "3464 Midway Drive ",
+    "Address2": null,
+    "City": "San Diego",
+    "State": "CA",
+    "Postal": "92110",
+    "Latitude": 32.7652,
+    "Longitude": -117.2004
+  },
+  {
+    "Name": null,
+    "Address1": "1998 E Valley Pkwy",
+    "Address2": null,
+    "City": "Escondido",
+    "State": "CA",
+    "Postal": "92027",
+    "Latitude": 33.1312,
+    "Longitude": -116.977
+  },
+  {
+    "Name": null,
+    "Address1": "2260 Callagan Highway, Bldg 3456 NBSD",
+    "Address2": null,
+    "City": "San Diego",
+    "State": "CA",
+    "Postal": "92136",
+    "Latitude": 32.67,
+    "Longitude": -117.11
+  },
+  {
+    "Name": null,
+    "Address1": "24281 Moulton Parkway",
+    "Address2": null,
+    "City": "Laguna Woods",
+    "State": "CA",
+    "Postal": "92637",
+    "Latitude": 33.6129,
+    "Longitude": -117.7314
+  },
+  {
+    "Name": null,
+    "Address1": "34242 Doheny Park Rd",
+    "Address2": null,
+    "City": "Dana Point",
+    "State": "CA",
+    "Postal": "92624",
+    "Latitude": 33.4515,
+    "Longitude": -117.6591
+  },
+  {
+    "Name": null,
+    "Address1": "525 Avenida Pico",
+    "Address2": null,
+    "City": "San Clemente",
+    "State": "CA",
+    "Postal": "92672",
+    "Latitude": 33.4241,
+    "Longitude": -117.6068
+  },
+  {
+    "Name": null,
+    "Address1": "26921 Moulton Pkwy",
+    "Address2": null,
+    "City": "Laguna Hills",
+    "State": "CA",
+    "Postal": "92656",
+    "Latitude": 33.5762,
+    "Longitude": -117.7304
+  },
+  {
+    "Name": null,
+    "Address1": "26731 Rancho Pkwy",
+    "Address2": null,
+    "City": "Lake Forest ",
+    "State": "CA",
+    "Postal": "92630",
+    "Latitude": 33.6457,
+    "Longitude": -117.6855
+  },
+  {
+    "Name": null,
+    "Address1": "25800 Jeronimo Rd Ste 300",
+    "Address2": null,
+    "City": "Mission Viejo",
+    "State": "CA",
+    "Postal": "92691",
+    "Latitude": 33.6119,
+    "Longitude": -117.6659
+  },
+  {
+    "Name": null,
+    "Address1": "40430 Califronia Oaks Rd",
+    "Address2": null,
+    "City": "Murrietta",
+    "State": "CA",
+    "Postal": "92562",
+    "Latitude": 33.5476,
+    "Longitude": -117.344
+  },
+  {
+    "Name": null,
+    "Address1": "3599 Harbor Blvd",
+    "Address2": null,
+    "City": "Costa Mesa",
+    "State": "CA",
+    "Postal": "92626",
+    "Latitude": 33.6796,
+    "Longitude": -117.9085
+  },
+  {
+    "Name": null,
+    "Address1": "7361 Edinger Avenue",
+    "Address2": null,
+    "City": "Huntington Beach",
+    "State": "CA",
+    "Postal": "92647",
+    "Latitude": 33.7232,
+    "Longitude": -118.0087
+  },
+  {
+    "Name": null,
+    "Address1": "17511 Yorba Linda Blvd",
+    "Address2": null,
+    "City": "Yorba Linda",
+    "State": "CA",
+    "Postal": "92886",
+    "Latitude": 33.8962,
+    "Longitude": -117.7964
+  },
+  {
+    "Name": null,
+    "Address1": "12972 Newport Avenue",
+    "Address2": null,
+    "City": "Tustin",
+    "State": "CA",
+    "Postal": "92780",
+    "Latitude": 33.734,
+    "Longitude": -117.8192
+  },
+  {
+    "Name": null,
+    "Address1": "985 N Weir Canyon Blvd",
+    "Address2": null,
+    "City": "Anaheim",
+    "State": "CA",
+    "Postal": "92807",
+    "Latitude": 33.8487,
+    "Longitude": -117.7884
+  },
+  {
+    "Name": null,
+    "Address1": "2248 Harbor Blvd",
+    "Address2": null,
+    "City": "Costa Mesa",
+    "State": "CA",
+    "Postal": "92627",
+    "Latitude": 33.6477,
+    "Longitude": -117.9198
+  },
+  {
+    "Name": null,
+    "Address1": "400 E 17th St",
+    "Address2": null,
+    "City": "Costa Mesa",
+    "State": "CA",
+    "Postal": "92627",
+    "Latitude": 33.6477,
+    "Longitude": -117.9198
+  },
+  {
+    "Name": null,
+    "Address1": "3232 E Chapman Avenue",
+    "Address2": null,
+    "City": "Orange",
+    "State": "CA",
+    "Postal": "92869",
+    "Latitude": 33.8084,
+    "Longitude": -117.7917
+  },
+  {
+    "Name": null,
+    "Address1": "1875 E Thompson Blvd",
+    "Address2": null,
+    "City": "Ventura",
+    "State": "CA",
+    "Postal": "93001",
+    "Latitude": 34.0373,
+    "Longitude": -119.8008
+  },
+  {
+    "Name": null,
+    "Address1": "7981 El Cajon Boulevard",
+    "Address2": null,
+    "City": "La Mesa",
+    "State": "CA",
+    "Postal": null,
+    "Latitude": 36.9882,
+    "Longitude": -120.1166
+  },
+  {
+    "Name": null,
+    "Address1": "3543 E Anaheim St",
+    "Address2": null,
+    "City": "Long Beach",
+    "State": "CA",
+    "Postal": "90802",
+    "Latitude": 33.7458,
+    "Longitude": -118.208
+  },
+  {
+    "Name": null,
+    "Address1": "White Duck Car Wash",
+    "Address2": null,
+    "City": "540 Nashua St",
+    "State": "Milford",
+    "Postal": "NH",
+    "Latitude": 3055,
+    "Longitude": null
+  },
+  {
+    "Name": null,
+    "Address1": "White Duck Car Wash",
+    "Address2": null,
+    "City": "665 Mast Rd",
+    "State": "Manchester",
+    "Postal": "NH",
+    "Latitude": 3102,
+    "Longitude": null
+  },
+  {
+    "Name": null,
+    "Address1": "Zeeland Car Wash ",
+    "Address2": null,
+    "City": "8509 Heritage Drive ",
+    "State": "Zeeland",
+    "Postal": "MI",
+    "Latitude": 49564,
+    "Longitude": null
+  }
 ]

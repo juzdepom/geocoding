@@ -14,9 +14,19 @@
 //ashley stewart
 //bed bath
 //buy buy
-
+//calvin klein
+//christmas tree
+//dunham sports
+//famous footwear
+//khol
+//pict
+//ruby
+//tervis
+//things remember
+//valvline
 
   var urls = getURLs()
+  console.log('urls length: ', urls.length)
   // console.log(urls[0].address1, " : ", urls[0].index)
 
   function startGeocoding(){
@@ -58,22 +68,24 @@
     var array = []
     for(i=0; i<data.length;i++){
       var shop = data[i]
-      var url = "http://geocoder.maplarge.com/geocoder/json?address="
-      url += shop["Address1"]
-      url += "&city="
-      url += shop["City"]
-      url += "&state="
-      url += shop["State"]
-      url += "&zip="
-      url += shop["Postal"]
-      url += "&key=YOUR_API_KEY"
-      url = encodeURI(url)
-      var obj = {
-        url: url,
-        address1: shop["Address1"],
-        index: i
+      if(shop["Latitude"]==0||shop["Latitude"]==null){
+        var url = "http://geocoder.maplarge.com/geocoder/json?address="
+        url += shop["Address1"]
+        url += "&city="
+        url += shop["City"]
+        url += "&state="
+        url += shop["State"]
+        url += "&zip="
+        url += shop["Postal"]
+        url += "&key=YOUR_API_KEY"
+        url = encodeURI(url)
+        var obj = {
+          url: url,
+          address1: shop["Address1"],
+          index: i
+        }
+        array.push(obj)
       }
-      array.push(obj)
     }
     return array
   }
