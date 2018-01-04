@@ -12,6 +12,9 @@
 //FINISHED
 //aeropostale
 //ashley stewart
+//bed bath
+//buy buy
+
 
   var urls = getURLs()
   // console.log(urls[0].address1, " : ", urls[0].index)
@@ -20,21 +23,16 @@
     for (i=0; i<data.length; i++){
       httpGetAsync(urls[i].url, urls[i].index)
       console.log(i)
-      wait(1000)
+      wait(500)
     }
   }
 
-  function createTxtFile(content){
-  	var blob = new Blob([content], {type: "text/plain;charset=utf-8"});
+  function createTxtFile(data){
+    var str = JSON.stringify(data, null, 2);
+  	var blob = new Blob([str], {type: "text/plain;charset=utf-8"});
   	saveAs(blob, "file.txt");
   }
 
-  function turnArrayToString(array)
-  {
-    var str = JSON.stringify(array, null, 2);
-    return str
-    //usually followed by createTxtFile(str)
-   }
 
   function httpGetAsync(theUrl, index)
   {
