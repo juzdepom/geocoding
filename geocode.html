@@ -1,0 +1,28 @@
+<script type="text/javascript"
+     src="http://maps.google.com/maps/api/js?key=AIzaSyBhB8zSKD1YNa3EJLdmzQ-2xdGqhuozW6s">
+</script>
+
+<script>
+  //ADDRESS TO LONGITUDE LATITUDE
+  var geocoder = new google.maps.Geocoder();
+  var address = "1329 Arch St Berkeley CA 94708";
+  // var latlong = ",";
+
+  // geocoder.geo
+  geocoder.geocode( { 'address': address}, function(results, status) {
+    if (status == google.maps.GeocoderStatus.OK)
+    {
+        console.log("lat: " + results[0].geometry.location.lat())
+        console.log("long: " + results[0].geometry.location.lng())
+    }
+  });
+
+  //LONG LAT TO ADDRESS
+  var latlng = new google.maps.LatLng(37.8834593, -122.26478500000002);
+  geocoder.geocode( { 'latLng': latlng}, function(results, status) {
+    if (status == google.maps.GeocoderStatus.OK)
+    {
+        console.log(results[0].formatted_address)
+    }
+  });
+</script>

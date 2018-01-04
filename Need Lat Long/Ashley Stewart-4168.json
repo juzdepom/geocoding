@@ -1,0 +1,1352 @@
+[
+ {
+   "Name": "Fulton Mall",
+   "Address1": "458 Fulton Street",
+   "Address2": null,
+   "City": "Brooklyn",
+   "State": "NY",
+   "Postal": 11201,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Kings Plaza Mall",
+   "Address1": "5330 Kings Plaza; Space C4 ",
+   "Address2": null,
+   "City": "Brooklyn",
+   "State": "NY",
+   "Postal": 11234,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Grand Concourse",
+   "Address1": "2450-2458 Grand Concourse",
+   "Address2": null,
+   "City": "Bronx",
+   "State": "NY",
+   "Postal": 10458,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "West 125th Street",
+   "Address1": "216-220 W. 125th Street",
+   "Address2": null,
+   "City": "New York",
+   "State": "NY",
+   "Postal": 10027,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Union",
+   "Address1": "1721 East Morris Ave, Route 22",
+   "Address2": null,
+   "City": "Union",
+   "State": "NJ",
+   "Postal": 7083,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Bay Plaza Center",
+   "Address1": "2130 Bartow Avenue",
+   "Address2": null,
+   "City": "Bronx",
+   "State": "NY",
+   "Postal": 10475,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Southfield Road",
+   "Address1": "27821 Southfield Road",
+   "Address2": null,
+   "City": "Lathrup Village",
+   "State": "MI",
+   "Postal": 48076,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Jamaica Avenue",
+   "Address1": "165-21 Jamaica Avenue",
+   "Address2": null,
+   "City": "Jamaica",
+   "State": "NY",
+   "Postal": 11432,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Bedford Stuyvesant",
+   "Address1": "1222 Fulton Street",
+   "Address2": null,
+   "City": "Brooklyn",
+   "State": "NY",
+   "Postal": 11216,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Westview Mall",
+   "Address1": "5758 Baltimore National Pike Suite B1A",
+   "Address2": null,
+   "City": "Baltimore",
+   "State": "MD",
+   "Postal": 21228,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Pitkin Avenue",
+   "Address1": "1573 Pitkin Avenue",
+   "Address2": null,
+   "City": "Brooklyn",
+   "State": "NY",
+   "Postal": 11212,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Shoppes at 3 Corners",
+   "Address1": "8190 Kirby Drive",
+   "Address2": null,
+   "City": "Houston",
+   "State": "TX",
+   "Postal": 77054,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Marlow Heights",
+   "Address1": "4009 Branch Avenue",
+   "Address2": null,
+   "City": "Marlow Heights",
+   "State": "MD",
+   "Postal": 20748,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Marketplace- Hollywood Pa",
+   "Address1": "3501 W. Century Blvd, Suite B",
+   "Address2": null,
+   "City": "Inglewood",
+   "State": "CA",
+   "Postal": 90303,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Wheatland",
+   "Address1": "2525 W Wheatland Road Suite 238",
+   "Address2": null,
+   "City": "Dallas",
+   "State": "TX",
+   "Postal": 75237,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Green Acres Mall",
+   "Address1": "1077 Green Acres Mall",
+   "Address2": null,
+   "City": "Valley Stream",
+   "State": "NY",
+   "Postal": 11581,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "River Oaks Mall",
+   "Address1": "55 River Oaks Center, A-17",
+   "Address2": null,
+   "City": "Calumet City",
+   "State": "IL",
+   "Postal": 60409,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Cheltenham Square",
+   "Address1": "2385 Cheltenham Avenue #150",
+   "Address2": null,
+   "City": "Philadelphia",
+   "State": "PA",
+   "Postal": 19150,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Eastover Square",
+   "Address1": "5215 Indian Head Highway",
+   "Address2": null,
+   "City": "Oxon Hill",
+   "State": "MD",
+   "Postal": 20745,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Mondawmin Mall",
+   "Address1": "2301 Liberty Heights Ave Space # 2002",
+   "Address2": null,
+   "City": "Baltimore",
+   "State": "MD",
+   "Postal": 21215,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Market Street",
+   "Address1": "799-807 Broad Street",
+   "Address2": null,
+   "City": "Newark",
+   "State": "NJ",
+   "Postal": 7102,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Forest Village Park Mall",
+   "Address1": "3345 Donnell Drive, Space No. D81",
+   "Address2": null,
+   "City": "Forestville",
+   "State": "MD",
+   "Postal": 20747,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Brick Church Plaza",
+   "Address1": "14 South Harrison Street",
+   "Address2": null,
+   "City": "East Orange",
+   "State": "NJ",
+   "Postal": 7017,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Flatbush Avenue",
+   "Address1": "1000-1002 Flatbush Avenue",
+   "Address2": null,
+   "City": "Brooklyn",
+   "State": "NY",
+   "Postal": 11226,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Hammond Aire Plaza",
+   "Address1": "9620 Airline Highway #E-1&2",
+   "Address2": null,
+   "City": "Baton Rouge",
+   "State": "LA",
+   "Postal": 70815,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Dolphin Plaza",
+   "Address1": "17239 Northwest 27th Avenue",
+   "Address2": null,
+   "City": "Miami",
+   "State": "FL",
+   "Postal": 33056,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Rockaway Parkway",
+   "Address1": "1449 Rockaway Parkway",
+   "Address2": null,
+   "City": "Brooklyn",
+   "State": "NY",
+   "Postal": 11236,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Gentilly Shopping Center",
+   "Address1": "3116 Gentilly Blvd.",
+   "Address2": null,
+   "City": "New Orleans",
+   "State": "LA",
+   "Postal": 70122,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Century Plaza",
+   "Address1": "1632 Montclair Road  Suite 100",
+   "Address2": null,
+   "City": "Birmingham",
+   "State": "AL",
+   "Postal": 35210,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Chatham Square",
+   "Address1": "8658 S. Cottage Grove Ave,Space No.2 ",
+   "Address2": null,
+   "City": "Chicago",
+   "State": "IL",
+   "Postal": 60619,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Military Circle Mall",
+   "Address1": "700 N. Military Highway, Suite C",
+   "Address2": null,
+   "City": "Norfolk",
+   "State": "VA",
+   "Postal": 23502,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Boulevard at Capital Cent",
+   "Address1": "820 Capital Centre Blvd, Space 101B",
+   "Address2": null,
+   "City": "Largo",
+   "State": "MD",
+   "Postal": 20774,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Camp Creek Market Place I",
+   "Address1": "3755 Carmia Drive, Suite No. 650",
+   "Address2": null,
+   "City": "Eastpoint",
+   "State": "GA",
+   "Postal": 30344,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "The Mall at Stonecrest",
+   "Address1": "2929 Turner Hill Road #2505",
+   "Address2": null,
+   "City": "Lithonia",
+   "State": "GA",
+   "Postal": 30038,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Midtown Center",
+   "Address1": "4101 56th St, Space 19A",
+   "Address2": null,
+   "City": "Milwaukee",
+   "State": "WI",
+   "Postal": 53209,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Wilkinson Crossing",
+   "Address1": "2770 Ashley Road Space E1",
+   "Address2": null,
+   "City": "Charlotte",
+   "State": "NC",
+   "Postal": 28208,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "South Lake Centre",
+   "Address1": "35 Goodman Road, Suite J",
+   "Address2": null,
+   "City": "Southaven",
+   "State": "MS",
+   "Postal": 38671,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Ogelthorpe Mall",
+   "Address1": "7804 Abercorn Street",
+   "Address2": null,
+   "City": "Savannah",
+   "State": "GA",
+   "Postal": 31406,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "The Hub",
+   "Address1": "2899 3rd Avenue",
+   "Address2": null,
+   "City": "Bronx",
+   "State": "NY",
+   "Postal": 10455,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "St. Charles Towne Center",
+   "Address1": "11110 Mall Circle, Space No.L4",
+   "Address2": null,
+   "City": "Waldorf",
+   "State": "MD",
+   "Postal": 20603,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "BOWIE TOWN CENTER",
+   "Address1": "1506 Emerald Way",
+   "Address2": null,
+   "City": "Bowie",
+   "State": "MD",
+   "Postal": 20716,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "White Oak Village",
+   "Address1": "4501 S. Laburnum Avenue Space#120",
+   "Address2": null,
+   "City": "Richmond",
+   "State": "VA",
+   "Postal": 23231,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Ford City Mall",
+   "Address1": "7601 South Cicero-Space No.1422",
+   "Address2": null,
+   "City": "Chicago",
+   "State": "IL",
+   "Postal": 60652,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Gallery at Market East",
+   "Address1": "9th and Market Street",
+   "Address2": null,
+   "City": "Philadelphia",
+   "State": "PA",
+   "Postal": 19107,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Cumberland Mall",
+   "Address1": "1228 Cumberland Mall",
+   "Address2": null,
+   "City": "Atlanta",
+   "State": "GA",
+   "Postal": 30339,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Olney Plaza",
+   "Address1": "101 East Olney Avenue",
+   "Address2": null,
+   "City": "Philadelphia",
+   "State": "PA",
+   "Postal": 19120,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Severance Town Center",
+   "Address1": "3630 Mayfield Rd, Sp J-01",
+   "Address2": null,
+   "City": "Cleveland Heights",
+   "State": "OH",
+   "Postal": 44118,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "69th Street",
+   "Address1": "30 South 69th Street",
+   "Address2": null,
+   "City": "Upper Darby",
+   "State": "PA",
+   "Postal": 19082,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "The Crossing at Halls Fer",
+   "Address1": "10835-B-Old Halls Ferry Road",
+   "Address2": null,
+   "City": "St. Louis",
+   "State": "MO",
+   "Postal": 63136,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Compton Plaza",
+   "Address1": "127-131 East Compton Blvd",
+   "Address2": null,
+   "City": "Compton",
+   "State": "CA",
+   "Postal": 90220,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Hawthorne Plaza",
+   "Address1": "12730 Hawthorne Blvd",
+   "Address2": null,
+   "City": "Hawthorne",
+   "State": "CA",
+   "Postal": 90250,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Stony Island Plaza",
+   "Address1": "1631 East 95th Street",
+   "Address2": null,
+   "City": "Chicago",
+   "State": "IL",
+   "Postal": 60617,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "North Philadelphia Statio",
+   "Address1": "2906-08 North Broad Street",
+   "Address2": null,
+   "City": "Philadelphia",
+   "State": "PA",
+   "Postal": 19132,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Baldwin Hills Shopping Ct",
+   "Address1": "3650 M.L. King Blvd, Ste. 175",
+   "Address2": null,
+   "City": "Los Angeles",
+   "State": "CA",
+   "Postal": 90008,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Number One Marketplace",
+   "Address1": "10996 N.W. 7th Avenue",
+   "Address2": null,
+   "City": "Miami",
+   "State": "FL",
+   "Postal": 33138,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Waverly Towers",
+   "Address1": "2849 Greenmount Avenue",
+   "Address2": null,
+   "City": "Baltimore",
+   "State": "MD",
+   "Postal": 21218,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Capital Plaza",
+   "Address1": "1548 B North Olden Avenue",
+   "Address2": null,
+   "City": "Ewing",
+   "State": "NJ",
+   "Postal": 8638,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Renaissance Plaza",
+   "Address1": "49 W. 116th Street",
+   "Address2": null,
+   "City": "New York",
+   "State": "NY",
+   "Postal": 10026,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Southgate Shopping Center",
+   "Address1": "21664 Libby Road",
+   "Address2": null,
+   "City": "Maple Heights",
+   "State": "OH",
+   "Postal": 44137,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Cherry Hill Mall",
+   "Address1": "2000 Rt 38 West-Space 2179",
+   "Address2": null,
+   "City": "Cherry Hill",
+   "State": "NJ",
+   "Postal": 8002,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Pathmark Shopping Center",
+   "Address1": "134-52 Springfield Blvd",
+   "Address2": null,
+   "City": "Queens",
+   "State": "NY",
+   "Postal": 11413,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "The Hub Shopping Center",
+   "Address1": "156 Fulton Avenue",
+   "Address2": null,
+   "City": "Hempstead",
+   "State": "NY",
+   "Postal": 11550,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Governors Square",
+   "Address1": "2839 E. South Blvd",
+   "Address2": null,
+   "City": "Montgomery",
+   "State": "AL",
+   "Postal": 36116,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Augusta Exchange",
+   "Address1": "220 Robert C. Daniel Pkwy",
+   "Address2": null,
+   "City": "Augusta",
+   "State": "GA",
+   "Postal": 30909,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Eastgate Shopping Center",
+   "Address1": "5132 Park Avenue",
+   "Address2": null,
+   "City": "Memphis",
+   "State": "TN",
+   "Postal": 38117,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Cross Creek Mall",
+   "Address1": "120 Cross Creek Mall, Space TC-12",
+   "Address2": null,
+   "City": "Fayetteville",
+   "State": "NC",
+   "Postal": 28303,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "King Shopping Center",
+   "Address1": "7001 Martin Luther King Highway",
+   "Address2": null,
+   "City": "Landover",
+   "State": "MD",
+   "Postal": 20785,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Victory Crossing",
+   "Address1": "4012 Victory Boulevard Unit A",
+   "Address2": null,
+   "City": "Portsmouth",
+   "State": "VA",
+   "Postal": 23701,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Forest Park Plaza",
+   "Address1": "7610 W. Roosevelt Road Suite 103",
+   "Address2": null,
+   "City": "Forest Park",
+   "State": "IL",
+   "Postal": 60130,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "The Village Shopping Cent",
+   "Address1": "3602 Village Court; Space 174",
+   "Address2": null,
+   "City": "Gary",
+   "State": "IN",
+   "Postal": 46408,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Highland Lakes",
+   "Address1": "7461 West Colomial Drive",
+   "Address2": null,
+   "City": "Orlando",
+   "State": "FL",
+   "Postal": 32818,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "The Gallery @ Canterbury",
+   "Address1": "2935 W. 159th Street",
+   "Address2": null,
+   "City": "Markham",
+   "State": "IL",
+   "Postal": 60428,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Town & Country",
+   "Address1": "3872-3874 East Broad Street",
+   "Address2": null,
+   "City": "Whitehall",
+   "State": "OH",
+   "Postal": 43213,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Culver City",
+   "Address1": "6000 Sepulveda Blvd. Ste. 2600",
+   "Address2": null,
+   "City": "Culver City",
+   "State": "CA",
+   "Postal": 90230,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Jersey Gardens",
+   "Address1": "651 Kapkowski Rd Ste. 2430",
+   "Address2": null,
+   "City": "Elizabeth",
+   "State": "NJ",
+   "Postal": 7201,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Southway Shopping Center",
+   "Address1": "8000 South Gessner, Suite 8080",
+   "Address2": null,
+   "City": "Houston",
+   "State": "TX",
+   "Postal": 77036,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Sherman Plaza",
+   "Address1": "205 West 87th St. - Suite E.",
+   "Address2": null,
+   "City": "Chicago",
+   "State": "IL",
+   "Postal": 60620,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Quartermaster Plaza",
+   "Address1": "2350 W. Oregon Avenue",
+   "Address2": null,
+   "City": "Philadelphia",
+   "State": "PA",
+   "Postal": 19145,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "The Walk",
+   "Address1": "1927 Atlantic Avenue Space #440",
+   "Address2": null,
+   "City": "Atlantic City",
+   "State": "NJ",
+   "Postal": 8401,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Marshfield Plaza",
+   "Address1": "1700 W 119th Street",
+   "Address2": null,
+   "City": "Chicago",
+   "State": "IL",
+   "Postal": 60643,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Powell Street Plaza",
+   "Address1": "575 Christie Avenue",
+   "Address2": null,
+   "City": "Emervyille",
+   "State": "CA",
+   "Postal": 94608,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Parkwest Town Center",
+   "Address1": "1575 North 52nd Street   Suite 101",
+   "Address2": null,
+   "City": "Philadelphia",
+   "State": "PA",
+   "Postal": 19131,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Good Hope Marketplace",
+   "Address1": "2847 Alabama Avenue, S.E.",
+   "Address2": null,
+   "City": "Washington",
+   "State": "DC",
+   "Postal": 20020,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Southland Mall",
+   "Address1": "1221 Southland Mall",
+   "Address2": null,
+   "City": "Memphis",
+   "State": "TN",
+   "Postal": 38116,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "West End Mall",
+   "Address1": "805 Ralph D. Abernathy Blvd, S.W.",
+   "Address2": null,
+   "City": "Atlanta",
+   "State": "GA",
+   "Postal": 30310,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "North Riverside Park Mall",
+   "Address1": "7501 W. Cermak Road, Space K-5",
+   "Address2": null,
+   "City": "North Riverside",
+   "State": "IL",
+   "Postal": 60546,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "One Market Center",
+   "Address1": "300 Lexington Street",
+   "Address2": null,
+   "City": "Baltimore",
+   "State": "MD",
+   "Postal": 21201,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "NorthPark Shopping Center",
+   "Address1": "5858 Eastex Freeway",
+   "Address2": null,
+   "City": "Beaumont",
+   "State": "TX",
+   "Postal": 77708,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Wynnewood Village",
+   "Address1": "727 Wynnewood Village",
+   "Address2": null,
+   "City": "Dallas",
+   "State": "TX",
+   "Postal": 75224,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Eastpoint Mall",
+   "Address1": "7744 Eastpoint Mall",
+   "Address2": null,
+   "City": "Baltimore",
+   "State": "MD",
+   "Postal": 21224,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Sunny Isle Shopping Ctr.",
+   "Address1": "Queen 23 Mary Highway-Rte. 70",
+   "Address2": null,
+   "City": "St. Croix",
+   "State": "VI",
+   "Postal": 823,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Southtown Shopping Center",
+   "Address1": "3047 South Freeway",
+   "Address2": null,
+   "City": "Fort Worth",
+   "State": "TX",
+   "Postal": 76104,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Lee Harvard Shopping Cent",
+   "Address1": "4071 Lee Road, Suite No.240",
+   "Address2": null,
+   "City": "Cleveland  ",
+   "State": "OH",
+   "Postal": 44128,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Eddystone Crossings",
+   "Address1": "1554 Chester Pike-Unit E2",
+   "Address2": null,
+   "City": "Eddystone",
+   "State": "PA",
+   "Postal": 19022,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Glenwood Crossing Shoppin",
+   "Address1": "10593 Springfield Pike STE A9",
+   "Address2": null,
+   "City": "Woodlawn",
+   "State": "OH",
+   "Postal": 45215,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Ashland Avenue Plaza",
+   "Address1": "1250 S.Ashland Avenue, Space No.C3",
+   "Address2": null,
+   "City": "Chicago",
+   "State": "IL",
+   "Postal": 60607,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Greenbriar Mall",
+   "Address1": "2841 Greenbriar Parkway",
+   "Address2": null,
+   "City": "Atlanta",
+   "State": "GA",
+   "Postal": 30381,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Fayette Paviliony",
+   "Address1": "127 B Pavillion Parkway",
+   "Address2": null,
+   "City": "Fayetteville",
+   "State": "GA",
+   "Postal": 30214,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Raceway Park",
+   "Address1": "13065 South Ashland Avenue",
+   "Address2": null,
+   "City": "Calumet Park",
+   "State": "IL",
+   "Postal": 60827,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Greece Ridge Center",
+   "Address1": "271 Greece Ridge Center Drive Suite 212",
+   "Address2": null,
+   "City": "Rochester",
+   "State": "NY",
+   "Postal": 14626,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Plaza on the Boulevard",
+   "Address1": "8025 W. Florissant Avenue, Suite A",
+   "Address2": null,
+   "City": "Jennings",
+   "State": "MO",
+   "Postal": 63136,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Southland Terrace",
+   "Address1": "3943 7th St. Road",
+   "Address2": null,
+   "City": "Louisville",
+   "State": "KY",
+   "Postal": 40216,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Lamar Crossing S.C.",
+   "Address1": "2938 Lamar Avenue, Space 103",
+   "Address2": null,
+   "City": "Memphis",
+   "State": "TN",
+   "Postal": 38114,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Keystone Plaza",
+   "Address1": "2252 E. 53rd Street",
+   "Address2": null,
+   "City": "Indianapolis",
+   "State": "IN",
+   "Postal": 46220,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Frayser Village S.C.",
+   "Address1": "2582-2584 Frayser Blvd.",
+   "Address2": null,
+   "City": "Memphis",
+   "State": "TN",
+   "Postal": 38127,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "North Oaks S.C.",
+   "Address1": "4681 FM 1960 WEST, SpNo. 12",
+   "Address2": null,
+   "City": "Houston",
+   "State": "TX",
+   "Postal": 77069,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Northgate Mall",
+   "Address1": "1058 West Club Blvd, SpNo.133",
+   "Address2": null,
+   "City": "Durham",
+   "State": "NC",
+   "Postal": 27701,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "River City Marketplace",
+   "Address1": "13221 City Station Drive, Ste. 145",
+   "Address2": null,
+   "City": "Jacksonville",
+   "State": "FL",
+   "Postal": 32218,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Edgewood Towne Center",
+   "Address1": "1745 South Braddock Avenue, Space No.114",
+   "Address2": null,
+   "City": "Pittsburgh",
+   "State": "PA",
+   "Postal": 15218,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Dudley Square",
+   "Address1": "2 Warren Street",
+   "Address2": null,
+   "City": "Roxbury",
+   "State": "MA",
+   "Postal": 2119,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Chicago Building",
+   "Address1": "7 West Madison Street",
+   "Address2": null,
+   "City": "Chicago",
+   "State": "IL",
+   "Postal": 60602,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Wal Mart Supercenter",
+   "Address1": "12250 Lake June Road, No.104",
+   "Address2": null,
+   "City": "Balch Springs",
+   "State": "TX",
+   "Postal": 75180,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Fondren Southwest",
+   "Address1": "11105 Fondren Road, Unit M-01",
+   "Address2": null,
+   "City": "Houston",
+   "State": "TX",
+   "Postal": 77096,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Lauderhill Mall",
+   "Address1": "1337 Northwest 40th Avenue",
+   "Address2": null,
+   "City": "Lauderhill",
+   "State": "FL",
+   "Postal": 33313,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Security Square Mall",
+   "Address1": "Space No.229, 6901 Security Blvd",
+   "Address2": null,
+   "City": "Baltimore",
+   "State": "MD",
+   "Postal": 21244,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Grand Boulevard East",
+   "Address1": "5401 South Wentworth Ave, Suite 8",
+   "Address2": null,
+   "City": "Chicago",
+   "State": "IL",
+   "Postal": 60609,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Chicago and Kedzie Plaza",
+   "Address1": "800 North Kedzie",
+   "Address2": null,
+   "City": "Chicago",
+   "State": "IL",
+   "Postal": 60651,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Gateway Shopping Center",
+   "Address1": "5184 Norwood Avenue",
+   "Address2": null,
+   "City": "Jacksonville",
+   "State": "FL",
+   "Postal": 32208,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Beltway Plaza Shopping Ce",
+   "Address1": "6108 Greenbelt Road",
+   "Address2": null,
+   "City": "Greenbelt",
+   "State": "MD",
+   "Postal": 20770,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Dutch Square Center",
+   "Address1": "421 Bush River Road",
+   "Address2": null,
+   "City": "Columbia",
+   "State": "SC",
+   "Postal": 29210,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Crosspointe Plaza",
+   "Address1": "836 Wood Crossing Road",
+   "Address2": null,
+   "City": "Greenville",
+   "State": "SC",
+   "Postal": 29607,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Northridge Plaza Shopping",
+   "Address1": "8271 W. Brown Deer Rd",
+   "Address2": null,
+   "City": "Milwaukee",
+   "State": "WI",
+   "Postal": 53223,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Columbia Place Mall",
+   "Address1": "7201 Two Notch Road Space 632",
+   "Address2": null,
+   "City": "Columbia",
+   "State": "SC",
+   "Postal": 29223,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Richmond Town Square",
+   "Address1": "691 Richmond Road",
+   "Address2": null,
+   "City": "Richmond Hts",
+   "State": "OH",
+   "Postal": 44113,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Albany Mall",
+   "Address1": "2601 Dawson Blvd, D-12",
+   "Address2": null,
+   "City": "Albany",
+   "State": "GA",
+   "Postal": 31707,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Pyramids Village",
+   "Address1": "2101 Pyramids Village Blvd, Suite 105 B",
+   "Address2": null,
+   "City": "Greensboro",
+   "State": "NC",
+   "Postal": 27405,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Golden East Crossing",
+   "Address1": "1100 North Wesleyan Blvd-Sp 5036",
+   "Address2": null,
+   "City": "Rocky Mount",
+   "State": "NC",
+   "Postal": 27804,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Florin Towne Center",
+   "Address1": "6075 Florin Road   Suite L2",
+   "Address2": null,
+   "City": "Sacramento",
+   "State": "CA",
+   "Postal": 95823,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Hudson Mall",
+   "Address1": "Rte 440, Space No.46",
+   "Address2": null,
+   "City": "Jersey City",
+   "State": "NJ",
+   "Postal": 7304,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Northline",
+   "Address1": "4400 N. FWY Building #F Space #100",
+   "Address2": null,
+   "City": "Houston",
+   "State": "TX",
+   "Postal": 77022,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "St. Clair",
+   "Address1": "134 St. Claire Square, Space #237",
+   "Address2": null,
+   "City": "Fairview Heights",
+   "State": "IL",
+   "Postal": 62208,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Arbor Place",
+   "Address1": "6700 Douglas Boulevard Space 1250",
+   "Address2": null,
+   "City": "Douglasville",
+   "State": "GA",
+   "Postal": 30135,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Cutler Bay",
+   "Address1": "20505 South Dixie Highway, Room # 829",
+   "Address2": null,
+   "City": "Cutler Bay",
+   "State": "FL",
+   "Postal": 33189,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Willow Lawn",
+   "Address1": "1601 Willow Lawn Drive Space #835",
+   "Address2": null,
+   "City": "Richmond",
+   "State": "VA",
+   "Postal": 23230,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "Yonkers",
+   "Address1": "2468 B Central Park Avenue",
+   "Address2": null,
+   "City": "Yonkers",
+   "State": "NY",
+   "Postal": 10710,
+   "Latitude": null,
+   "Longitude": null
+ }
+]

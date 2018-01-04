@@ -1,0 +1,772 @@
+[
+ {
+   "Name": "7002 - Hyannis, MA",
+   "Address1": "655 Rte. 132",
+   "Address2": "Christmas Tree Promenade",
+   "City": "Hyannis",
+   "State": "MA",
+   "Postal": 2601,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7003 - W. Yarmouth, MA",
+   "Address1": "529 Rte. 28",
+   "Address2": null,
+   "City": "W. Yarmouth",
+   "State": "MA",
+   "Postal": 2673,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7004 - W. Dennis, MA",
+   "Address1": "425 Rte. 28",
+   "Address2": "Christmas Crossings Plaza",
+   "City": "West Dennis",
+   "State": "MA",
+   "Postal": 2670,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7005 - Falmouth, MA",
+   "Address1": "Route 28",
+   "Address2": "Falmouth Plaza\nDavis Straits",
+   "City": "Falmouth",
+   "State": "MA",
+   "Postal": 2540,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7006 - Pembroke, MA",
+   "Address1": "296 Old Oak St",
+   "Address2": "Unit 5",
+   "City": "Pembroke",
+   "State": "MA",
+   "Postal": 2359,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7007 - Orleans, MA",
+   "Address1": "Rts. 6A & 28",
+   "Address2": null,
+   "City": "Orleans",
+   "State": "MA",
+   "Postal": 2653,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7008 - Sagamore, MA",
+   "Address1": "Cranberry Highway ",
+   "Address2": "Route 6A",
+   "City": "Sagamore",
+   "State": "MA",
+   "Postal": 2561,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7009 - Newport, RI",
+   "Address1": "19 East Main Road",
+   "Address2": "Aquidneck Shopping Center",
+   "City": "Middletown",
+   "State": "RI",
+   "Postal": 2842,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7010 - Shrewsbury, MA",
+   "Address1": "1000 Boston Turnpike",
+   "Address2": "Shrewsbury Village",
+   "City": "Shrewsbury",
+   "State": "MA",
+   "Postal": 1545,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7011 - Warwick, RI",
+   "Address1": "Rt. 2  300 Quaker Lane",
+   "Address2": "Cowessett Shopping Center",
+   "City": "Warwick",
+   "State": "RI",
+   "Postal": 2886,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7012 - Avon, MA",
+   "Address1": "15 Stockwell Drive",
+   "Address2": null,
+   "City": "Avon",
+   "State": "MA",
+   "Postal": 2322,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7013 - Lynnfield, MA",
+   "Address1": "28 - 34 Broadway",
+   "Address2": "Rte. 1 South",
+   "City": "Lynnfield",
+   "State": "MA",
+   "Postal": 1940,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7014 - Manchester, CT",
+   "Address1": "120 Hale Road",
+   "Address2": null,
+   "City": "Manchester",
+   "State": "CT",
+   "Postal": 6040,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7015 - Salem, NH",
+   "Address1": "92 Cluff Crossing Rd",
+   "Address2": "Rte. 28\nRockingham Mall",
+   "City": "Salem",
+   "State": "NH",
+   "Postal": 3079,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7016 - Holyoke, MA",
+   "Address1": "50 Holyoke Street",
+   "Address2": "Mall at Ingleside",
+   "City": "Holyoke",
+   "State": "MA",
+   "Postal": 1040,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7017 - Orange, CT",
+   "Address1": "220 Indian River Road",
+   "Address2": null,
+   "City": "Orange",
+   "State": "CT",
+   "Postal": 6477,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7018 - N. Attleboro, MA",
+   "Address1": "1505 S. Washington",
+   "Address2": null,
+   "City": "North Attleboro",
+   "State": "MA",
+   "Postal": 2760,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7019 - Albany, NY",
+   "Address1": "1425 Central Ave",
+   "Address2": "Colonie Center",
+   "City": "Albany",
+   "State": "NY",
+   "Postal": 12205,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7020 - S. Portland, ME",
+   "Address1": "490 Payne Road",
+   "Address2": "Christmas Tree Shops Plaza",
+   "City": "Scarborough",
+   "State": "ME",
+   "Postal": 4074,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7021 - Danbury, CT",
+   "Address1": "15 Backus Avenue",
+   "Address2": "Danbuury Square",
+   "City": "Danbury",
+   "State": "CT",
+   "Postal": 6810,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7022 - Natick, MA",
+   "Address1": "1298 Worcester St.",
+   "Address2": "Sherwood Plaza Mall, Route 9",
+   "City": "Natick",
+   "State": "MA",
+   "Postal": 1760,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7023 - Nashua, NH",
+   "Address1": " 41 Gusabel Avenue",
+   "Address2": "Nashua Mall",
+   "City": "Nashua",
+   "State": "NH",
+   "Postal": 3063,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7024 - Spring Valley, NY",
+   "Address1": "32 Spring Valley Marketplace",
+   "Address2": null,
+   "City": "Spring Valley",
+   "State": "NY",
+   "Postal": 10977,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7025 - Syracuse, NY",
+   "Address1": "132 Northern Lights Shopping Center",
+   "Address2": null,
+   "City": "Syracuse",
+   "State": "NY",
+   "Postal": 13212,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7026 - Williston, VT",
+   "Address1": "100 Cypress St.\nMaple Tree Place",
+   "Address2": null,
+   "City": "Williston",
+   "State": "VT",
+   "Postal": 5495,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7027 - North Dartmouth, MA",
+   "Address1": "65 Faunce Corner Mall Road",
+   "Address2": "Ann & Hope Plaza",
+   "City": "North Dartmouth",
+   "State": "MA",
+   "Postal": 2747,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7028 - Somerville, MA",
+   "Address1": "177 Middlesex Avenue",
+   "Address2": "Assembly Square Mall",
+   "City": "Somerville",
+   "State": "MA",
+   "Postal": 2145,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7029 - Paramus, NJ",
+   "Address1": "300 Ikea Drive",
+   "Address2": null,
+   "City": "Paramus",
+   "State": "NJ",
+   "Postal": 7652,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7030 - Staten Island, NY",
+   "Address1": "2700 Veteran's Road West",
+   "Address2": "Charleston Shopping Center",
+   "City": "Staten Island",
+   "State": "NY",
+   "Postal": 10309,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7031 - Cherry Hill, NJ",
+   "Address1": "2130 Marlton Pike",
+   "Address2": "Garden State Plaza, Suite C",
+   "City": "Cherry Hill",
+   "State": "NJ",
+   "Postal": 8002,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7032 - Freehold, NJ",
+   "Address1": "100 Trotters Way",
+   "Address2": "Freehold Raceway mall",
+   "City": "Freehold",
+   "State": "NJ",
+   "Postal": 7728,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7-33 - Hartsdale, NY",
+   "Address1": "393 No. Central Ave.",
+   "Address2": null,
+   "City": "Hartsdale",
+   "State": "NY",
+   "Postal": 10530,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7034 - Augusta, ME",
+   "Address1": "42 Whitten Road",
+   "Address2": "Turnpike Mall",
+   "City": "Augusta",
+   "State": "ME",
+   "Postal": 4330,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7035 - Rochester, NY (Henrietta)",
+   "Address1": " 790 Jefferson Road",
+   "Address2": "Market Square\nRoute 252",
+   "City": "Rochester",
+   "State": "NY",
+   "Postal": 14623,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7036 - Montage Mtn, PA",
+   "Address1": "4001 Shoppes Blvd.",
+   "Address2": "Shoppes at Montage",
+   "City": "Moosic",
+   "State": "PA",
+   "Postal": 18507,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7037-Brick NJ",
+   "Address1": "479 Route 70 East",
+   "Address2": "Parkway 70 Plaza",
+   "City": "Brick",
+   "State": "NJ",
+   "Postal": 8723,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7038 - Wilmington, DE",
+   "Address1": "5450 Brandywine Parkway",
+   "Address2": "Brandywine Town Center",
+   "City": "Wilmington",
+   "State": "DE",
+   "Postal": 19803,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7039 - York, PA",
+   "Address1": "2935 Concord Rd.",
+   "Address2": "York Town Center",
+   "City": "York",
+   "State": "PA",
+   "Postal": 17402,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7040 - Johnson City, NY",
+   "Address1": "420 Harry L. Drive",
+   "Address2": null,
+   "City": "Johnson City",
+   "State": "NY",
+   "Postal": 13790,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7041-Poughkeepsie NY",
+   "Address1": "1895 South Road Rte. 9",
+   "Address2": "South Hills Plaza",
+   "City": "Poughkeepsie",
+   "State": "NY",
+   "Postal": 12601,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7042 - Foxborough, MA",
+   "Address1": "340 Patriot Place",
+   "Address2": "Route 1",
+   "City": "Foxboro",
+   "State": "MA",
+   "Postal": 2035,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7043 - Waterford, CT",
+   "Address1": "824 Hartford Turnpike",
+   "Address2": "Crystal Mall",
+   "City": "Waterford",
+   "State": "CT",
+   "Postal": 6385,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7044 - North Conway, NH",
+   "Address1": "1584 White Mountain Highway",
+   "Address2": "Northway Plaza",
+   "City": "North Conway",
+   "State": "NH",
+   "Postal": 3860,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7045 - Deer Park, NY",
+   "Address1": "1150 The Arches Circle",
+   "Address2": "Tanger Outlets\nat the Arches",
+   "City": "Deer Park",
+   "State": "NY",
+   "Postal": 11729,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7046-Portsmouth, NH",
+   "Address1": "100 Durgin Lane",
+   "Address2": null,
+   "City": "Portsmouth",
+   "State": "NH ",
+   "Postal": 3801,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7047-Allentown, PA",
+   "Address1": "916 Airport Center \nDrive",
+   "Address2": "Airport Center",
+   "City": "Allentown",
+   "State": "PA",
+   "Postal": 18109,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7048-Amherst NY",
+   "Address1": "1701 Niagra Falls Blvd.",
+   "Address2": "Consumer Square",
+   "City": "Amherst",
+   "State": "NY",
+   "Postal": 14228,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7049 - Harrisburg, PA",
+   "Address1": "4690 High Pointe Blvd.",
+   "Address2": null,
+   "City": "Harrisburg",
+   "State": "PA",
+   "Postal": 17111,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7050 - Downingtown, PA",
+   "Address1": "955 East Lancaster Ave.",
+   "Address2": "Ashbridge \nSquare",
+   "City": "Downingtown",
+   "State": "PA",
+   "Postal": 19335,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7052 - Hagarstown, MD",
+   "Address1": "17151 Cole Road",
+   "Address2": "Crosspoint Shopping Center",
+   "City": "Hagerstown",
+   "State": "MD",
+   "Postal": 21740,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7053-Dayton, OH",
+   "Address1": "2264 Miamisburg Centerville Road",
+   "Address2": "South Towne Center",
+   "City": "Dayton",
+   "State": "OH",
+   "Postal": 45459,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7054 - Utica, MI",
+   "Address1": "13361 Hall Road",
+   "Address2": "Shelby Corners",
+   "City": "Utica",
+   "State": "MI",
+   "Postal": 48315,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7055 - Greenwood, IN",
+   "Address1": "1230 US Hwy 31",
+   "Address2": "Greenwood\nPavilion",
+   "City": "Greenwood",
+   "State": "IN ",
+   "Postal": 46142,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7056 - Waldorf, MD",
+   "Address1": "2925 Festival Way",
+   "Address2": "Shops at Waldorf Center",
+   "City": "Waldorf",
+   "State": "MD",
+   "Postal": 20601,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7057 - Taylor, MI",
+   "Address1": "23869 Eureka Road",
+   "Address2": "The Crossings\nat Taylor",
+   "City": "Taylor",
+   "State": "MI",
+   "Postal": 48180,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7058 - Mishawaka, IN",
+   "Address1": "5851 Grape Road",
+   "Address2": "The Crossings\nMall",
+   "City": "Mishawaka",
+   "State": "IN",
+   "Postal": 46545,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7059 - Mays Landing, NJ",
+   "Address1": "230 Consumer Square",
+   "Address2": null,
+   "City": "Mays Landing",
+   "State": "NJ",
+   "Postal": 8330,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7060 - Bridgewater, NJ",
+   "Address1": "365 US Hwy 206/202\nat Rte 28 ",
+   "Address2": "Somerset \nShopping Center",
+   "City": "Bridgewater",
+   "State": "NJ",
+   "Postal": 8807,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7061-Rockaway, NJ",
+   "Address1": "327 Mount Hope Ave.",
+   "Address2": "Rockaway\nTown Square",
+   "City": "Rockaway",
+   "State": "NJ",
+   "Postal": 7866,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7062 - Florence, KY",
+   "Address1": "1336 Hansel Ave.",
+   "Address2": "Turfway Crossing",
+   "City": "Florence",
+   "State": "KY",
+   "Postal": 41042,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7063-Springfield, NJ",
+   "Address1": "350 Route 22 West",
+   "Address2": null,
+   "City": "Springfield",
+   "State": "NJ",
+   "Postal": 7081,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7064-Lancaster, PA",
+   "Address1": "2350 Lincoln Hwy East",
+   "Address2": "Mill Creek Square",
+   "City": "Lancaster",
+   "State": "PA",
+   "Postal": 17602,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7065-Addison, TX",
+   "Address1": "13900 Dallas Parkway",
+   "Address2": null,
+   "City": "Dallas",
+   "State": "TX",
+   "Postal": 75240,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7066-Greensboro, NC",
+   "Address1": "1210 Bridford Pkwy.\nEast",
+   "Address2": "Wendover Place",
+   "City": "Greensboro",
+   "State": "NC",
+   "Postal": 27407,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7067-Augusta, GA",
+   "Address1": "239 Robert C. Daniel Jr.\nPkwy",
+   "Address2": "Augusta Exchange",
+   "City": "Augusta ",
+   "State": "GA",
+   "Postal": 30909,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7068-Erie, PA",
+   "Address1": "2088 Interchange Rd.",
+   "Address2": "Millcreek\nPavilion",
+   "City": "Erie",
+   "State": "PA",
+   "Postal": 16565,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7069-Bangor, ME",
+   "Address1": "46 Springer Drive",
+   "Address2": "Christmas Tree\nShops Plaza",
+   "City": "Bangor",
+   "State": "ME",
+   "Postal": 4401,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7070-Hoover, AL",
+   "Address1": "4391 Creekside Ave.",
+   "Address2": "Patton Creek\nShopping Center",
+   "City": "Hoover",
+   "State": "AL",
+   "Postal": 35244,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7071-Middletown, NY",
+   "Address1": "1100 North Galleria Drive",
+   "Address2": null,
+   "City": "Middletown",
+   "State": "NY",
+   "Postal": 10941,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7072-Fayetteville, NC",
+   "Address1": "2053 Skibo Road",
+   "Address2": "Fayetteville\nPavilion",
+   "City": "Fayetteville",
+   "State": "NC",
+   "Postal": 28314,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7073-Greenville, SC",
+   "Address1": "1117 Woodruff Road",
+   "Address2": "Magnolia Place",
+   "City": "Greenville",
+   "State": "SC",
+   "Postal": 29607,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7074-Glen Allen, VA",
+   "Address1": "9819 West Broad St.",
+   "Address2": "Westpark\nShopping Center",
+   "City": "Glen Allen",
+   "State": "VA",
+   "Postal": 23060,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7075 -Altamonte Springs, FL",
+   "Address1": "130 E. Altamonte Dr.",
+   "Address2": "Market Place at Altamonte Shopping Center",
+   "City": "Altamonte Springs",
+   "State": "FL",
+   "Postal": 32701,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": null,
+   "Address1": null,
+   "Address2": null,
+   "City": null,
+   "State": null,
+   "Postal": null,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": "7078 - Fredericksburg, VA",
+   "Address1": "1320 Carl D. Silver\nParkway",
+   "Address2": null,
+   "City": "Fredericksburg",
+   "State": "VA",
+   "Postal": 22401,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": null,
+   "Address1": null,
+   "Address2": null,
+   "City": null,
+   "State": null,
+   "Postal": null,
+   "Latitude": null,
+   "Longitude": null
+ },
+ {
+   "Name": null,
+   "Address1": null,
+   "Address2": null,
+   "City": null,
+   "State": null,
+   "Postal": null,
+   "Latitude": null,
+   "Longitude": null
+ }
+]
