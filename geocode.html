@@ -1,28 +1,126 @@
 <script type="text/javascript"
-     src="http://maps.google.com/maps/api/js?key=AIzaSyBhB8zSKD1YNa3EJLdmzQ-2xdGqhuozW6s">
+        src="http://maps.google.com/maps/api/js?key=AIzaSyBhB8zSKD1YNa3EJLdmzQ-2xdGqhuozW6s">
 </script>
+<script type="text/javascript" src="./data.js"></script>
+
+<p>Open Console</p>
 
 <script>
-  //ADDRESS TO LONGITUDE LATITUDE
-  var geocoder = new google.maps.Geocoder();
-  var address = "1329 Arch St Berkeley CA 94708";
-  // var latlong = ",";
 
-  // geocoder.geo
-  geocoder.geocode( { 'address': address}, function(results, status) {
-    if (status == google.maps.GeocoderStatus.OK)
-    {
-        console.log("lat: " + results[0].geometry.location.lat())
-        console.log("long: " + results[0].geometry.location.lng())
+  var urls = getURLs()
+  // console.log(urls[0].address1, " : ", urls[0].index)
+
+  var coordArr = []
+
+  for (i=0; i<5; i++){
+    httpGetAsync(urls[i].url, urls[i].index)
+    wait(1000)
+  }
+
+  function httpGetAsync(theUrl, index)
+  {
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', encodeURI(theUrl));
+    xhr.onload = function() {
+        if (xhr.status === 200) {
+            var r = xhr.responseText;
+            // console.log(r)
+            var arr = JSON.parse(r)
+            data[index]["Longitude"] = arr.lng,
+            data[index]["Latitude"] = arr.lat
+            // var obj = {
+            //   "name": address1,
+            //   "lat": arr.lat,
+            //   "long": arr.lng,
+            // }
+            console.log(data[index])
+            // coordArr.push(obj)
+
+
+            // alert(lat)
+        }
+        else {
+            alert('Request failed.  Returned status of ' + xhr.status);
+        }
+    };
+    xhr.send();
+  }
+
+  function getURLs(){
+    var array = []
+    for(i=0; i<data.length;i++){
+      var shop = data[i]
+      var url = "http://geocoder.maplarge.com/geocoder/json?address="
+      url += shop["Address1"]
+      url += "&city="
+      url += shop["City"]
+      url += "&state="
+      url += shop["State"]
+      url += "&key=YOUR_API_KEY"
+      url = encodeURI(url)
+      var obj = {
+        url: url,
+        address1: shop["Address1"],
+        index: i
+      }
+      array.push(obj)
     }
-  });
+    return array
+  }
+
+  function wait(ms){
+   var start = new Date().getTime();
+   var end = start;
+   while(end < start + ms) {
+   end = new Date().getTime();
+    }
+  }
+
+
+  function insertLatLong(address, index){
+    var geocoder = new google.maps.Geocoder();
+    // var address = ;
+    // var latlong = ",";
+
+    // geocoder.geo
+    geocoder.geocode( { 'address': address}, function(results, status) {
+      if (status == google.maps.GeocoderStatus.OK)
+      {
+           var lat = results[0].geometry.location.lat()
+           var long = results[0].geometry.location.lng()
+          //  console.log(lat + " : " + long)
+           data[index]["Latitude"]=lat;
+           data[index]["Longitude"]=long;
+           console.log(data[index])
+           console.log(index)
+      }
+    });
+  }
+  //ADDRESS TO LONGITUDE LATITUDE
+  // var geocoder = new google.maps.Geocoder();
+  // var address = "1329 Arch St Berkeley CA 94708";
+  // // var latlong = ",";
+  //
+  // // geocoder.geo
+  // geocoder.geocode( { 'address': address}, function(results, status) {
+  //   if (status == google.maps.GeocoderStatus.OK)
+  //   {
+  //       console.log("lat: " + results[0].geometry.location.lat())
+  //       console.log("long: " + results[0].geometry.location.lng())
+  //   }
+  // });
 
   //LONG LAT TO ADDRESS
-  var latlng = new google.maps.LatLng(37.8834593, -122.26478500000002);
-  geocoder.geocode( { 'latLng': latlng}, function(results, status) {
-    if (status == google.maps.GeocoderStatus.OK)
-    {
-        console.log(results[0].formatted_address)
-    }
-  });
+  function returnAddress(lat, long){
+    var latlng = new google.maps.LatLng(37.8834593, -122.26478500000002);
+    geocoder.geocode( { 'latLng': latlng}, function(results, status) {
+      if (status == google.maps.GeocoderStatus.OK)
+      {
+          console.log(results[0].formatted_address)
+      }
+    });
+  }
+
+
+  // console.log(data)
 </script>
