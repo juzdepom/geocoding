@@ -2,20 +2,39 @@
         src="http://maps.google.com/maps/api/js?key=AIzaSyBhB8zSKD1YNa3EJLdmzQ-2xdGqhuozW6s">
 </script>
 <script type="text/javascript" src="./data.js"></script>
+<script type="text/javascript" src="./fileSaver.js"></script>
 
 <p>Open Console</p>
 
+
+
 <script>
+//FINISHED
+//aeropostale
+//ashley stewart
 
   var urls = getURLs()
   // console.log(urls[0].address1, " : ", urls[0].index)
 
-  var coordArr = []
-
-  for (i=0; i<5; i++){
-    httpGetAsync(urls[i].url, urls[i].index)
-    wait(1000)
+  function startGeocoding(){
+    for (i=0; i<data.length; i++){
+      httpGetAsync(urls[i].url, urls[i].index)
+      console.log(i)
+      wait(1000)
+    }
   }
+
+  function createTxtFile(content){
+  	var blob = new Blob([content], {type: "text/plain;charset=utf-8"});
+  	saveAs(blob, "file.txt");
+  }
+
+  function turnArrayToString(array)
+  {
+    var str = JSON.stringify(array, null, 2);
+    return str
+    //usually followed by createTxtFile(str)
+   }
 
   function httpGetAsync(theUrl, index)
   {
@@ -28,16 +47,7 @@
             var arr = JSON.parse(r)
             data[index]["Longitude"] = arr.lng,
             data[index]["Latitude"] = arr.lat
-            // var obj = {
-            //   "name": address1,
-            //   "lat": arr.lat,
-            //   "long": arr.lng,
-            // }
             console.log(data[index])
-            // coordArr.push(obj)
-
-
-            // alert(lat)
         }
         else {
             alert('Request failed.  Returned status of ' + xhr.status);
@@ -56,6 +66,8 @@
       url += shop["City"]
       url += "&state="
       url += shop["State"]
+      url += "&zip="
+      url += shop["Postal"]
       url += "&key=YOUR_API_KEY"
       url = encodeURI(url)
       var obj = {
